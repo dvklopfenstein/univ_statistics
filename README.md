@@ -11,3 +11,7 @@
 ## [Statistical Reasoning II by John McGready at Johns Hopkins University ](http://ocw.jhsph.edu/index.cfm/go/viewCourse/course/StatisticalReasoning2/coursePage/index/)
 
 
+# Statistics links
+
+* [Seeing Theory](https://seeing-theory.brown.edu/#firstPage) and [GitHub](https://github.com/seeingtheory/Seeing-Theory)    
+
