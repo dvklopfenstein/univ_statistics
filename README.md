@@ -1,5 +1,10 @@
 # University Statistics Courses
 
+[Estimating a P-value from a simulation](/doc/khan/ap_stats/pvals_from_sims/README.md)
+
+
+## Links
+
 * John Hopkins
 * Vy Vo Statistics
   * [Fundamentals in Statistics and Computaiton for Neuroscientists, Sprint 2016](https://www.youtube.com/playlist?list=PLgyBeNfcswrrZOcmhfchXymoGeMoEGUOX)   
