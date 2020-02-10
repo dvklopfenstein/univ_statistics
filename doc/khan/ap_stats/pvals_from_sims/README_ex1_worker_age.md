@@ -1,9 +1,13 @@
 # Example 1
 https://www.khanacademy.org/math/ap-statistics/tests-significance-ap/idea-significance-tests/e/estimating-p-values-and-making-conclusions
 
+## Question
 ![Ex1 Question](images/ex1_q.png)
+## Answer
 ![Ex1 Answer](images/ex1_a.png)
 
+## Text
+### Question
 The ages of workers in a certain industry are approximately normally distributed with a mean of 
 3030
 30
@@ -45,7 +49,7 @@ n, equals, 3
 200
  samples:
 
-
+### Answer
 Choose 1 answer:
 
 (Choice A, Incorrect)

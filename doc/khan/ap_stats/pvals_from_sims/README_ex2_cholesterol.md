@@ -1,10 +1,13 @@
 # Company personnel Cholesterol
 Test Ho: mean=4.6 mmol/L v Ha:mean<4.6 mmol/L
 
+## Question
 ![Q](images/ex2_q.png)
+## Answer
 ![A](images/ex2_a.png)
 
 ## Text
+### Question
 A nutritionist suspected that her company's clients had below average cholesterol. They obtained a random sample of 
 88
 8
@@ -104,6 +107,7 @@ x
 x, with, \bar, on top, equals, 4, point, 28, start text, space, m, m, o, l, slash, L, end text
 .
 
+### Answer
 1 / 3
 The 
 n=8n=8
