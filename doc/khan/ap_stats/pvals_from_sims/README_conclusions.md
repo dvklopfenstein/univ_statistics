@@ -15,7 +15,7 @@ this doesn't mean we accept Ho.
   * p-value < alpha => reject Ho => accept Ha
   * p-value >= alpha => fail to reject Ho
 
-## Example 1
+## [Example 1](README.md)
 Alessandra designed an experiment where subjects tasted water from four different cups and attempted to identify which cup contained bottled water. Each subject was given three cups that contained regular tap water and one cup that contained bottled water (the order was randomized). She wanted to test if the subjects could do better than simply guessing when identifying the bottled water. 
 
 Her hypotheses were:

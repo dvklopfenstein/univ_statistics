@@ -1,7 +1,7 @@
 # Company personnel Cholesterol
 Test Ho: mean=4.6 mmol/L v Ha:mean<4.6 mmol/L
 
-## Question
+## [Question](README.md)
 ![Q](images/ex2_q.png)
 ## Answer
 ![A](images/ex2_a.png)

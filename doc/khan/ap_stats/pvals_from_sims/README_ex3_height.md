@@ -1,6 +1,6 @@
 # Teenager height
 
-## Question
+## [Question](README.md)
 ![Q](images/ex3_q.png)
 ## Answer
 ![A](images/ex3_a.png)
