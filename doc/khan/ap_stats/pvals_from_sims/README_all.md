@@ -1,38 +1,47 @@
-# Example 1
+# All examples
+
+  1. [worker age]()
+  2. [cholesterol]()
+  3. [height]()
+  4. [foot length]()
+  5. [conclusions]()
+
+# Examples
+## Q1) Worker Age
 https://www.khanacademy.org/math/ap-statistics/tests-significance-ap/idea-significance-tests/e/estimating-p-values-and-making-conclusions
 
-## [Question](README.md)
+### [Question 1](README_all.md)
 ![Ex1 Question](images/ex1_q.png)
-## Answer
+### Answer
 ![Ex1 Answer](images/ex1_a.png)
 
-# Company personnel Cholesterol
+## Q2) Company personnel Cholesterol
 Test Ho: mean=4.6 mmol/L v Ha:mean<4.6 mmol/L
 
-## [Question](README.md)
+### [Question](README_all.md)
 ![Q](images/ex2_q.png)
-## Answer
+### Answer
 ![A](images/ex2_a.png)
 
 
-# Teenager height
+## Q3) Teenager height
 
-## [Question](README.md)
+### [Question](README_all.md)
 ![Q](images/ex3_q.png)
-## Answer
+### Answer
 ![A](images/ex3_a.png)
 
-# Teenager foot length
+## Q4) Teenager foot length
 
-## [Question](README.md)
+### [Question](README_all.md)
 ![Q](images/ex3_q.png)
-## Answer
+### Answer
 ![A](images/ex3_a.png)
 
-# Using P-values to make conclusions
+## 5) Using P-values to make conclusions
 https://www.khanacademy.org/math/ap-statistics/tests-significance-ap/idea-significance-tests/a/p-value-conclusions
 
-## Comparing pvalues to significance level, alpha
+### Comparing pvalues to significance level, alpha
 we compare the p-value to a significance level α to make conclusions about our hypotheses.
 
 If the p-value is lower than the significance level we chose,
@@ -46,7 +55,7 @@ this doesn't mean we accept Ho.
   * p-value < alpha => reject Ho => accept Ha
   * p-value >= alpha => fail to reject Ho
 
-## [Example 1](README.md)
+### [Example 1](README.md)
 Alessandra designed an experiment where subjects tasted water from four different cups and attempted to identify which cup contained bottled water. Each subject was given three cups that contained regular tap water and one cup that contained bottled water (the order was randomized). She wanted to test if the subjects could do better than simply guessing when identifying the bottled water. 
 
 Her hypotheses were:
@@ -58,36 +67,36 @@ The experiment showed that 20 of the 60 subjects correctly identified the bottle
 Alessandra calculated that the true likelihood statistic *p_hat* = 20/60 = 0.3333
 had an associated P-value of approximately 0.068
 
-### What conclusion should be made using a significance level of alpha = 0.05?
+#### What conclusion should be made using a significance level of alpha = 0.05?
   * Fail to reject Ho
   * Reject Ho and accept Ha
   * Accept Ha
 
-#### Fail to reject Ho
+##### Fail to reject Ho
 **CORRECT**: Since the p-value of 0.068 is greater than alpha = 0.05, we should fail to reject Ho.
 
-#### Reject Ho and accept Ha
+##### Reject Ho and accept Ha
 We should only reject Ho if the pvalue is less than the significancne level, alpha, and this pvalue is greater than alpha (0.068 > 0.05)
 
-#### Accept Ho
+##### Accept Ho
 We should never accept the null hypothesis Ho in our conclusion of a significance test.
 
-### What does this conclusion say?
+#### What does this conclusion say?
   * N: The evidence suggests that these subjects can do better than guessing when identifying the bottled water.
   * Y: We don't have enough evidence to say that these subjects can do better than guessing when identifying the bottled water.
   * N: The evidence suggests that these subjects were simply guessing when identifying the bottled water.
 
-#### N: Subjects know which is bottled water
+##### N: Subjects know which is bottled water
 The evidence suggests that these subjects can do better than guessing when identifying the bottled water.
 
 This is the conclusion we would make if our pval was low enough to reject Ho and accept Ha:  p > 0.25, but we failed to reject Ho.
 
-#### Y: Not enough evidence
+##### Y: Not enough evidence
 We don't have enough evidence to say that these subjects can do better than guessing when identifying the bottled water.
 
 The null hypothesis Ho: p=0.25 says their likelihood is no better than guessing, ans we failed to reject the null hypothesis.
 
-#### N: They are just guessing
+##### N: They are just guessing
 The evidence suggests that these subjects were simply guessing when identifying the bottled water.
 
 There wasn't enough evidence to reject Ho at this significance level, 
