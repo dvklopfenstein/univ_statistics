@@ -1,16 +1,22 @@
 # All examples
+https://www.khanacademy.org/math/ap-statistics/tests-significance-ap/idea-significance-tests/e/estimating-p-values-and-making-conclusions
 
-  1. [worker age]()
-  2. [cholesterol]()
-  3. [height]()
-  4. [foot length]()
-  5. [conclusions]()
+  1. [worker age](#q1-worker-age)
+  2. [cholesterol](#q2-company-personnel-cholesterol)
+  3. [height](#q3-teenager-height)
+  4. [foot length](#q4-teenager-foot-length)
+  5. [conclusions](#5-using-p-values-to-make-conclusions)
 
 # Examples
 ## Q1) Worker Age
-https://www.khanacademy.org/math/ap-statistics/tests-significance-ap/idea-significance-tests/e/estimating-p-values-and-making-conclusions
+The ages of workers ina certain industry are apporximately normally distributed
+with a mean of 30 years and a standard deviation of 3.5 years.
 
-### [Question 1](README_all.md)
+A recruiter wondered if that held true for workers in a certain state.
+The recruiter took a random sample of n=3 of these workers from the state,
+and the mean age of the workers in the samople was 26 years.
+
+### [Question](README_all.md)
 ![Ex1 Question](images/ex1_q.png)
 ### Answer
 ![Ex1 Answer](images/ex1_a.png)
