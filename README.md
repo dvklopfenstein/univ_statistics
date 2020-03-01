@@ -11,6 +11,7 @@
 * [Theoretical and Computational Neuroscience 2](https://www.youtube.com/watch?v=n6q-okCCvcs)
 
 ## John Hopkins
+A [**Flowchart**](doc/README_flowchart.md) to aid in choosing correct statistical procedure
 
 ### [Statistical Reasoning I by John McGready at Johns Hopkins University ](http://ocw.jhsph.edu/index.cfm/go/viewCourse/course/StatisticalReasoning1/coursePage/index/)
 
