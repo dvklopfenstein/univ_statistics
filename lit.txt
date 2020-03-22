@@ -1,0 +1,21 @@
+TOP 2016 27281180 .. .....    14  0   3 au[06](Robert E Kass) Ten Simple Rules for Effective Statistical Practice. Kass_2016
+9 of 14 citations downloaded:
+CIT 2018 29844961 RP .....    51  0  27 au[09](Xavier A Harrison) A brief introduction to mixed effects modelling and multi-model inference in ecology.
+CIT 2017 28620458 .. H....    22  0  33 au[03](Leonard P Freedman) Reproducibility2020: Progress and priorities.
+CIT 2017 29629393 R. ....c    17  1  89 au[05](Ricardo Chavarriaga) Heading for new shores! Overcoming pitfalls in BCI design.
+CIT 2017 28439179 .. H....    15  0  66 au[11](Xinzhi Zhang) Big Data Science: Opportunities and Challenges to Address Minority Health and Health Disparities in the 21st Century.
+CIT 2017 28420797 .. H...c     8  1  11 au[02](Emery N Brown) Controversy in statistical analysis of functional magnetic resonance imaging data.
+CIT 2019 31043463 R. H....     3  0  53 au[02](Pablo A Iturralde) Corrective Muscle Activity Reveals Subject-Specific Sensorimotor Recalibration.
+CIT 2018 30465718 RP H....     2  0  22 au[05](Karl E Peace) A Serious Flaw in Nutrition Epidemiology: A Meta-Analysis Study.
+CIT 2017 29152523 R. .....     2  0 210 au[30](Jane E Huggins) Workshops of the Sixth International Brain-Computer Interface Meeting: brain-computer interfaces past, present, and future.
+CIT 2017 28679565 .. H....     1  0  18 au[01](Douglas Curran-Everett) Small steps to help improve the caliber of the reporting of statistics.
+CIT 2019 31815929 R. ..M..     0  0  18 au[03](Tuure Hameri) Statistical inference in ensemble modeling of cellular metabolism.
+CIT 2019 31856181 R. .....     0  0  36 au[04](Vincent Miele) Nine quick tips for analyzing network data.
+CIT 2018 30307934 .P H....     0  0  34 au[02](Lars Ole Schwen) Ten quick tips for getting the most scientific value out of numerical data.
+CIT 2017 28125123 R. H....     0  0   7 au[05](Raphael de Freitas Saldanha) [Proposal for an epidemiological observatory in the Brazilian Unified National Health System].
+CIT 2017 28231039 R. .....     0  0   2 au[02](Jonathan R Brown) Editorial Management: Clinical Research Papers and Science Research Papers.
+3 of 3 References downloaded:
+REF 2016 26961635 .. H...c    34  1   1 au[01](Monya Baker) Statisticians issue warning over misuse of P values.
+REF 2014 24763340 .. .....    25  0   5 au[15](Alyssa Goodman) Ten simple rules for the care and feeding of scientific data.
+REF 2014 25340653 .. H....     6  0   0 au[03](Harriet Dashnow) Ten simple rules for writing a PLOS ten simple rules article.
+
