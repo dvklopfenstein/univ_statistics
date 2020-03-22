@@ -5,9 +5,9 @@ git_add:
 	git add pubs/meta/*.yaml
 	git add pubs/notes/*.txt
 	# git add pubs/doc/*.pdf
-	# git add log/exports/*.html
-	# git add log/references/*.txt
-	# git add src/papers/highlights/*.py
+	git add log/exports/*.html
+	git add log/references/*.txt
+	git add src/papers/highlights/*.py
 	# git add src/papers/flashcards/*.py
 	git add doc/papers/*.pdf
 	git status

@@ -1,0 +1,52 @@
+TOP 2018 29189214 RP H....     7  0  15 au[02](Thomas R Vetter) Unadjusted Bivariate Two-Group Comparisons: When Simpler is Better.
+
+TOP 2019 31053082 R. H..C.     1  0  12 au[08](Kamal Maheshwari) Hypotension Prediction Index software for management of hypotension during moderate- to high-risk noncardiac surgery: protocol for a randomized trial.
+
+TOP 2018 30602637 RP H..C.     0  0   0 au[03](Akinwale O Akinbade) Comparative Analgesic Effects of Ibuprofen, Celecoxib and Tramadol after third Molar Surgery: A Randomized Double Blind Controlled Trial.
+
+TOP 2018 30325784 RP H....     0  0   0 au[03](Vaneesha Vallabh-Patel) Indwelling Versus Immediate Removal of Transurethral Catheter After Robotic Sacrocolpopexy: A Randomized Clinical Trial.
+
+TOP 2018 29077583 RP .AM..     8  0  31 au[05](Olivia R Shull) Phenotypic Characterization of Corneal Endothelial Dystrophy in German Shorthaired and Wirehaired Pointers Using In Vivo Advanced Corneal Imaging and Histopathology.
+
+TOP 2019 31262568 R. H....     1  0   0 au[07](Jennifer Colvin) Enhanced recovery after surgery pathway for patients undergoing abdominal wall reconstruction.
+
+TOP 2011 22047195 .. H....     4  0   5 au[04](Robert M Flikkema) Principles of statistics in surgery.
+
+TOP 2016 27243139 R. H...c     6  1  18 au[05](Lindsay M Kuroki) See-and-Treat Loop Electrosurgical Excision Procedure for High-Grade Cervical Cytology: Are We Overtreating?
+
+TOP 2017 29167147 R. H....     1  0  12 au[04](Bryan C McCarthy) Medication errors resulting in harm: Using chargemaster data to determine association with cost of hospitalization and length of stay.
+
+TOP 2019 31300576 R. H....     0  0   0 au[04](Natalia P Arizmendez) Multimodal Local Opioid Prescribing Intervention Outcomes in Chronic Noncancer Pain Management.
+
+TOP 1999 10052370 .. H...c   102  7  13 au[03](A Roychoudhury) Functional restoration by gap arthroplasty in temporomandibular joint ankylosis: a report of 50 cases.
+1 of 102 citations downloaded:
+CIT 2014 25315308 R. H...c     7  1  25 au[04](Krushna Bhatt) Functional outcomes of gap and interposition arthroplasty in the treatment of temporomandibular joint ankylosis.
+
+TOP 2020 31944354 R. .....     0  0  73 au[05](Adrian Balica) A Bibliometric Analysis of Citation Classics in the Journal of Ultrasound in Medicine.
+
+TOP 1983  6348102 R. H..Cc    54  6  21 au[03](A D Haffajee) Comparison of statistical methods of analysis of data from clinical periodontal trials.
+
+TOP 2001 11470994 R. HAM.c    53  3  38 au[06](A Wennerholm) Characterization of the CYP2D6*29 allele commonly present in a black Tanzanian population causing reduced catalytic activity.
+
+TOP 2015 26014315 R. H....     2  0  20 au[05](Gaea S Moore) Fetal weight estimation in diabetic pregnancies using the gestation-adjusted projection method: comparison of two timing strategies for third-trimester sonography.
+
+TOP 2012 22763903 R. H..Cc    56 18  23 au[10](Pernille Lykke Petersen) The beneficial effect of transversus abdominis plane block after laparoscopic cholecystectomy in day-case surgery: a randomized clinical trial.
+
+TOP 2011 21716182 R. H...c    43  8   0 au[05](Barbara Bukowicka) The occurrence of postreperfusion syndrome in orthotopic liver transplantation and its significance in terms of complications and short-term survival.
+
+TOP 2008 18707698 R. H...c    30  2  15 au[04](Rebecca Braunstein) The role of cystoscopy in the diagnosis of Hunner's ulcer disease.
+
+TOP 2012 23022249 R. H....     1  0  13 au[04](Erica L McBride) Long-term follow-up of endovascular abdominal aortic aneurysm repair in a rural veteran patient population.
+
+TOP 2014 25834764 R. H....     4  0  80 au[11](Robert M Post) Illness progression as a function of independent and accumulating poor prognosis factors in outpatients with bipolar disorder in the United States.
+
+TOP 2020 31633573 R. H....     0  0  18 au[08](Kirsi Härmä) Cloverleaf Sign in Pelvic Magnetic Resonance Imaging for Deep Infiltrating Endometriosis: Association With Longer Operation Times, Greater Blood Loss, and Higher Rates of Bowel Resection.
+
+TOP 2009 19256257 R. H....     0  0   0 au[02](A N Kulikova) [Hemorheologic disturbances in patients with obliterative atherosclerosis of peripheral arteries and type 2 diabetes mellitus].
+
+TOP 2011 21163493 R. H....     5  0  12 au[03](Shamim Nemati) T-wave alternans patterns during sleep in healthy, cardiac disease, and sleep apnea patients.
+
+TOP 2009 19546830 R. H...c     8  1  16 au[05](Marco Antonio Ayala) Laryngeal mask airway use in otologic surgery.
+
+TOP 1999  9867886 R. H....     4  0   7 au[05](D R Johnson) A new approach to teaching prehospital trauma care to paramedic students.
+

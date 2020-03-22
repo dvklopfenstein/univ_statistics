@@ -1,0 +1,1405 @@
+TOP 2017 26370109 R. H...c     7  1  17 au[10](Atija Kapidzic) Attendance and diagnostic yield of repeated two-sample faecal immunochemical test screening for colorectal cancer.
+
+TOP 2019 30602164 R. H....     0  0   0 au[16](Jacqueline Feinberg) Ten-Year Comparison Study of Type 1 and 2 Endometrial Cancers: Risk Factors and Outcomes.
+
+TOP 2014 25360016 R. H....    45  0   3 au[04](Colm O'Muircheartaigh) Sample design, sample augmentation, and estimation for Wave 2 of the NSHAP.
+
+TOP 2018 30412077 RP H..C.     0  0  29 au[03](Xuejiang Du) The effect of dexmedetomidine on the perioperative hemodynamics and postoperative cognitive function of elderly patients with hypertension: Study protocol for a randomized controlled trial.
+
+TOP 2013 23863760 R. H...c   142  7  11 au[02](Brandon L Pierce) Efficient design for Mendelian randomization studies: subsample and 2-sample instrumental variable estimators.
+
+TOP 2018 29189214 RP H....     7  0  15 au[02](Thomas R Vetter) Unadjusted Bivariate Two-Group Comparisons: When Simpler is Better.
+
+TOP 2018 29596127 RP H..C.     0  0  21 au[02](Selda Rızalar) Effect of Early Postoperative Feeding on the Recovery of Children Post Appendectomy.
+
+TOP 2019 30762770 R. H..C.     1  0  33 au[17](Hai Lu) Efficacy and mechanism of acupuncture for ischemic poststroke depression: Study protocol for a multicenter single-blinded randomized sham-controlled trial.
+
+TOP 2016 26961927 R. H...c    83  4  70 au[06](Philip C Haycock) Best (but oft-forgotten) practices: the design, analysis, and interpretation of Mendelian randomization studies.
+1 of 70 References downloaded:
+REF 2013 23863760 R. H...c   142  7  11 au[02](Brandon L Pierce) Efficient design for Mendelian randomization studies: subsample and 2-sample instrumental variable estimators.
+
+TOP 2018 29714555 RP ..M..     1  0   1 au[01](Thomas Hoffelder) Comparison of Dissolution Profiles: A Statistician's Perspective.
+
+TOP 2018 29703672 RP H....     2  0   0 au[06](Isil Gürdal) Color change of CAD-CAM materials and composite resin cements after thermocycling.
+
+TOP 2018 30697287 RP H....     0  0  22 au[01](Gokhan Cakirca) The Evaluation of Error Types and Turnaround Time of Preanalytical Phase in Biochemistry and Hematology Laboratories.
+
+TOP 2018 29282764 RP H....     0  0  19 au[03](Qing Yang) Sample size determination for jointly testing a cause-specific hazard and the all-cause hazard in the presence of competing risks.
+
+TOP 2018 28754456 RP H...c    21  1  27 au[04](Matthew B Lanktree) HDL Cholesterol, LDL Cholesterol, and Triglycerides as Risk Factors for CKD: A Mendelian Randomization Study.
+
+TOP 2019 31145335 R. H....     0  0  23 au[06](Hsuan-Hui Wang) The alteration of ferritin and transferrin saturation under body mass index and blood pressure in first-time and regular male blood donors in Taiwan.
+
+TOP 2017 28685497 R. H....     0  0  11 au[01](Jonathan J Shuster) Linear combinations come alive in crossover designs.
+
+TOP 2018 29337006 RP H....     2  0  48 au[05](Jillian F Ziemanski) Relation Between Dietary Essential Fatty Acid Intake and Dry Eye Disease and Meibomian Gland Dysfunction in Postmenopausal Women.
+
+TOP 2018 30322890 RP .A...     2  0  16 au[04](Taichi Hatakeyama) Temporal order memory of the rat in spontaneous object recognition: effects of number of items, exposure interval, and retention time.
+
+TOP 2018 28326605 RP H....     3  0  23 au[04](Ken Laidlaw) Development of a short form of the Attitudes to Ageing Questionnaire (AAQ).
+
+TOP 2018 28777889 RP H....     2  0  24 au[03](Irina Zvereva) Determination of GnRH and its synthetic analogues' abuse in doping control: Small bioactive peptide UPLC-MS/MS method extension by addition of in vitro and in vivo metabolism data; evaluation of LH and steroid profile parameter fluctuations as suitable biomarkers.
+
+TOP 2019 30684229 R. .....     1  0   3 au[02](Julie Lorah) Value of sample size for computation of the Bayesian information criterion (BIC) in multilevel modeling.
+
+TOP 2018 30602637 RP H..C.     0  0   0 au[03](Akinwale O Akinbade) Comparative Analgesic Effects of Ibuprofen, Celecoxib and Tramadol after third Molar Surgery: A Randomized Double Blind Controlled Trial.
+
+TOP 2018 29244257 RP .A...     0  0  10 au[04](Camilla A Jamieson) Normal reference intervals and the effects of sample handling on dynamic viscoelastic coagulometry (Sonoclot) in healthy adult horses.
+
+TOP 2019 31563557 R. .....     0  0   0 au[06](E Wieten) A Quarter of Participants With Advanced Neoplasia Have Discordant Results From 2-Sample Fecal Immunochemical Tests for Colorectal Cancer Screening.
+
+TOP 2014 24192452 R. H...c    24  4  24 au[09](Karima Addetia) Sample size and cost analysis for pulmonary arterial hypertension drug trials using various imaging modalities to assess right ventricular size and function end points.
+
+TOP 2015 25829879 R. H...c    23  2  34 au[06](Sherry S Chesak) Enhancing resilience among new nurses: feasibility and efficacy of a pilot intervention.
+
+TOP 2017 28567427 .. H....    10  0  27 au[04](Antonios N Varelas) Medial Collateral Ligament Reconstruction in Patients With Medial Knee Instability: A Systematic Review.
+
+TOP 2018 28988000 RP H....     0  0  41 au[04](Teresa Buccheri) Development and assessment of stressful life events subscales - A preliminary analysis.
+
+TOP 2018 30284505 RP .AM..     0  0  14 au[10](Ashley C Weiser) Effects of sample handling on the detection of porcine reproductive and respiratory syndrome virus in oral fluids by reverse-transcription real-time PCR.
+
+TOP 2015 24976065 R. H....     8  0  15 au[04](Andrew Elliot) Potential-based achievement goals.
+
+TOP 2020 31780129 R. H....     0  0   0 au[08](Heli Sun) The causal relationships of device-measured physical activity with bipolar disorder and schizophrenia in adults: A 2-Sample mendelian randomization study.
+
+TOP 2018 28689906 RP H....    10  0  40 au[05](Jung-Hwa Lim) Comparison of digital intraoral scanner reproducibility and image trueness considering repetitive experience.
+
+TOP 2018 29562060 RP H....     6  0  35 au[03](Henry L Nguyen) Vascular Malformations and Health-Related Quality of Life: A Systematic Review and Meta-analysis.
+
+TOP 2015 26409807 R. H...c     5  1  31 au[04](Pierre Wohlgemuth) Effectiveness of the GentleWave System in Removing Separated Instruments.
+
+TOP 2018 30090830 RP H....     2  0  27 au[05](Neil S Kumar) Is Edema at the Posterior Medial Tibial Plateau Indicative of a Ramp Lesion? An Examination of 307 Patients With Anterior Cruciate Ligament Reconstruction and Medial Meniscal Tears.
+
+TOP 2017 29094155 .. H....     2  0   0 au[03](Enda M Byrne) Inference in Psychiatry via 2-Sample Mendelian Randomization-From Association to Causal Pathway?
+
+TOP 2019 31204093 R. HAM..     0  0   0 au[03](Emily Klann) Evaluating differences in tuberculosis and nontuberculous mycobacterial lung disease in Florida.
+
+TOP 2019 31314116 R. H....     0  0  19 au[08](Harriet Smith) Pharmacist Compliance With Therapeutic Guidelines on Diagnosis and Treatment Provision.
+
+TOP 2011 21185397 R. H...c    50 10  18 au[14](Aafke H C van Roon) Diagnostic yield improves with collection of 2 samples in fecal immunochemical test screening without affecting attendance.
+1 of 50 citations downloaded:
+CIT 2017 26370109 R. H...c     7  1  17 au[10](Atija Kapidzic) Attendance and diagnostic yield of repeated two-sample faecal immunochemical test screening for colorectal cancer.
+
+TOP 2019 31506951 R. H....     0  0  23 au[01](Brian Goesling) A Practical Guide to Cluster Randomized Trials in School Health Research.
+
+TOP 2019 30924303 R. H....     1  0  29 au[01](Young Ho Lee) Gout and the risk of Alzheimer's disease: A Mendelian randomization study.
+1 of 29 References downloaded:
+REF 2013 23863760 R. H...c   142  7  11 au[02](Brandon L Pierce) Efficient design for Mendelian randomization studies: subsample and 2-sample instrumental variable estimators.
+
+TOP 2018 29325660 RP H..C.     4  0   0 au[06](Josefa L Martinez-Brockman) Impact of the Lactation Advice Through Texting Can Help (LATCH) Trial on Time to First Contact and Exclusive Breastfeeding among WIC Participants.
+
+TOP 2016 27240170 R. H....     2  0   0 au[05](Kennet Mariano Carabante) Analysis of Duplicated Multiple-Samples Rank Data Using the Mack-Skillings Test.
+
+TOP 2019 31053082 R. H..C.     1  0  12 au[08](Kamal Maheshwari) Hypotension Prediction Index software for management of hypotension during moderate- to high-risk noncardiac surgery: protocol for a randomized trial.
+
+TOP 2014 24581261 .. H....    16  0  19 au[08](Joshua D Harris) Current status of evidence-based sports medicine.
+
+TOP 2014 25080874 R. H...c    37 10  25 au[06](Regina Rendas-Baum) Validation of the Headache Impact Test (HIT-6) in patients with chronic migraine.
+
+TOP 2018 29870298 RP H....     0  0  22 au[05](Andrew C Prince) Utility of the Surgical Apgar Score in Head and Neck Squamous Cell Carcinoma.
+
+TOP 2018 29750778 RP H....     5  0  22 au[04](Xue-Ping Ma) Correlations Between mRNA Levels of Centrosomal Protein 55 (CEP55) and Clinical Features of Patients with Lung Cancer.
+
+TOP 2018 30325784 RP H....     0  0   0 au[03](Vaneesha Vallabh-Patel) Indwelling Versus Immediate Removal of Transurethral Catheter After Robotic Sacrocolpopexy: A Randomized Clinical Trial.
+
+TOP 2015 25305261 R. H...c     8  1  17 au[05](Elizabeth Eom) Sexual harassment in middle and high school children and effects on physical and mental health.
+
+TOP 2019 31681097 R. H....     0  0  13 au[03](Zheng Luo) Academic Interest Scale for Adolescents: Development, Validation, and Measurement Invariance With Chinese Students.
+
+TOP 2019 30762653 R. H....     0  0  19 au[06](Yixing Yu) Spectral Computed Tomography Imaging in the Differential Diagnosis of Lung Cancer and Inflammatory Myofibroblastic Tumor.
+
+TOP 2018 30211546 RP ..M..     0  0   0 au[06](Man Gao) Porous Anatase-TiO 2 (B) Dual-Phase Nanorods Prepared from in Situ Pyrolysis of a Single Molecule Precursor Offer High Performance Lithium-Ion Storage.
+
+TOP 2018 29077583 RP .AM..     8  0  31 au[05](Olivia R Shull) Phenotypic Characterization of Corneal Endothelial Dystrophy in German Shorthaired and Wirehaired Pointers Using In Vivo Advanced Corneal Imaging and Histopathology.
+
+TOP 2018 29380133 RP H....     2  0  24 au[02](Hans Andrews) Non-urgent use of emergency departments: populations most likely to overestimate illness severity.
+
+TOP 2007 17569971 R. H....    30  0  27 au[03](R G Steen) Measuring brain volume by MR imaging: impact of measurement precision and natural variation on sample size requirements.
+
+TOP 2019 31516664 R. H....     0  0  12 au[03](Michele Cassetta) Miniscrew-supported distal jet versus conventional distal jet appliance: A pilot study.
+
+TOP 2019 30816814 R. H....     0  0  15 au[07](Lynn M Neilson) Identifying Outcome Measures for Type 2 Diabetes Value-Based Contracting Using the Delphi Method.
+
+TOP 2019 31606354 R. H....     0  0  38 au[05](Han-Su Baek) Brain Morphological Changes With Functional Deficit Associated With Sexual Arousal in Postmenopausal Women.
+
+TOP 2017 29118895 R. H.M..     1  0  29 au[06](Matthew R Zeiderman) Reduction Mammoplasty: Intraoperative Weight Versus Pathology Weight and Its Implications.
+
+TOP 2019 31276026 R. .AM..     0  0  37 au[16](Dean A Fergusson) Assessing the Completeness of Reporting in Preclinical Oncolytic Virus Therapy Studies.
+
+TOP 2018 29624150 RP H....     0  0  35 au[07](Sara C LaHue) Frequency and characteristics associated with inherited thrombophilia in patients with intracranial dural arteriovenous fistula.
+
+TOP 2018 28939425 RP H...c     3  1  40 au[05](Gabriela Lopes Santos) Kinematic Analysis of a Drinking Task in Chronic Hemiparetic Patients Using Features Analysis and Statistical Parametric Mapping.
+
+TOP 2019 31124947 R. H..C.     0  0  14 au[06](Seungwon Shin) Feasibility and effectiveness assessment of a mobile application for subhealth management: Study protocol for a randomized controlled trial.
+
+TOP 2019 31555820 R. H....     1  0  32 au[12](Yuhao Huang) Anatomic and Thermometric Analysis of Cranial Nerve Palsy after Laser Amygdalohippocampotomy for Mesial Temporal Lobe Epilepsy.
+
+TOP 2019 31587899 R. H....     0  0   0 au[05](Ann Wilson) Shift-Based Emotional Stress Reactions in Emergency Nurses After Traumatizing Events.
+
+TOP 2014 25004627 R. H.M..     3  0   0 au[01](Katarzyna Pancer) Patients' age and the dynamics of IgM for L. pneumophila sg1.
+
+TOP 2018 28742606 RP H..C.     0  0  19 au[06](Benjamin V Bring) Functional Movement Screening and Injury Rates in High School and Collegiate Runners: A Retrospective Analysis of 3 Prospective Observational Studies.
+
+TOP 2019 30415832 R. H....     3  0   0 au[06](Brian Darrith) Inpatient Versus Outpatient Arthroplasty: A Single-Surgeon, Matched Cohort Analysis of 90-Day Complications.
+
+TOP 2019 30558984 R. H.MC.     1  0   0 au[05](Claudia Berrondo) Antibiotic prophylaxis at the time of catheter removal after radical prostatectomy: A prospective randomized clinical trial.
+
+TOP 2016 27492107 R. .A...     4  0  22 au[05](Jack Li) Evaluation of long-term biocompatibility and capsular bag opacification with a new silicone-polyimide plate-type intraocular lens in the rabbit model.
+
+TOP 2009 19000230 R. H.M..    40  0  11 au[09](Azzedine Assal) Comparison of the analytical and operational performance of two viral nucleic acid test blood screening systems: Procleix Tigris and cobas s 201.
+
+TOP 2017 28576594 R. H...c     4  1  20 au[05](Sandra Garcia) Time and Effort Required for Tissue Acquisition and Submission in Lung Cancer Clinical Trials.
+
+TOP 2016 27020253 R. H....     2  0  20 au[03](Larson D Hsu) Characterization of Adrenal Adenoma by Gaussian Model-Based Algorithm.
+
+TOP 2019 30249521 R. HA...     1  0   0 au[05](Gaelen Ritter) An Assessment of Perceived Barriers to Farmers' Market Access.
+
+TOP 2018 28632577 RP H....     0  0  10 au[04](Donna Milner) Outcome of Pediatric Forearm Fracture Reductions Performed by Pediatric Emergency Medicine Providers Compared With Reductions Performed by Orthopedic Surgeons: A Retrospective Cohort Study.
+
+TOP 2004 15659022 R. .A.Cc    27  8  53 au[05](Aymeric J Deneuche) Analgesic comparison of meloxicam or ketoprofen for orthopedic surgery in dogs.
+
+TOP 2019 31555714 R. H.M..     0  0  36 au[04](Vegard Fossum) Collagen-Covered Autologous Chondrocyte Implantation Versus Autologous Matrix-Induced Chondrogenesis: A Randomized Trial Comparing 2 Methods for Repair of Cartilage Defects of the Knee.
+
+TOP 2017 29357210 R. H.M..     0  0   0 au[03](Kushal Patel) Risk Factors Associated With Carbapenem-Resistant <i>Pseudomonas aeruginosa</i>.
+
+TOP 2017 29156903 R. H..C.     1  0   0 au[20](Selina Chow) Gender differences in pain and patient reported outcomes: a secondary analysis of the NCIC CTG SC. 23 randomized trial.
+
+TOP 2018 29529853 RP HA...     0  0  16 au[05](Nicolas Beyls) Serodiagnosis of Extraintestinal Amebiasis: Retrospective Evaluation of the Diagnostic Performance of the Bordier® ELISA Kit.
+
+TOP 2017 27831980 R. H....     0  0  23 au[04](Alexander T Wilson) Does Type of Cleft Palate Repair Influence Postoperative Eustachian Tube Dysfunction?
+
+TOP 2019 31576687 R. H....     0  0  25 au[04](Laura Moulton Chambers) Evaluation of non-completion of intraperitoneal chemotherapy in patients with advanced epithelial ovarian cancer.
+
+TOP 2019 31428722 R. H.M..     0  0  15 au[05](Hilary McCrary) The Role of Antioxidants in the Treatment of Congenital CMV-Related Hearing: A Case-Control Study.
+
+TOP 2018 29952821 RP H.M..     2  0  55 au[09](Qian Wang) Reduced Cerebral Blood Flow in the Visual Cortex and Its Correlation With Glaucomatous Structural Damage to the Retina in Patients With Mild to Moderate Primary Open-angle Glaucoma.
+
+TOP 2014 24374824 R. H....     1  0  35 au[05](Michele M Bleuze) An exploration of adult body shape and limb proportions at Kellis 2, Dakhleh Oasis, Egypt.
+
+TOP 2015 26182851 R. .....     8  0  46 au[04](Lisa M Kane) Marginal and internal adaptation of milled cobalt-chromium copings.
+
+TOP 2010 20093564 R. H...c    47  8  16 au[08](Chaan S Ng) Reproducibility of perfusion parameters in dynamic contrast-enhanced MRI of lung and liver tumors: effect on estimates of patient sample size in clinical trials and on individual patient responses.
+
+TOP 2005 16006892 R. H....    24  0  20 au[06](Young Deuk Choi) Lymphovascular and marginal invasion as useful prognostic indicators and the role of c-erbB-2 in patients with male extramammary Paget's disease: a study of 31 patients.
+
+TOP 2018 29530687 RP H....     0  0   0 au[05](Marc J Branche) Neurologic Status on Presentation as Predictive Measurement in Success of Closed Reduction in Traumatic Cervical Facet Fractures.
+
+TOP 2018 30199822 RP H....     0  0   0 au[03](Michelle Jones) Co-activation is not altered in the contra-lateral limb of individuals with moderate knee osteoarthritis compared to healthy controls.
+
+TOP 2019 31021837 R. H....     0  0  21 au[03](Hope Xu) The Value of Plastic Surgery Spinal Closures: A Review of 782 Spine Cases.
+
+TOP 2017 28377198 R. H....     2  0  14 au[06](Marina Arvanitis) Pediatrician Maintenance of Certification Using American Board of Pediatrics' Performance Improvement Modules.
+
+TOP 2019 31670751 R. H....     0  0  13 au[06](Maria A Woodward) Association of Limiting Opioid Prescriptions With Use of Opioids After Corneal Surgery.
+
+TOP 2018 30334987 RP H..C.     1  0  44 au[03](Songsong Yu) Independent factors associated with pneumonia among hospitalized patients with acute exacerbations of chronic obstructive pulmonary disease.
+
+TOP 2009 19161922 R. H....    22  0  19 au[06](Jolana Rambousková) Health behaviors, nutritional status, and anthropometric parameters of Roma and non-Roma mothers and their infants in the Czech Republic.
+
+TOP 2019 31658276 R. H....     0  0  30 au[06](Zachary A Smith) Assessing hand dysfunction in cervical spondylotic myelopathy.
+
+TOP 2018 29276018 RP H....     0  0  31 au[08](Chichen Zhang) A Study on the Applicability of the Health Action Process Approach to the Dietary Behavior of University Students in Shanxi, China.
+
+TOP 2017 28463163 R. .....     2  0  12 au[12](Michael J Connor) Medical Device Recalls in Radiation Oncology: Analysis of US Food and Drug Administration Data, 2002-2015.
+
+TOP 2016 26902850 R. H..Cc    11  2  16 au[21](Eudocia Q Lee) A randomized, placebo-controlled pilot trial of armodafinil for fatigue in patients with gliomas undergoing radiotherapy.
+
+TOP 2019 29183168 R. H....     1  0  20 au[07](Cassandra L Thiel) Minimal Custom Pack Design and Wide-Awake Hand Surgery: Reducing Waste and Spending in the Orthopedic Operating Room.
+
+TOP 2016 26874301 R. H...c    34  1  31 au[08](Wendy M White) A history of preeclampsia is associated with a risk for coronary artery calcification 3 decades later.
+
+TOP 2016 27293876 R. H....     2  0  17 au[04](Yuxin Guo) Diagnostic Performance of McMonnies Questionnaire as a Screening Survey for Dry Eye: A Multicenter Analysis.
+
+TOP 2017 28856247 R. H....     3  0  25 au[13](Mario Buty) Quantitative Image Quality Comparison of Reduced- and Standard-Dose Dual-Energy Multiphase Chest, Abdomen, and Pelvis CT.
+
+TOP 2018 29950797 RP HA.C.     3  0  26 au[08](Raelina S Howell) Paraesophageal Hiatal Hernia Repair With Urinary Bladder Matrix Graft.
+
+TOP 2018 30280124 R. H....     1  0  26 au[06](Ashley B Hodge) There's an App for That; Improving Communication during Pediatric Cardiothoracic Surgery.
+
+TOP 2016 27380577 R. H....     2  0  19 au[05](Jing Li) A Perioperative Risk Comparison of Posterior Vault Distraction Osteogenesis in an Older Pediatric Population.
+
+TOP 2005 16212593 R. .A..c    19  5  19 au[06](Chad J Zubrod) Comparison of three methods for arthrodesis of the distal intertarsal and tarsometatarsal joints in horses.
+
+TOP 2018 27179057 RP H....     3  0  23 au[05](Debapriya Datta) Can Creatinine Height Index Predict Weaning and Survival Outcomes in Patients on Prolonged Mechanical Ventilation After Critical Illness?
+
+TOP 2020 32079847 R. .A...     0  0   0 au[07](Vaishnavi Balendiran) Uveal and Capsular Biocompatibility of a New Hydrophobic Acrylic Microincision Intraocular Lens.
+
+TOP 2017 28939538 R. H....     2  0  38 au[05](Lihua Zhang) Clinical Value of Multiparametric Whole-Body Magnetic Resonance Imaging over Whole-Spine Magnetic Resonance Imaging in Patients with Neurofibromatosis Type I.
+
+TOP 2017 28080306 R. H..C.     3  0  17 au[09](Nicole Stegmeier) No Clinically Significant Difference Between Adult and Pediatric IKDC Subjective Knee Evaluation Scores in Adults.
+
+TOP 2016 26824583 R. H....     1  0  16 au[05](Anthony J Kwon) Indirect decompression and vertebral body endplate strength after lateral interbody spacer impaction: cadaveric and foam-block models.
+
+TOP 2017 28807986 R. H..C.     0  0   0 au[06](Scott G Allen) A Turbine-Driven Ventilator Improves Adherence to Advanced Cardiac Life Support Guidelines During a Cardiopulmonary Resuscitation Simulation.
+
+TOP 2019 30303824 R. H....     1  0   4 au[03](Summer Clark) Hooked on Hooks? A Study in the Utilization of Skin Hooks.
+
+TOP 2019 31262568 R. H....     1  0   0 au[07](Jennifer Colvin) Enhanced recovery after surgery pathway for patients undergoing abdominal wall reconstruction.
+
+TOP 2018 28925320 RP H....     5  0   8 au[04](Marc Error) Single-Blinded Prospective Implementation of a Preoperative Imaging Checklist for Endoscopic Sinus Surgery.
+
+TOP 2016 27070250 R. H....     3  0  26 au[04](Ulrike H Mitchell) Decreased Symptoms without Augmented Skin Blood Flow in Subjects with RLS/WED after Vibration Treatment.
+
+TOP 2011 21616721 R. HA..c    70  5  39 au[02](Wesley R Dean) Rural and urban differences in the associations between characteristics of the community food environment and fruit and vegetable intake.
+
+TOP 2015 26064779 R. H....    12  0  35 au[05](Malcolm J D'Souza) Effect Of Gender And Lifestyle Behaviors On BMI Trends In A Sample Of The First State's Undergraduate Population.
+
+TOP 2015 26740956 R. H....    34  0  43 au[05](Brandon J Erickson) Ulnar Collateral Ligament Reconstruction of the Elbow: A Systematic Review of the Literature.
+
+TOP 2015 25847388 R. H....    15  0  30 au[05](Victoria A McQuiddy) Normative Values for Grip and Pinch Strength for 6- to 19-Year-Olds.
+
+TOP 2019 31226291 R. H..C.     0  0   0 au[11](Cathy Monteith) An abnormal cerebroplacental ratio (CPR) is predictive of early childhood delayed neurodevelopment in the setting of fetal growth restriction.
+
+TOP 2015 25482325 R. .A...     1  0  39 au[03](Shaowen Tian) Nicotine enhances the reconsolidation of novel object recognition memory in rats.
+
+TOP 2017 27662197 R. H....     0  0  21 au[07](Anasua Ganguly) Comparative Evaluation of the Ostium After External and Nonendoscopic Endonasal Dacryocystorhinostomy Using Image Processing (Matlabs and Image J) Softwares.
+
+TOP 2014 24315312 R. H..Cc     6  1  33 au[05](Jennifer Christensen) Is thermography useful for assessment of postoperative inflammation after surgical removal of mandibular third molars when methylprednisolone is administered and how does it correlate with patients' perception of swelling?
+
+TOP 2019 31151692 R. H....     0  0   0 au[02](Evan J Zucker) Lumbar Spine MRI: Missed Opportunities for Abdominal Aortic Aneurysm Detection.
+
+TOP 2014 25266464 R. H....     3  0  33 au[05](Sarah Kwang) The critical time-lapse between various restoration placements and subsequent endodontic intervention.
+
+TOP 2017 28919400 R. H...c     6  1  22 au[04](Colleen P McNicholas) Condom use and incident sexually transmitted infection after initiation of long-acting reversible contraception.
+
+TOP 2017 28873173 R. H.M..    12  0  51 au[04](Jianfei Liu) Automated Photoreceptor Cell Identification on Nonconfocal Adaptive Optics Images Using Multiscale Circular Voting.
+
+TOP 2017 28599894 R. H..Cc     2  1  14 au[04](Katlynn Adkins) Impact of aspirin on fetal growth in diabetic pregnancies according to White classification.
+
+TOP 2019 30856155 R. H.M..     0  0  25 au[07](Zong-Qiong Sun) A pilot study of low-dose CT perfusion imaging (LDCTPI) technology in patients with triple-negative breast cancer.
+
+TOP 2017 28389024 R. H..C.     3  0  24 au[06](Jong-Won Lee) Accuracy of a digital removable partial denture fabricated by casting a rapid prototyped pattern: A clinical study.
+
+TOP 2012 22317858 R. H....    21  0  17 au[04](Michelle J Alfa) Development and validation of rapid use scope test strips to determine the efficacy of manual cleaning for flexible endoscope channels.
+
+TOP 1980  7453708 R. .AM.c    71  1  18 au[05](D E Amacher) Point mutations at the thymidine kinase locus in L5178Y mouse lymphoma cells. II. Test validation and interpretation.
+
+TOP 1997  9290505 R. H....    14  0   0 au[07](D Schaubel) Two-stage sampling for etiologic studies. Sample size and power.
+
+TOP 2015 25797752 R. H...c     6  1   8 au[04](Quyen D Chu) Postmastectomy radiation for N2/N3 breast cancer: factors associated with low compliance rate.
+
+TOP 2004 15477209 R. H.M.c    16  1   0 au[09](Luis Larrea) Quality control of bacterial contamination in autologous peripheral blood stem cells for transplantation.
+
+TOP 2017 26165559 R. H....     4  0  27 au[04](Henry Bone Ellis) Glenoid Bone Loss in Traumatic Glenohumeral Instability in the Adolescent Population.
+
+TOP 2015 25726130 R. H.M.c     5  1  12 au[07](Dae-Hyung Lee) Increasing potential risks of contamination from repetitive use of endoscope.
+
+TOP 1988  3069474 .. H...c     5  2  15 au[02](T Kinzel) Hyperglycemia as a predictor for mortality in veterans with pneumonia.
+
+TOP 2007 17365026 R. .AM..    61  0  35 au[11](Pasi I Jalava) Heterogeneities in inflammatory and cytotoxic responses of RAW 264.7 macrophage cell line to urban air coarse, fine, and ultrafine particles from six European sampling campaigns.
+
+TOP 2015 25199073 R. .AM..     0  0   0 au[03](Mustafa Altunsoy) Evaluation of HEMA released from four different adhesive systems by HPLC.
+
+TOP 2019 30075991 R. H....     4  0  35 au[06](Cristina Drenkard) Physician-patient interactions in African American patients with systemic lupus erythematosus: Demographic characteristics and relationship with disease activity and depression.
+
+TOP 2016 27867691 R. H....     6  0  12 au[08](Mingjun Song) Efficacy of small-volume simethicone given at least 30 min before gastroscopy.
+
+TOP 2017 27599748 R. H....     2  0  14 au[05](Erin M Slazak) Statin Adherence Rates in Patients Utilizing a Patient-Centered Medical Home-Based Pharmacy.
+
+TOP 2014 25407032 R. H....     1  0  31 au[04](Shyama Kamat) Pediatric psychiatric emergency department visits during a full moon.
+
+TOP 2016 28326427 R. H...c     9  1  23 au[05](Pier Francesco Indelli) Posterior-stabilized total knee arthroplasty: a matched pair analysis of a classic and its evolutional design.
+
+TOP 2014 24472565 R. .A...    13  0  38 au[03](Lin Chen) Rapid eye movement sleep deprivation disrupts consolidation but not reconsolidation of novel object recognition memory in rats.
+
+TOP 2019 29733409 RP H....     9  0  62 au[11](Xingui Chen) Neural Correlates of Auditory Verbal Hallucinations in Schizophrenia and the Therapeutic Response to Theta-Burst Transcranial Magnetic Stimulation.
+
+TOP 2019 30715802 R. H.M..     1  0  14 au[05](Mingsi Li) Reliability of the supraorbital ethmoid cell vs Keros classification in predicting the course of the anterior ethmoid artery.
+
+TOP 2016 27574555 R. H.M..     4  0  26 au[05](Rory P Kennelly) Activated systemic inflammatory response at diagnosis reduces lymph node count in colonic carcinoma.
+
+TOP 2015 25825853 R. H..Cc     4  1  18 au[04](Jennifer H Aldrink) Mechanical bowel preparation for children undergoing elective colorectal surgery.
+
+TOP 2011 22047195 .. H....     4  0   5 au[04](Robert M Flikkema) Principles of statistics in surgery.
+
+TOP 2015 25979448 R. H....     4  0  13 au[04](Laura H Lux) Comparison of the Kois Dento-Facial Analyzer System with an earbow for mounting a maxillary cast.
+
+TOP 2016 27650758 R. H....     0  0  12 au[08](Yuan-Hao Lee) Patient safety during radiological examinations: a nationwide survey of residency training hospitals in Taiwan.
+
+TOP 2017 28246070 R. H...c     6  1  27 au[04](Monika Pobiruchin) Accuracy and Adoption of Wearable Technology Used by Active Citizens: A Marathon Event Field Study.
+
+TOP 2016 27987183 R. H.M..     1  0  37 au[05](Carl A Wesolowski) A gamma-distribution convolution model of 99m</sup>Tc-MIBI thyroid time-activity curves.
+
+TOP 2019 31756054 R. .AM..     0  0  19 au[05](Sylvie Jacquot) Optimizing PCR for Mouse Genotyping: Recommendations for Reliable, Rapid, Cost Effective, Robust and Adaptable to High-Throughput Genotyping Protocol for Any Type of Mutation.
+
+TOP 2019 30499839 R. H....     0  0  31 au[03](Shing Fung Lee) The Value of Prognostic Nutritional Index in Follicular Lymphoma.
+
+TOP 2004 15346723 R. .AM.c     7  1  27 au[04](Cetin Kaymak) Genoprotective role of vitamin E and selenium in rabbits anaesthetized with sevoflurane.
+
+TOP 2014 24305707 R. H...c    28  2  47 au[05](P Janine Piscione) Physical functioning in pediatric survivors of childhood posterior fossa brain tumors.
+
+TOP 2018 29731521 RP .....     3  0   9 au[05](Hongming Yi) High-accuracy 12 C 16 O 2 line intensities in the 2 μm wavelength region measured by frequency-stabilized cavity ring-down spectroscopy.
+
+TOP 2017 26206881 R. H....     2  0   2 au[04](James Higgerson) Defining the urban area for cross national comparison of health indicators: the EURO-URHIS 2 boundary study.
+
+TOP 2014 24701315 R. H....    18  0  32 au[04](Liselotte N Dyrbye) Ability of the physician well-being index to identify residents in distress.
+
+TOP 2017 27680420 R. H.M..     0  0  20 au[04](Sang-Hong Lee) Effect of Coronary Artery Calcification Score by Lifestyle and Correlation With Coronary Artery Stenosis by Multidetector Computed Tomography.
+
+TOP 2015 27036730 R. H....     2  0  20 au[06](Paul T Kröner) Alcohol-Attributable Fraction in Liver Disease: Does GDP Per Capita Matter?
+
+TOP 2018 29348078 RP H.M..     0  0   0 au[02](Abad Khan) A clinical study showing altered antioxidants profile in patients with hypertension.
+
+TOP 2014 24289920 R. H..Cc    98 11  33 au[10](Zohar Yehoshua) Systemic complement inhibition with eculizumab for geographic atrophy in age-related macular degeneration: the COMPLETE study.
+
+TOP 2015 25290254 R. H....     8  0  23 au[04](Trenton Cooper) Prevalence of Bilateral JOCD of the Knee and Associated Risk Factors.
+
+TOP 2016 28240578 R. H....     3  0   0 au[04](Abbas Jessani) Self-Perceived Oral Health and Use of Dental Services by Pregnant Women in Surrey, British Columbia.
+
+TOP 2019 31440333 R. H....     2  0  23 au[05](Alana M Ewen) Residency and Fellowship Program Administrator Burnout: Measuring Its Magnitude.
+
+TOP 2015 25110812 R. H....     4  0  11 au[06](Maitreyi Raman) A novel method to identify fat malabsorption: the Serum Retinyl Palmitate Test.
+
+TOP 2015 25742725 R. H...c    23  1  29 au[07](Annelise M Silva) Magnetic resonance elastography: evaluation of new inversion algorithm and quantitative analysis method.
+
+TOP 2017 28456421 R. H....    30  0  43 au[02](Stephen Burgess) Mendelian Randomization Implicates High-Density Lipoprotein Cholesterol-Associated Mechanisms in Etiology of Age-Related Macular Degeneration.
+
+TOP 2016 25107414 R. H....     4  0   7 au[02](Jasmine D Gonzalvo) Language Concordance as a Determinant of Patient Outcomes in a Pharmacist-Managed Cardiovascular Risk Reduction Clinic.
+
+TOP 1997  9422305 R. H.MCc    53 21  23 au[03](T T Niemi) Comparison of the effect of intravenous ketoprofen, ketorolac and diclofenac on platelet function in volunteers.
+
+TOP 2019 30829671 R. H....     1  0  11 au[06](John D Mitchell) Customizable Curriculum to Enhance Resident Communication Skills.
+
+TOP 2015 26212604 R. H....     8  0  41 au[05](Carol S Brewer) A structural equation model of turnover for a longitudinal survey among early career registered nurses.
+
+TOP 2014 25627231 .. H....     4  0  22 au[03](Gabriel G Pokhai) [Vitamin D levels in ankylosing spondylitis: does deficiency correspond to disease activity?].
+
+TOP 2014 23873497 R. H....     4  0   7 au[06](Mary A McCoy) How long do smoke alarms function? A cross-sectional follow-up survey of a smoke alarm installation programme.
+
+TOP 2017 28511271 R. HAM..     1  0   0 au[06](R Christopher Rustin) Georgia's collaborative approach to expanding mosquito surveillance in response to Zika virus: a case study.
+
+TOP 2017 27806156 R. H...c     4  2   0 au[01](Jonathan Kantor) Reliability and Photographic Equivalency of the Scar Cosmesis Assessment and Rating (SCAR) Scale, an Outcome Measure for Postoperative Scars.
+
+TOP 2017 28314287 R. H.M..     0  0   0 au[07](Timothy Ellis-Caleo) Imaging and Pathology Correlations for Different Risk Stratification Models for Intermediate-risk Prostate Cancer.
+
+TOP 1999 10491675 R. H...c    20  6  14 au[03](S L Booth) Assessment of phylloquinone and dihydrophylloquinone dietary intakes among a nationally representative sample of US consumers using 14-day food diaries.
+
+TOP 2014 24055580 R. H...c    12  1  15 au[02](Suchitra Chandrasekaran) Antenatal corticosteroid administration: understanding its use as an obstetric quality metric.
+
+TOP 2017 27798935 R. H....     2  0   0 au[05](Mariana L Meyers) Effects of Maternal Valium Administration on Fetal MRI Motion Artifact: A Comparison Study at High Altitude.
+
+TOP 2020 31992223 R. .....     0  0  69 au[04](Xiaohong Li) Choice of library size normalization and statistical methods for differential gene expression analysis in balanced two-group comparisons for RNA-seq studies.
+
+TOP 2017 28108581 R. H....     8  0   0 au[03](Anup D Patel) Reduced Emergency Department Utilization by Patients With Epilepsy Using QI Methodology.
+
+TOP 2009 20111676 .. .....     2  0   1 au[03](Masahiro Funabashi) Biodegradability evaluation of polymers by ISO 14855-2.
+
+TOP 2014 24919049 R. H....     0  0  19 au[04](Tatiana Eing Granado Khenaifes) Cardiorespiratory evaluation in pre and post operative moments of laparoscopic cholecystectomy.
+
+TOP 2014 25134852 R. H...c    17  1  21 au[03](Donald R VanDevanter) Improvements in lung function and height among cohorts of 6-year-olds with cystic fibrosis from 1994 to 2012.
+
+TOP 2015 26313319 R. H....     8  0  13 au[05](Adam A Sassoon) Manipulation Under Anesthesia: A Safe and Effective Treatment for Posttraumatic Arthrofibrosis of the Knee.
+
+TOP 2015 25985374 R. H....     6  0   9 au[04](Ryne S Schlitz) Biomechanical Analysis of Screws Versus K-Wires for Lateral Humeral Condyle Fractures.
+
+TOP 2010 20543221 R. H...c     7  2   0 au[03](Alessandra Paiva de Castro) The relationship between wearing incorrectly sized shoes and foot dimensions, foot pain, and diabetes.
+
+TOP 2020 30575635 R. H.M..     1  0  39 au[08](Matthew Bohm) Risk Factors Associated With Upper Aerodigestive Tract or Coliform Bacterial Overgrowth of the Small Intestine in Symptomatic Patients.
+
+TOP 2020 31944354 R. .....     0  0  73 au[05](Adrian Balica) A Bibliometric Analysis of Citation Classics in the Journal of Ultrasound in Medicine.
+
+TOP 2015 26341868 R. H....     8  0  35 au[10](Riley Bove) The 2D:4D ratio, a proxy for prenatal androgen levels, differs in men with and without MS.
+
+TOP 2014 25318443 R. H....     1  0  14 au[07](Jong Lim Park) Correction of an alar web with a feather-edge rolled-in flap.
+
+TOP 2016 27423150 R. .A...     2  0  24 au[04](Lais M Malavasi) Cardiopulmonary Effects of Constant-Rate Infusion of Lidocaine for Anesthesia during Abdominal Surgery in Goats.
+
+TOP 2016 27567951 R. H.M..     4  0  29 au[06](Fatemeh Sobhani) Hypo-Vascular Liver Metastases Treated with Transarterial chemoembolization: Assessment of Early Response by Volumetric Contrast-Enhanced and Diffusion-Weighted Magnetic Resonance Imaging.
+
+TOP 2009 19630970 R. H...c     6  1  31 au[05](Justin P Lee) Gender and ethnic differences in chronic myelogenous leukemia prognosis and treatment response: a single-institution retrospective study.
+
+TOP 2016 26772910 R. H...c    10  1  28 au[05](Honglu Du) A Group-Based Mobile Application to Increase Adherence in Exercise and Nutrition Programs: A Factorial Design Feasibility Study.
+
+TOP 2014 25315308 R. H...c     7  1  25 au[04](Krushna Bhatt) Functional outcomes of gap and interposition arthroplasty in the treatment of temporomandibular joint ankylosis.
+
+TOP 2006 16827562 R. ..M..     2  0   0 au[03](Noritaka Kuroda) Further development of a robust workup process for solution-phase high-throughput library synthesis to address environmental and sample tracking issues.
+
+TOP 2016 26896516 R. H....     0  0   0 au[03](Margaret Lemaster) Effect of a Simulation Exercise on Restorative Identification Skills of First Year Dental Hygiene Students.
+
+TOP 2015 26271276 R. H....     1  0  24 au[06](Charles Yat Cheong Yeung) Frontal facial proportions of 12-year-old southern Chinese: a photogrammetric study.
+
+TOP 2019 31821913 R. H....     0  0   0 au[04](Courtney L Monroe) Does Surveillance-Detected Disease Progression Yield Superior Patient Outcomes in High-Grade Glioma?
+
+TOP 2016 25559053 R. H....     3  0  19 au[09](Rachel Sutherland) Physical education in secondary schools located in low-income communities: Physical activity levels, lesson context and teacher interaction.
+
+TOP 2019 30844865 R. H....     1  0  51 au[01](Lia van Rijswijk) Computer-Assisted Wound Assessment and Care Education Program in Registered Nurses: Use of an Interactive Online Program by 418 Registered Nurses.
+
+TOP 2019 31300576 R. H....     0  0   0 au[04](Natalia P Arizmendez) Multimodal Local Opioid Prescribing Intervention Outcomes in Chronic Noncancer Pain Management.
+
+TOP 2010 20189926 R. H..Cc    14  5  23 au[04](Rachel Blacklock) Effects of exercise intensity and self-efficacy on state anxiety with breast cancer survivors.
+
+TOP 2017 28515044 R. H.MCc    33  1  34 au[07](Yiqiang Zhan) Exploring the Causal Pathway From Telomere Length to Coronary Heart Disease: A Network Mendelian Randomization Study.
+
+TOP 2017 27986382 R. H....     6  0  13 au[07](Andrea A Tooley) Dacryocystorhinostomy for Acquired Nasolacrimal Duct Stenosis in the Elderly (≥80 Years of Age).
+
+TOP 2016 26684369 R. H...c    15  1  28 au[05](Pedro G Vianna) Impact of pulsed xenon ultraviolet light on hospital-acquired infection rates in a community hospital.
+
+TOP 2016 27212394 R. H....     2  0  22 au[05](George N Guild) Anthropometric Computed Tomography Reconstruction Identifies Risk Factors for Cortical Perforation in Revision Total Hip Arthroplasty.
+
+TOP 1998  9692336 R. H...c    15  7   0 au[05](H Zeisler) Influence of acupuncture on duration of labor.
+
+TOP 2017 28154020 R. H....     1  0  28 au[09](Zaid Haddadin) Comparison of Performance of Improved Serum Estimators of Glomerular Filtration Rate (GFR) to 99m</sup>Tc-DTPA GFR Methods in Patients with Hepatic Cirrhosis.
+
+TOP 1983  6348102 R. H..Cc    54  6  21 au[03](A D Haffajee) Comparison of statistical methods of analysis of data from clinical periodontal trials.
+
+TOP 2014 25076943 R. HAM..    18  0  48 au[04](Kalia S I Bistolas) Symbiont polyphyly, co-evolution, and necessity in pentatomid stinkbugs from Costa Rica.
+
+TOP 2016 27472676 R. H....     3  0  30 au[06](Hui-Hua Liu) Reduced local diffusion homogeneity as a biomarker for temporal lobe epilepsy.
+
+TOP 2013 24175773 R. H....     3  0  12 au[01](Min Rex Cheung) Low income and rural county of residence increase mortality from bone and joint sarcomas.
+
+TOP 2014 25483686 R. H....     9  0  18 au[06](Hazel J Clothier) Consumer reporting of adverse events following immunization.
+
+TOP 2020 31834674 R. H....     0  0  15 au[05](Chetan Safi) Sinonasal quality-of-life declines in cystic fibrosis patients with pulmonary exacerbations.
+
+TOP 2014 24000908 R. .A...     6  0   8 au[04](Shu K E Tam) Dissociations in the effect of delay on object recognition: evidence for an associative model of recognition memory.
+1 of 6 citations downloaded:
+CIT 2018 30322890 RP .A...     2  0  16 au[04](Taichi Hatakeyama) Temporal order memory of the rat in spontaneous object recognition: effects of number of items, exposure interval, and retention time.
+
+TOP 2006 16972720 R. .....     4  0  15 au[01](Jixian Wang) An adaptive two-stage design with treatment selection using the conditional error function approach.
+
+TOP 2002 11922207 R. H..Cc    16  5  31 au[04](Kazuo Itoh) Accuracy of plasma sample methods for determination of glomerular filtration rate with 99mTc-DTPA.
+
+TOP 2001 11558863 R. H..Cc    34  7  14 au[03](D L Spangler) Evaluation of the efficacy of olopatadine hydrochloride 0.1% ophthalmic solution and azelastine hydrochloride 0.05% ophthalmic solution in the conjunctival allergen challenge model.
+
+TOP 2014 25295561 R. H....     6  0  31 au[06](Jennifer P Colwill) Capture of knowledge work of clinical nurse specialists using a role tracking tool.
+
+TOP 1989  2765637 R. H...c    77 13   0 au[03](P F Thall) A two-stage design for choosing among several experimental treatments and a control in clinical trials.
+1 of 77 citations downloaded:
+CIT 2006 16972720 R. .....     4  0  15 au[01](Jixian Wang) An adaptive two-stage design with treatment selection using the conditional error function approach.
+
+TOP 2012 21766294 R. H....     5  0  26 au[11](Yash R Patel) Successful recruitment of healthy African American men to genomic studies from high-volume community health fairs: implications for future genomic research in minority populations.
+
+TOP 2008 18286527 R. H.MCc    36  3  22 au[10](Florian Scotté) Matched case-control phase 2 study to evaluate the use of a frozen sock to prevent docetaxel-induced onycholysis and cutaneous toxicity of the foot.
+
+TOP 2003 12851279 R. H..Cc   502 37  12 au[27](Edward Abraham) Efficacy and safety of tifacogin (recombinant tissue factor pathway inhibitor) in severe sepsis: a randomized controlled trial.
+
+TOP 2013 23193982 R. .AM..     5  0  26 au[09](G van Galen) Traditional and quantitative assessment of acid-base and shock variables in horses with atypical myopathy.
+
+TOP 2012 22115714 R. H....     3  0  10 au[04](Benjamin C Kramer) Reliability of simultaneous visual field testing.
+
+TOP 2006 16900302 R. H...c    16  1  26 au[02](W D Leslie) Minimum sample size requirements for bone density precision assessment produce inconsistency in clinical monitoring.
+
+TOP 2010 20435272 R. H...c    17  6  48 au[04](E Anne MacGregor) Safety and tolerability of frovatriptan in the acute treatment of migraine and prevention of menstrual migraine: Results of a new analysis of data from five previously published studies.
+
+TOP 2005 15681004 R. ..M.c   295 19   0 au[03](Wolfgang Weinmann) Siloranes in dental composites.
+
+TOP 2012 23198925 R. .....     1  0  11 au[02](Scott Rutherford) Effect of contouring on bending structural stiffness and bending strength of the 3.5 titanium SOP implant.
+
+TOP 2020 31585457 R. H....     0  0  29 au[16](Joanna J Parga) Defining and distinguishing infant behavioral states using acoustic cry analysis: is colic painful?
+
+TOP 1999 10504621 R. .A...     3  0  13 au[07](F Follis) Retrograde perfusion of the spinal cord during aortic crossclamping: initial observations in the swine model.
+
+TOP 2014 24487974 R. H...c    14  1  13 au[06](Hilary W Alpert) Outcomes following removal of instrumentation after posterior spinal fusion.
+
+TOP 2015 26285018 R. H....    23  0  53 au[07](Ricardo C Gehrau) Donor Hepatic Steatosis Induce Exacerbated Ischemia-Reperfusion Injury Through Activation of Innate Immune Response Molecular Pathways.
+
+TOP 2016 26497778 R. H....    12  0  35 au[05](Natalia M Kleinhans) Alterations in Connectivity on Functional Magnetic Resonance Imaging with Provocation of Lower Urinary Tract Symptoms: A MAPP Research Network Feasibility Study of Urological Chronic Pelvic Pain Syndromes.
+
+TOP 1989  2655728 R. H...c    31  2   0 au[02](M P Jones) A general class of nonparametric tests for survival analysis.
+
+TOP 2014 25672219 .. H...c    21  4  21 au[03](Alia Daoud) Diagnostic accuracy of delirium diagnosis in pediatric intensive care: a systematic review.
+
+TOP 2014 24582106 R. H...c     7  1  14 au[07](Kyriakie Sarafoglou) Comparison of newborn screening protocols for congenital adrenal hyperplasia in preterm infants.
+
+TOP 2011 21307705 R. H....    11  0   0 au[03](Tamir Bloom) Biomechanical analysis of lateral humeral condyle fracture pinning.
+1 of 11 citations downloaded:
+CIT 2015 25985374 R. H....     6  0   9 au[04](Ryne S Schlitz) Biomechanical Analysis of Screws Versus K-Wires for Lateral Humeral Condyle Fractures.
+
+TOP 2000 10961780 R. H....    64  0   0 au[04](M Santoro) Mesiodistal crown dimensions and tooth size discrepancy of the permanent dentition of Dominican Americans.
+
+TOP 2014 25540054 R. H....     0  0  18 au[06](Cindi Sy Leung) Angular photogrammetric analysis of the soft tissue profile in 12-year-old southern Chinese.
+
+TOP 2011 21605889 R. H.M..    10  0  20 au[07](James A Field) Cytotoxicity and physicochemical properties of hafnium oxide nanoparticles.
+
+TOP 2012 22763903 R. H..Cc    56 18  23 au[10](Pernille Lykke Petersen) The beneficial effect of transversus abdominis plane block after laparoscopic cholecystectomy in day-case surgery: a randomized clinical trial.
+
+TOP 2010 20505592 R. ..M.c    11  1   4 au[01](S Thomas) Laboratory findings on the exudate-handling capabilities of cavity foam and foam-film dressings.
+
+TOP 2016 26882318 R. H..C.     1  0  26 au[07](Peter A LeWitt) The Efficacy Profile of Rotigotine During the Waking Hours in Patients With Advanced Parkinson's Disease: A Post Hoc Analysis.
+
+TOP 2014 24515670 R. H...c     8  2  27 au[04](David H Lam) Therapeutic hypothermia-induced electrocardiographic changes and relations to in-hospital mortality.
+
+TOP 2004 15329760 R. H...c    13  1   0 au[07](C T Chuah) Integrated hydroxyapatite implant and non-integrated implants in enucleated Asian patients.
+
+TOP 1979   543837 R. .A..c     7  1   4 au[04](P J Wright) Medroxyprogesterone acetate and reproductive processes in male dogs.
+
+TOP 2015 24327756 R. H....    39  0  54 au[08](Jochen Kindler) Static and dynamic characteristics of cerebral blood flow during the resting state in schizophrenia.
+
+TOP 2015 26014315 R. H....     2  0  20 au[05](Gaea S Moore) Fetal weight estimation in diabetic pregnancies using the gestation-adjusted projection method: comparison of two timing strategies for third-trimester sonography.
+
+TOP 2011 21051713 R. H...c    22  3  30 au[01](Ted Maddess) The influence of sampling errors on test-retest variability in perimetry.
+
+TOP 1999 10052370 .. H...c   102  7  13 au[03](A Roychoudhury) Functional restoration by gap arthroplasty in temporomandibular joint ankylosis: a report of 50 cases.
+1 of 102 citations downloaded:
+CIT 2014 25315308 R. H...c     7  1  25 au[04](Krushna Bhatt) Functional outcomes of gap and interposition arthroplasty in the treatment of temporomandibular joint ankylosis.
+
+TOP 2009 19321221 R. H...c     3  2   7 au[06](Margaret R Stedman) A SAS macro for a clustered permutation test.
+
+TOP 2011 21199967 R. H...c   164 12  48 au[06](Melissa A Polusny) Longitudinal effects of mild traumatic brain injury and posttraumatic stress disorder comorbidity on postdeployment outcomes in national guard soldiers deployed to Iraq.
+
+TOP 2006 16765160 R. H.M..    11  0  20 au[01](Mohammed Aleem Abdullah) Surface detail, compressive strength, and dimensional accuracy of gypsum casts after repeated immersion in hypochlorite solution.
+
+TOP 2013 23348763 R. H..Cc    52  1  23 au[05](C H Toh) Differentiation of primary central nervous system lymphomas and glioblastomas: comparisons of diagnostic performance of dynamic susceptibility contrast-enhanced perfusion MR imaging without and with contrast-leakage correction.
+
+TOP 2008 18212373 R. .A.C.     6  0  11 au[02](G Lopez) Assessment of the nitrogen correction factor in evaluating metabolizable energy of corn and soybean meal in diets for broilers.
+
+TOP 2010 20638523 R. H.M..     8  0  14 au[06](Shaun A Steigman) Structural and biomechanical characteristics of the diaphragmatic tendon in infancy and childhood: an initial analysis.
+
+TOP 2014 24416397 R. H....    24  0  53 au[07](Burkhard Pleger) Complex regional pain syndrome type I affects brain structure in prefrontal and motor cortex.
+
+TOP 2008 18536053 R. .A...     3  0  33 au[03](Vânia Maria Sartini Dutra Pimenta) Genotoxicity of water from the Paraguay River near Cáceres-MT, Brazil in the Drosophila wing-spot test.
+
+TOP 2001 11470994 R. HAM.c    53  3  38 au[06](A Wennerholm) Characterization of the CYP2D6*29 allele commonly present in a black Tanzanian population causing reduced catalytic activity.
+
+TOP 2013 23743861 R. H....    35  0  42 au[04](Joshua D Harris) Treatment of femoroacetabular impingement: a systematic review.
+
+TOP 1998 10186452 R. H...c    67 19   0 au[03](R A Windsor) A meta-evaluation of smoking cessation intervention research among pregnant women: improving the science and art.
+
+TOP 2013 23521777 R. H....     9  0  73 au[10](Daniel F Kripke) FMR1, circadian genes and depression: suggestive associations or false discovery?
+
+TOP 2013 24303357 R. .....     3  0  20 au[05](Abdulrahman Mohammed Saleh) Influence of operator's experience level on lifespan of the WaveOne Primary file in extracted teeth.
+
+TOP 2011 21596960 R. H...c    11  3  32 au[04](Daniel Deutscher) Construct validation of a knee-specific functional status measure: a comparative study between the United States and Israel.
+
+TOP 2011 21912281 R. H....     1  0   0 au[05](Matthew J Comeau) Visualization of the passive sink phenomenon in nonexercising muscle using 2 sampling sites: consequences for assessment and training.
+
+TOP 2011 21546093 R. H....    15  0  20 au[05](Vincenzo De Luca) Age at onset in Canadian OCD patients: mixture analysis and systematic comparison with other studies.
+
+TOP 2008 19134109 R. .A..c    15  1   6 au[05](Jenny R Kelly) Biomechanical comparison of six suture configurations using a large diameter polyester prosthesis in the muscular process of the equine arytenoid cartilage.
+
+TOP 2013 23769054 R. .A...     0  0  17 au[06](B K Book) Differences in alloimmune response between elderly and young mice.
+
+TOP 2008 18707698 R. H...c    30  2  15 au[04](Rebecca Braunstein) The role of cystoscopy in the diagnosis of Hunner's ulcer disease.
+
+TOP 2008 18457785 R. H..Cc    17  2  13 au[03](Doris A Abood) Evaluation of a school-based teen obesity prevention minimal intervention.
+
+TOP 2007 17910802 R. H..Cc    18  1  12 au[06](Marcia F T Rupnow) Incidence and costs of polypharmacy: data from a randomized, double-blind, placebo-controlled study of risperidone and quetiapine in patients with schizophrenia or schizoaffective disorder.
+
+TOP 2011 22000188 R. H....    12  0  10 au[06](John G Linn) General surgery training without laparoscopic surgery fellows: the impact on residents and patients.
+
+TOP 2013 22093377 R. .A...     5  0  25 au[05](Tatiana Z Brinckerhoff) Metabolic effects of sleeve gastrectomy in female rat model of diet-induced obesity.
+
+TOP 2006 16923183 R. H....     5  0  12 au[05](Charles Maynard) The use of percutaneous coronary intervention in black and white veterans with acute myocardial infarction.
+
+TOP 2013 23243255 R. .AM..    15  0  14 au[03](L Nuotio) Effect of competitive exclusion in reducing the occurrence of Escherichia coli producing extended-spectrum β-lactamases in the ceca of broiler chicks.
+
+TOP 2004 15308047 R. H....     2  0   0 au[02](Zhi-ping Wang) [Sample size requirements for association studies on gene-gene interaction in case-control study].
+
+TOP 2008 18280850 R. H..Cc     9  8  27 au[05](William T Zempsky) A novel needle-free powder lidocaine delivery system for rapid local analgesia.
+
+TOP 2019 31497982 R. .....     0  0   0 au[02](Martin Schnuerch) Controlling decision errors with minimal costs: The sequential probability ratio t test.
+
+TOP 2013 24195667 R. H...c     5  1  14 au[03](Catherine H Yu) The effect of patient care order sets on medical resident education: a prospective before-after study.
+
+TOP 2008 18234550 R. .A...    18  0   9 au[05](Mustafa Acici) Seroprevalence of equine babesiosis in the Black Sea region of Turkey.
+
+TOP 2012 23176421 R. .AM..     3  0  36 au[06](Robert Barigye) Prevalence and antimicrobial susceptibility of virulent and avirulent multidrug-resistant Escherichia coli isolated from diarrheic neonatal calves.
+
+TOP 2006 16804426 R. H...c    27  3  27 au[12](Susan E Coffin) Impact of acute rotavirus gastroenteritis on pediatric outpatient practices in the United States.
+
+TOP 2003 14506424 R. H...c    63  1  14 au[04](Timothy J McCulley) Outcome and influencing factors of external levator palpebrae superioris aponeurosis advancement for blepharoptosis.
+
+TOP 2005 16187549 R. .AM..    14  0  29 au[05](Hongsheng Huang) Evaluation of Western blotting methods using samples with or without sodium phosphotungstic acid precipitation for diagnosis of scrapie and chronic wasting disease.
+
+TOP 2002 12072870 R. H.M..    10  0  32 au[05](Dorothy J VanderJagt) Bioelectrical impedance analysis of the body composition of children and adolescents with sickle cell disease.
+
+TOP 2011 21716182 R. H...c    43  8   0 au[05](Barbara Bukowicka) The occurrence of postreperfusion syndrome in orthotopic liver transplantation and its significance in terms of complications and short-term survival.
+
+TOP 2009 19105986 R. H...c     9  1  19 au[06](Doyle R Nick) The ability of dental students and faculty to estimate the total occlusal convergence of prepared teeth.
+
+TOP 2015 26180409 R. ..M..     0  0  23 au[02](Rayapudi Phani Mohan) The comparison between two irrigation regimens on the dentine wettability for an epoxy resin based sealer by measuring its contact angle formed to the irrigated dentine.
+
+TOP 2013 23684280 R. H.MC.    35  0  45 au[04](Jamie K W Foong) Fracture resistance of titanium and zirconia abutments: an in vitro study.
+
+TOP 2015 24599891 R. H....     1  0  19 au[01](Wei-Yen Hsu) Motor imagery EEG discrimination using the correlation of wavelet features.
+
+TOP 2013 24082252 R. H....     9  0  11 au[02](Soma Gupta) Depression and type D personality among undergraduate medical students.
+
+TOP 2011 22056824 R. H....     8  0  28 au[04](Mihaela S Stefan) A simulation-based program to train medical residents to lead and perform advanced cardiovascular life support.
+
+TOP 2010 19904758 R. H...c    44  2  32 au[07](Pankaj G Roy) High CCND1 amplification identifies a group of poor prognosis women with estrogen receptor positive breast cancer.
+
+TOP 2014 25269657 R. H....    15  0  37 au[07](Amit K Hiteshi) Gender differences in coronary artery diameter are not related to body habitus or left ventricular mass.
+
+TOP 2013 23696212 R. H...c    49  3  48 au[06](Mary T Goldsmith) Biomechanical comparison of anatomic single- and double-bundle anterior cruciate ligament reconstructions: an in vitro study.
+
+TOP 2006 16689195 R. H...c    11  2  20 au[08](Wen-Hsien Lu) Supraclavicular versus infraclavicular subclavian vein catheterization in infants.
+
+TOP 2014 23983071 R. H....    13  0  37 au[06](Ning-Sheng Lai) Increased frequency and costs of ambulatory medical care utilization prior to the diagnosis of rheumatoid arthritis: a national population-based study.
+
+TOP 2011 21471846 R. H...c    28  1  22 au[07](Cristian J Luciano) Learning retention of thoracic pedicle screw placement using a high-resolution augmented reality simulator with haptic feedback.
+
+TOP 2007 18043285 R. H....    19  0  20 au[03](Ozlen Saglam) Molecular differentiation of early and late stage laryngeal squamous cell carcinoma: an exploratory analysis.
+
+TOP 1998  9583424 R. H...c    97  6   0 au[05](J P Collet) Controlling confounding when studying large pharmacoepidemiologic databases: a case study of the two-stage sampling design.
+
+TOP 2004 15547558 R. H...c    46  4  12 au[03](May Hsieh Blanchard) Impact of work hour restrictions on resident case experience in an obstetrics and gynecology residency program.
+
+TOP 2002 11952024 R. H..Cc    17  5   6 au[03](Peter A D'Arienzo) Randomized, double-masked, placebo-controlled comparison of the efficacy of emedastine difumarate 0.05% ophthalmic solution and ketotifen fumarate 0.025% ophthalmic solution in the human conjunctival allergen challenge model.
+
+TOP 2004 15133743 R. H.M..    97  0  52 au[01]() Highly significant linkage to the SLI1 locus in an expanded sample of individuals affected by specific language impairment.
+
+TOP 2012 22929043 R. H....     4  0  22 au[01](Paul C Ivancic) Head-first impact with head protrusion causes noncontiguous injuries of the cadaveric cervical spine.
+
+TOP 2013 23660273 R. H...c    41  1  11 au[07](Veena M Singh) Analysis of the effect of various decalcification agents on the quantity and quality of nucleic acid (DNA and RNA) recovered from bone biopsies.
+
+TOP 2002 12169035 R. H...c     7  2   0 au[01](Ali Ihya Karaman) The effects of nitanium maxillary expander appliances on dentofacial structures.
+
+TOP 2013 23107655 R. H..Cc    13  2  32 au[11](Maria Teresa La Rovere) n-3PUFA and Holter-derived autonomic variables in patients with heart failure: data from the Gruppo Italiano per lo Studio della Sopravvivenza nell'Insufficienza Cardiaca (GISSI-HF) Holter substudy.
+
+TOP 2015 24189484 R. H.M.c    29  1  17 au[04](Aaron Heller) Intrawound Vancomycin Powder Decreases Staphylococcal Surgical Site Infections After Posterior Instrumented Spinal Arthrodesis.
+
+TOP 2011 21654269 R. H..Cc    24  6  18 au[10](Naoyuki Kamatani) An allopurinol-controlled, multicenter, randomized, open-label, parallel between-group, comparative study of febuxostat (TMX-67), a non-purine-selective inhibitor of xanthine oxidase, in patients with hyperuricemia including those with gout in Japan: phase 2 exploratory clinical study.
+
+TOP 2012 22214795 R. H....    11  0  21 au[11](Hamid R Zahiri) Significant predictors of complications after sternal wound reconstruction: a 21-year experience.
+
+TOP 2019 31034073 R. H....     0  0  14 au[05](Kimberly Hower) Can Osteopathic Medical Students Accurately Measure Abdominal Aortic Dimensions Using Handheld Ultrasonography Devices in the Primary Care Setting?
+
+TOP 2012 21602728 R. H...c    51  5   0 au[04](Isador H Lieberman) Assessment of pedicle screw placement accuracy, procedure time, and radiation exposure using a miniature robotic guidance system.
+
+TOP 1989  2745049 R. H....    20  0  22 au[02](M J Foxall) Loneliness of chronically ill adults and their spouses.
+
+TOP 2011 21872002 R. H....     8  0  12 au[06](Loek P Meijs) The relationship between serial postinfarction T wave changes and infarct size and ventricular function as determined by cardiac magnetic resonance imaging.
+
+TOP 2006 16616131 R. H...c    12  1   3 au[05](Daniel Dunham) A clinical investigation of the fit of removable partial dental prosthesis clasp assemblies.
+1 of 12 citations downloaded:
+CIT 2017 28389024 R. H..C.     3  0  24 au[06](Jong-Won Lee) Accuracy of a digital removable partial denture fabricated by casting a rapid prototyped pattern: A clinical study.
+1 Cited by Clinical papers:
+CLI 2017 28389024 R. H..C.     3  0  24 au[06](Jong-Won Lee) Accuracy of a digital removable partial denture fabricated by casting a rapid prototyped pattern: A clinical study.
+
+No iCite results found: 32184050 32184050
+
+TOP 2008 19083423 R. H.M.c    47  4  22 au[05](Leslie A Ehlen) Acidic beverages increase the risk of in vitro tooth erosion.
+
+TOP 1992  1573623 R. H....     8  0   4 au[01](A I Odebiyi) Conception of AIDS and its prevention among students in a Nigerian university.
+
+TOP 2009 19331842 R. ..M..    90  0   0 au[06](Morten Allesø) Enhanced dissolution rate and synchronized release of drugs in binary systems through formulation: Amorphous naproxen-cimetidine mixtures prepared by mechanical activation.
+
+TOP 2005 16336062 R. H....    13  0   0 au[01](Shelley Nan Weiner) Radiology by nonradiologists: is report documentation adequate?
+
+TOP 2017 28177538 R. .A.C.     4  0  31 au[02](Nina R Kieves) Comparison of leak pressures for single-layer simple continuous suture pattern for cystotomy closure using barbed and monofilament suture material in an ex vivo canine model.
+
+No iCite results found: 32159932 32159932
+
+TOP 2013 23352372 R. H...c    47  1  17 au[06](Jack W Lambert) Using preoperative albumin levels as a surrogate marker for outcomes after radical cystectomy for bladder cancer.
+
+TOP 1997  9228140 R. H..Cc    75 22   0 au[03](J F Fries) Patient education in arthritis: randomized controlled trial of a mail-delivered program.
+
+TOP 1999 10441401 R. H....     5  0   0 au[07](J Klein) Validation of assays for use with combination vaccines.
+
+TOP 2012 23249670 R. H...c     7  1  29 au[03](David L Schriger) Presentation of continuous outcomes in randomised trials: an observational study.
+
+TOP 2009 19190504 R. H...c    15  1  50 au[03](Albert K Oh) Predictors of severity in deformational plagiocephaly.
+
+TOP 2012 23009304 R. H...c    45  4   0 au[06](Andrea DeVries) Impact of medical homes on quality, healthcare utilization, and costs.
+
+TOP 2001 11271694 R. H..Cc    33  6  26 au[06](R S Reeves) Nutrient intake of obese female binge eaters.
+
+TOP 2010 20043337 R. H...c    26  1  27 au[03](Jennifer A Dickerson) Gender-related differences in coronary artery dimensions: a volumetric analysis.
+1 of 26 citations downloaded:
+CIT 2014 25269657 R. H....    15  0  37 au[07](Amit K Hiteshi) Gender differences in coronary artery diameter are not related to body habitus or left ventricular mass.
+
+TOP 2008 17704528 R. H.M..    23  0   0 au[03](Peter B Gilbert) The 2-sample problem for failure rates depending on a continuous mark: an application to vaccine efficacy.
+
+TOP 2016 26811270 R. H....     3  0  22 au[04](David R McIlroy) Intraoperative Transesophageal Echocardiography for the Evaluation and Management of Diastolic Dysfunction in Patients Undergoing Cardiac Surgery: A Survey of Current Practice.
+
+TOP 2005 15902186 R. H.M.c    21  1  16 au[04](Dana Schey) Extensive fever workup produces low yield in determining infectious etiology.
+
+TOP 2020 31904298 R. H....     0  0  57 au[09](Keerthana Deepti Karunakaran) Resting-State Functional Connectivity of the Thalamus in Complete Spinal Cord Injury.
+
+TOP 2009 19341472 R. H...c    13  1  29 au[10](Christian Bahrs) Indications for computed tomography (CT-) diagnostics in proximal humeral fractures: a comparative study of plain radiography and computed tomography.
+
+TOP 2005 15877648 R. H.M.c    16  1  23 au[06](A Hult) Blood group genotype analysis for the quality improvement of reagent test red blood cells.
+
+TOP 2012 25006001 R. .A...     1  0   6 au[03](Milica Pojić) Robustness of the near infrared spectroscopy method determined using univariate and multivariate approach.
+
+TOP 1998  9527567 R. H....    25  0  17 au[05](M K Shrout) A comparison of 2 patient populations using fractal analysis.
+
+TOP 2008 19073509 R. H..Cc    16  7  14 au[19](Stephen Jones) The effect of tamoxifen or exemestane on bone mineral density during the first 2 years of adjuvant treatment of postmenopausal women with early breast cancer.
+
+TOP 2010 20063957 R. H....     6  0   0 au[03](M Gloria González-Morales) A longitudinal study of coping and gender in a female-dominated occupation: predicting teachers' burnout.
+
+TOP 2011 21289458 R. H....    19  0  18 au[02](Heinz Lohrer) Cross-cultural adaptation and validation of the VISA-P questionnaire for German-speaking patients with patellar tendinopathy.
+
+TOP 1997  9282303 R. H..C.     1  0   0 au[10](T Ohkawa) [Clinical phase III study of cimetropium bromide (DA3177) on the pain with upper urinary calculus: a double-blind study in comparison with scopolamine butylbromide. DA3177 Study Group].
+
+TOP 2006 17029516 R. H....     7  0   0 au[01](Arnett A Anderson) Occlusal development in children of African American descent. Types of terminal plane relationships in the primary dentition.
+
+TOP 2011 21555034 R. H..Cc     8  1  26 au[08](Genoa G Ferguson) The efficacy of oral midazolam for decreasing anxiety in children undergoing voiding cystourethrogram: a randomized, double-blind, placebo controlled study.
+
+TOP 2013 23312250 R. H....     1  0  11 au[06](Nimesh P Nagarsheth) In vitro analysis of cell salvage blood collection with a laparoscopic suction device.
+
+TOP 2011 24725455 R. H....    12  0   0 au[03](Naima Javaid) Ethnicity and age at onset in bipolar spectrum disorders.
+
+TOP 2011 22086092 R. H...c    17  2   0 au[04](David D Kim) Rates of lead migration and stimulation loss in spinal cord stimulation: a retrospective comparison of laminotomy versus percutaneous implantation.
+
+TOP 2014 24448234 R. H...c    19  1  10 au[06](Chad M Bingham) Calculated computed tomography volumes of lacrimal glands and comparison to clinical findings in patients with thyroid eye disease.
+
+TOP 2006 16452363 R. H.M.c   193  4   0 au[06](Claire E Bocchini) Panton-Valentine leukocidin genes are associated with enhanced inflammatory response and local disease in acute hematogenous Staphylococcus aureus osteomyelitis in children.
+
+TOP 2010 20139331 R. H....    17  0  24 au[06](Daryl C Osbahr) Combined flexor-pronator mass and ulnar collateral ligament injuries in the elbows of older baseball players.
+1 of 17 citations downloaded:
+CIT 2015 26740956 R. H....    34  0  43 au[05](Brandon J Erickson) Ulnar Collateral Ligament Reconstruction of the Elbow: A Systematic Review of the Literature.
+
+TOP 2010 21975887 R. H....     2  0   8 au[06](Sally Segel) A new approach to postpartum rounds: patient-centered collaborative care improves efficiency.
+
+TOP 2014 25016274 R. H..Cc     3  1   0 au[04](Syed Shahzad Ali) Comparing the effects of manual therapy versus electrophysical agents in the management of knee osteoarthritis.
+
+TOP 2009 19080008 R. H...c    49 15   6 au[05](Héctor Balcázar) A promotora de salud model for addressing cardiovascular disease risk factors in the US-Mexico border region.
+
+TOP 2002 12449258 R. H...c    37  4  16 au[01](Julie A Coplan) Ballet dancer's turnout and its relationship to self-reported injury.
+
+TOP 2016 26998665 R. H....     0  0   2 au[03](Amilliah W Kenya) Comparison of National Board of Chiropractic Examiners part I examination scores between tutors and tutees at a chiropractic college.
+
+TOP 1996  8922004 R. H..Cc    11  2  24 au[05](J M Bartfield) Topical tetracaine attenuates the pain of infiltration of buffered lidocaine.
+
+TOP 2014 24460652 R. H...c     3  1   9 au[06](Fabian Pohl) Risk of infection due to medical interventions via central venous catheters or implantable venous access port systems at the middle port of a three-way cock: luer lock cap vs. luer access split septum system (Q-Syte).
+
+TOP 2010 20230110 R. H...c    57  2   0 au[11](Lisa A Brenner) Neuropsychological test performance in soldiers with blast-related mild TBI.
+
+TOP 2009 19858955 R. H....     3  0  28 au[04](Roberta Cwynar) Factors associated with long hospital length of stay in patients receiving warfarin after cardiac surgery.
+
+TOP 2013 23725933 R. H...c     8  1   5 au[01](John L Falcone) Home-field advantage: the role of selection bias in the general surgery national residency matching program.
+
+TOP 2013 23522541 R. H.M.c    72  3  22 au[02](Daniel Felman) Coronal tooth discoloration and white mineral trioxide aggregate.
+
+TOP 2002 12464919 R. H...c    14  2  14 au[03](Donald L King) Noncompressibility of myocardium during systole with freehand three-dimensional echocardiography.
+
+TOP 2009 19256257 R. H....     0  0   0 au[02](A N Kulikova) [Hemorheologic disturbances in patients with obliterative atherosclerosis of peripheral arteries and type 2 diabetes mellitus].
+
+TOP 2009 19273756 R. H...c    44  1   0 au[04](Sonia Brar) Iron accumulation in the substantia nigra of patients with Alzheimer disease and parkinsonism.
+
+TOP 1999 10226978 R. H....     0  0   0 au[04](E Di Martino) [Drug therapy of sleep apnea syndromes: results of short-term treatment with theophylline].
+
+TOP 2013 23746798 R. H.M..     8  0  14 au[03](Minerva M Thame) Fetal growth in women with homozygous sickle cell disease: an observational study.
+
+TOP 2010 20303060 R. HAM.c    22  1  49 au[04](Sebastian Schlafer) Endodontic photoactivated disinfection using a conventional light source: an in vitro and ex vivo study.
+
+TOP 2004 15363236 R. H..Cc     7  2   0 au[08](Kang Sun) [A prospective study of the anterior cruciate ligament reconstruction: allograft versus autograft].
+
+TOP 2006 16426189 R. .A...     4  0  12 au[06](Diane E Preziosi) Distribution of Malassezia organisms on the skin of unaffected psittacine birds and psittacine birds with feather-destructive behavior.
+
+TOP 2005 16021064 R. H...c    42 13  10 au[04](Martina F Mutone) Factors which influence the short-term success of pessary management of pelvic organ prolapse.
+
+TOP 2013 23064597 R. H..C.    13  0  22 au[11](S Okuchi) Visualization of lenticulostriate arteries by flow-sensitive black-blood MR angiography on a 1.5 T MRI system: a comparative study between subjects with and without stroke.
+
+TOP 2002 12395481 R. H...c     8  1  13 au[04](Carol F Whitfield) Differences between students in problem-based and lecture-based curricula measured by clerkship performance ratings at the beginning of the third year.
+
+TOP 2009 19692076 R. H....     4  0  13 au[06](Dae-Yun Kim) Fetal pyelectasis as predictor of decreased differential renal function.
+
+TOP 1998 16558515 R. .....     3  0  18 au[04](J J Greene) Anthropometric and performance measures for high school basketball players.
+
+TOP 2004 15384907 R. .AM.c    42  8   0 au[05](S A Borges) Physiological responses of broiler chickens to heat stress and dietary electrolyte balance (sodium plus potassium minus chloride, milliequivalents per kilogram).
+
+TOP 2012 21527413 R. H...c    64  2  48 au[08](Kelly M J Diederen) Auditory hallucinations elicit similar brain activation in psychotic and nonpsychotic individuals.
+
+TOP 2011 21496938 R. ....c     3  2   3 au[06](Margaret R Stedman) A SAS macro for a clustered logrank test.
+
+TOP 2011 22106316 R. H...c    11  1  28 au[06](Glenn J R Whitman) Cardiothoracic surgeon management of postoperative cardiac critical care.
+
+TOP 2014 25028231 R. .....     0  0   0 au[01](Abdullah S Al-Swuailem) Prevalence of manufacturing defects in latex examination gloves used in selected dental practices in central Saudi Arabia.
+
+TOP 2002 11844907 R. H....    13  0   0 au[05](A H Hamdan) Gestational age at intrauterine myelomeningocele repair does not influence the risk of prematurity.
+
+TOP 1998  9788209 R. H...c     6  1   0 au[05](T Bouffard) The relation between accuracy of self-perception and cognitive development.
+
+TOP 2005 16142703 R. H...c    65  1  39 au[05](Simone Appenzeller) Cerebral and corpus callosum atrophy in systemic lupus erythematosus.
+
+TOP 2009 19961015 R. H....     0  0   0 au[03](Yan Guo) [The study on correlation between intrusion of nucleus gelatinosus into vertebral body and low back pain after thoracolumbar fractures].
+
+TOP 2010 20091489 R. H.M..    10  0   0 au[09](Hiroko Odani) Evaluation of the specific structures of IgA1 hinge glycopeptide in 30 IgA nephropathy patients by mass spectrometry.
+
+TOP 1993  8455244 R. H...c    22  3  23 au[04](V W Nitti) The Raz bladder neck suspension in patients 65 years old and older.
+
+TOP 2012 23163286 R. .A..c     4  2  23 au[04](Ursula Krotscheck) Comparison of TPA, bone healing, and intra-articular screw placement using conventional nonlocked application of surgeon-contoured versus locked application of precontoured TPLO plates in dogs.
+
+TOP 1994  7877085 R. H...c   151  8  23 au[03](N von Wowern) Osteoporosis: a risk factor in periodontal disease.
+
+TOP 2004 15599239 R. H....    29  0  12 au[06](Melanie H Erb) Effect of unilateral blepharoptosis repair on contralateral eyelid position.
+1 of 12 References downloaded:
+REF 2003 14506424 R. H...c    63  1  14 au[04](Timothy J McCulley) Outcome and influencing factors of external levator palpebrae superioris aponeurosis advancement for blepharoptosis.
+
+TOP 2011 22087573 R. H...c     6  1  33 au[04](Ossama Zakaria) Role of clinical judgment and tissue harmonic imaging ultrasonography in diagnosis of paediatric acute appendicitis.
+
+TOP 2013 23245437 R. H...c    11  1  22 au[07](William A Hall) Treatment efficiency of volumetric modulated arc therapy in comparison with intensity-modulated radiotherapy in the treatment of prostate cancer.
+
+TOP 2008 18182528 R. .AM..     0  0   3 au[04](Matthew C Reed) Assessing the effect of sample handling on the performance of a commercial bovine viral diarrhea virus antigen-capture enzyme-linked immunosorbent assay.
+
+TOP 2002 12665132 R. .A...     0  0   0 au[04](D C Lourens) Evaluation of oestrus observation and conception rates in suckling beef cows using whole milk progesterone concentration.
+
+TOP 2013 23298590 R. .AM..    14  0  27 au[05](Feng-Yi Chou) In vitro biocompatibility of magnetic thermo-responsive nanohydrogel particles of poly(N-isopropylacrylamide-co-acrylic acid) with Fe3O4 cores: effect of particle size and chemical composition.
+
+TOP 2012 23207459 R. H....     3  0  16 au[03](Fares G Mouchantaf) Characteristics and financial costs of patients with respiratory failure at bronchoscopy.
+
+TOP 2007 18482517 R. H...c     2  1   0 au[08](Elizabeth B Gaskin) Fluorescence changes in remineralized and nonremineralized enamel adjacent to glass ionomer ART restorations: an in vitro study.
+
+TOP 2019 30281193 R. H....     0  0  16 au[06](Tim Shakespeare) Successful use of "Choice Architecture" and "Nudge Theory" in a quality improvement initiative of analgesia administration after Caesarean section.
+
+TOP 1998  9515862 R. H...c    17  2  20 au[04](J S Johnson) Effects of sampling interval on peak oxygen consumption in patients evaluated for heart transplantation.
+
+TOP 2007 17397297 R. .A...    12  0  17 au[08](Patrick J Gaines) Identification of serum biomarkers for canine B-cell lymphoma by use of surface-enhanced laser desorption-ionization time-of-flight mass spectrometry.
+
+TOP 2009 19615956 R. H...c     8  1  30 au[04](Jennifer L Miller) Correlates of complementary and alternative medicine (CAM) use in Chicago area children with diabetes (DM).
+
+TOP 2011 21385520 R. .....     1  0   9 au[08](Kenta Yoshida) Specific surface area and three-dimensional nanostructure measurements of porous titania photocatalysts by electron tomography and their relation to photocatalytic activity.
+
+TOP 1992  1602844 R. .AM..    15  0  10 au[04](J Knoll) (-)deprenyl and (-)parafluorodeprenyl-treatment prevents age-related pigment changes in the substantia nigra. A TV-image analysis of neuromelanin.
+
+TOP 2012 22723290 R. H...c   108 22  41 au[04](Stephen C Mathai) The minimal important difference in the 6-minute walk test for patients with pulmonary arterial hypertension.
+
+TOP 1985  3838924 R. H..Cc    54 12   3 au[04](D T Shakespeare) Reflex inhibition of the quadriceps after meniscectomy: lack of association with pain.
+
+TOP 1987  3298070 R. H..C.    15  0  12 au[09](R J Whitley) Factors indicative of outcome in a comparative trial of acyclovir and vidarabine for biopsy-proven herpes simplex encephalitis.
+
+TOP 2007 17873981 R. ..M.c   120 12   0 au[04](Markus B Blatz) Influence of surface treatment and simulated aging on bond strengths of luting agents to zirconia.
+
+TOP 2007 17224455 R. H...c    48  1   0 au[05](William A Carey) Outcomes of dialysis initiated during the neonatal period for treatment of end-stage renal disease: a North American Pediatric Renal Trials and Collaborative Studies special analysis.
+
+TOP 2011 22006878 R. H...c    33  4  23 au[05](Gavitt A Woodard) Halo effect for bariatric surgery: collateral weight loss in patients' family members.
+
+TOP 2012 23022249 R. H....     1  0  13 au[04](Erica L McBride) Long-term follow-up of endovascular abdominal aortic aneurysm repair in a rural veteran patient population.
+
+TOP 2008 18464311 R. H...c    27  2   0 au[04](Seong-Kyu Kim) Anti-cyclic citrullinated peptide antibody, smoking, alcohol consumption, and disease duration as risk factors for extraarticular manifestations in Korean patients with rheumatoid arthritis.
+
+TOP 1990  2295521 R. H...c   157 19  24 au[03](K B Veiersted) Pattern of muscle activity during stereotyped work and its relation to muscle pain.
+
+TOP 2007 19674690 R. H....    12  0  16 au[03](Andrew J McHardy) Golf-related lower back injuries: an epidemiological survey.
+
+TOP 2006 16996467 R. H....    25  0   6 au[04](Darrel J Bell) Job satisfaction among obstetrician-gynecologists: a comparison between private practice physicians and academic physicians.
+
+TOP 2003 12609693 R. H...c    32  1   0 au[07](P Franques) Sensation seeking as a common factor in opioid dependent subjects and high risk sport practicing subjects. A cross sectional study.
+
+TOP 2012 22077199 R. H.M.c    12  1  22 au[05](Bart J Van der Schueren) Interictal type 1 cannabinoid receptor binding is increased in female migraine patients.
+
+No iCite results found: 32176049 32176049
+
+TOP 1993  8307758 .. H...c    10  3  24 au[02](N R Boyd) A meta-evaluation of nutrition education intervention research among pregnant women.
+
+TOP 1993  8216542 R. H....     7  0  24 au[04](T Izumi) Low levels of CSF gangliotetraose-series gangliosides in West syndrome: implication of brain maturation disturbance.
+
+TOP 1999 10095208 R. H.M.c    10  1  15 au[03](M Kikuchi) Method for enhancing retention in complete denture bases.
+
+TOP 2005 16106160 R. H....    12  0  18 au[05](J Gerzenshtein) Avoiding free nipple grafting with the inferior pedicle technique.
+
+TOP 2012 22890329 R. H..C.     0  0  10 au[03](Mathew George) Acetaminophen pediatric dose selection: caregiver satisfaction regarding the antipyretic efficacy of acetaminophen in children.
+
+TOP 2010 20235578 R. ..M..    25  0  11 au[08](Kyunghan Ahn) Exploring resonance levels and nanostructuring in the PbTe-CdTe system and enhancement of the thermoelectric figure of merit.
+
+TOP 2011 21911888 R. H....     6  0   0 au[06](Neil Shankar) Do older patients utilize excess health care resources after liver transplantation?
+
+TOP 2013 23255517 R. ..M..     4  0  28 au[07](Jianwei Nai) Structure-dependent electrocatalysis of Ni(OH)2 hourglass-like nanostructures towards L-histidine.
+
+TOP 1995  8746890 R. H....     3  0   6 au[04](P F Dahm) Determining the value of additional surrogate exposure data for improving the estimate of an odds ratio.
+
+TOP 2006 16432355 R. .A..c    48  1  15 au[07](Robert W Chang) Serial transverse enteroplasty enhances intestinal function in a model of short bowel syndrome.
+
+TOP 2001 11838529 R. H....    51  0   0 au[11](R Plomin) A genome-wide scan of 1842 DNA markers for allelic associations with general cognitive ability: a five-stage design using DNA pooling and extreme selected groups.
+
+TOP 2004 14982352 R. H...c    53  3   0 au[04](Matthias Karl) In vitro study on passive fit in implant-supported 5-unit fixed partial dentures.
+
+TOP 2010 19948984 R. H.M.c    19  2  27 au[06](Alexandre Simões Barbosa) Ophthalmic artery-resistive index and evidence of overperfusion-related encephalopathy in severe preeclampsia.
+
+TOP 2011 21266527 R. H...c    61  2  30 au[08](Ajay V Maker) Cyst fluid interleukin-1beta (IL1beta) levels predict the risk of carcinoma in intraductal papillary mucinous neoplasms of the pancreas.
+
+TOP 2009 19766973 R. H...c    16  1  19 au[05](Patrick A Nosti) Risk of mesh erosion after abdominal sacral colpoperineopexy with concomitant hysterectomy.
+
+TOP 2004 16296257 R. H..Cc    15  5   0 au[03](Andrew Joiner) The measurement of enamel wear of two toothpastes.
+
+TOP 2004 15617930 R. H...c     9  1  10 au[02](Hsin-Yuan Tan) Refractive error with optimum intraocular lens power calculation after glaucoma filtering surgery.
+
+TOP 2001 11458048 R. ..M.c    23  1  26 au[06](I Lebedeva) Chemosensitization of bladder carcinoma cells by bcl-xL antisense oligonucleotides.
+
+TOP 2009 19218788 R. H.M..    16  0   0 au[07](Zhi Yang) Relationship between the CAG repeat polymorphism in the androgen receptor gene and acne in the Han ethnic group.
+
+TOP 2012 22948654 R. H....     1  0   6 au[02](Percy Rossell-Perry) Asymmetric bilateral cleft lip: classification and a surgical technique.
+
+TOP 2005 16494260 R. H...c    19  2  36 au[07](Emmanuel Stip) Neural correlates of sad feelings in schizophrenia with and without blunted affect.
+
+TOP 2005 16373140 R. H...c    49  7  26 au[06](Lorie G Richards) Characterizing occupational therapy practice in stroke rehabilitation.
+
+TOP 2011 21097677 R. H....    44  0  14 au[06](W Greg Miller) Commutability limitations influence quality control results with different reagent lots.
+
+TOP 2005 15837904 R. H....    25  0  16 au[05](Scott C Manning) Laryngeal anatomic differences in pediatric patients with severe laryngomalacia.
+
+TOP 2000 10735686 R. .A.Cc    14  2  20 au[07](W A Mutch) Biologically variable pulsation improves jugular venous oxygen saturation during rewarming.
+
+TOP 2001 11112946 R. H....    17  0   5 au[01](A McCulloch) Teenage childbearing in Great Britain and the spatial concentration of poverty households.
+
+TOP 2011 23569764 R. H.M..     7  0  10 au[02](Sakhaee Ehsanollah) Detection of leptospiral antibodies by microscopic agglutination test in north-east of Iran.
+
+TOP 2011 20871815 R. H....     3  0  11 au[05](Nimalie J Perera) Refsum's Disease-Use of the Intestinal Lipase Inhibitor, Orlistat, as a Novel Therapeutic Approach to a Complex Disorder.
+
+TOP 2001 11323595 R. H..Cc    20  5   4 au[04](D Sorbi) Clinical application of a new colonoscope with variable insertion tube rigidity: a pilot study.
+
+TOP 1999 10382189 R. H....    14  0   0 au[02](J M Fall-Dickson) Caring for patients who experience chemotherapy-induced side effects: the meaning for oncology nurses.
+
+TOP 2002 11781126 R. H...c   213  4  18 au[04](P C Lambert) A comparison of summary patient-level covariates in meta-regression with individual patient data meta-analysis.
+
+TOP 1996  8886660 R. H....     2  0  15 au[06](A R Andersen) Interictal SPECT of rCBF is of clinical utility in the preoperative evaluation of patients with partial epilepsy.
+
+TOP 1999  9867886 R. H....     4  0   7 au[05](D R Johnson) A new approach to teaching prehospital trauma care to paramedic students.
+
+TOP 2009 19700992 R. H...c    12  2   4 au[03](Cameron J Vanlaningham) Skeletal versus skin traction before definitive management of pediatric femur fractures: a comparison of patient narcotic requirements.
+
+TOP 2007 18193738 R. .A...     6  0   0 au[02](Harold M Campbell) Determination of zearalenone in cereal grains, animal feed, and feed ingredients using immunoaffinity column chromatography and liquid chromatography: interlaboratory study.
+
+TOP 2019 31630511 R. HA...     0  0   0 au[07](Sher-Lu Pai) Gastric emptying of "clear liquid drinks" assessed with gastric ultrasonography: a blinded, randomized pilot study.
+
+TOP 2012 21611795 R. H....     1  0  37 au[05](C Brockmann) Acetylsalicylic acid does not prevent digital subtraction angiography-related high signal intensity lesions in diffusion-weighted imaging in cerebrovascular patients. A retrospective analysis.
+
+TOP 2005 16366765 R. H..Cc    12  2  46 au[03](Todd C Helmus) Reinforcing effects of diazepam under anxiogenic conditions in individuals with social anxiety.
+
+TOP 1996  8875450 R. .A...     3  0   0 au[05](R Tanaka) Effects of nilvadipine (a dihydropyridine-type calcium entry blocker) on cerebral blood flow in acute experimental brain ischemia in rats.
+
+TOP 1982  7057798 R. .AM.c    25  1  16 au[02](D E Amacher) Mutagenic evaluation of carcinogens and non-carcinogens in the L5178Y/TK assay utilizing postmitochondrial fractions (S9) from normal rat liver.
+1 of 16 References downloaded:
+REF 1980  7453708 R. .AM.c    71  1  18 au[05](D E Amacher) Point mutations at the thymidine kinase locus in L5178Y mouse lymphoma cells. II. Test validation and interpretation.
+
+TOP 2001 11505258 R. H...c    51  6  10 au[06](A J Van der Meij) Bone volume after secondary bone grafting in unilateral and bilateral clefts determined by computed tomography scans.
+
+TOP 2008 18441727 R. H....     4  0   0 au[05](Michael L Hoffman) Abnormal folate metabolism as a risk factor for first-trimester spontaneous abortion.
+
+TOP 2005 15798682 R. H..C.    18  0  38 au[05](Matthias Karl) Static implant loading caused by as-cast metal and ceramic-veneered superstructures.
+1 of 38 References downloaded:
+REF 2004 14982352 R. H...c    53  3   0 au[04](Matthias Karl) In vitro study on passive fit in implant-supported 5-unit fixed partial dentures.
+
+TOP 1988  3238354 R. H....     1  0   0 au[03](S Ferri) Environmental and social factors in rheumatoid factor epidemiology.
+
+TOP 2005 15643250 R. H....    17  0  18 au[02](Phuong N Huynh) Trends toward laparoscopic nephrectomy at a community hospital.
+
+TOP 1973  4703656 R. H....     7  0   0 au[04](J W Winkelman) Estimation of norms from a controlled sample survey. II. Influence of body habitus, oral contraceptives, and other factors on values for the normal range derived from the SMA 12-60 screening group of tests.
+
+TOP 2008 18998006 R. H....     8  0   0 au[05](Yong-chao Zhang) Expression of survivin in invasive pituitary adenoma.
+
+TOP 2000 10630936 R. H..Cc    29  4  20 au[06](J E Van Sickels) Technical factors accounting for stability of a bilateral sagittal split osteotomy advancement: wire osteosynthesis versus rigid fixation.
+
+TOP 2000 10725947 R. H....     3  0  13 au[06](P M Maxson) Detectable blood alcohol after a motor vehicle crash and screening for alcohol abuse/dependence.
+
+TOP 2000 10820297 R. H..Cc    16  5  10 au[03](D D Kelly) Use of a mental rotation reaction-time paradigm to measure the effects of upper cervical adjustments on cortical processing: a pilot study.
+
+TOP 1996  9055330 R. H....     8  0   0 au[06](D N Thompson) Congenital cervical spinal fusion: a study in Apert syndrome.
+
+TOP 1998  9698717 R. H..Cc     6  2   0 au[04](T F Jackson) A comparison of mebendazole and albendazole in treating children with Trichuris trichiura infection in Durban, South Africa.
+
+TOP 2009 19564595 R. .....     7  0  10 au[10](Laurence Y Yeung) Large and unexpected enrichment in stratospheric 16O13C18O and its meridional variation.
+
+TOP 1985  4030812 R. H....     1  0   3 au[02](F Yusuf) The changing pattern of contraception in Lahore, Pakistan: 1963-80.
+
+TOP 2010 20375510 R. H...c    17  1   0 au[08](Teruyuki Matsuoka) Insular hypoperfusion correlates with the severity of delusions in individuals with Alzheimer's disease.
+
+TOP 2001 12811907 R. H....     5  0   0 au[03](J L Caldow) Independent nursing practice: a national survey of attitudes of practice employed nurses in Scotland.
+
+TOP 2008 19014165 R. HA.Cc    42 14   0 au[05](Antonin Simunek) Deproteinized bovine bone versus beta-tricalcium phosphate in sinus augmentation surgery: a comparative histologic and histomorphometric study.
+
+TOP 1998  9638092 R. H....     1  0   0 au[04](S Kudlacek) [Lumbar bone density. Risk factor for vertebral fractures in women].
+
+TOP 2000 11216275 R. H...c    15  2  21 au[05](S De Geest) Clinical risk associated with appointment noncompliance in heart transplant recipients.
+
+TOP 1992  1344816 R. H....    13  0   0 au[06](I Shahab) Morphometric quantitation of tumor necrosis in stage 1 non-small cell carcinoma of lung: prognostic implications.
+
+TOP 2001 11668363 R. .A...     4  0  18 au[06](J C Drouilhet) Increased intimal hyperplasia after carotid endarterectomy in spontaneously hypertensive rats.
+
+TOP 2005 15988105 R. H..Cc     4  1  14 au[03](Jeffrey J Fine) Abnormal ankle brachial indices may predict cardiovascular disease among diabetic patients without known heart disease.
+
+TOP 1998 12293872 R. .....     9  0   1 au[02](M Tranmer) Using census data to investigate the causes of the ecological fallacy.
+
+TOP 1993  8461943 R. H.M..     1  0  11 au[04](H Füredi-Milhofer) New method for discriminating between calcium stone formers and healthy individuals.
+
+TOP 2010 20841534 R. H..Cc    12  1   9 au[02](Sunita Sah) Effect of reminders of personal sacrifice and suggested rationalizations on residents' self-reported willingness to accept gifts: a randomized trial.
+
+TOP 2003 12556252 R. H...c     6  3   0 au[04](Timothy Dinesen) A comparison of the OxyArm oxygen delivery device and standard nasal cannulae in chronic obstructive pulmonary disease patients.
+
+TOP 1983  6881060 R. HA...     4  0   0 au[07](R J Soto) Data base management system for tracking occupational health.
+
+TOP 2010 23451558 R. H.M..    13  0   0 au[05](S Attoh) Human papilloma virus genotypes in Ghanaian women with cervical carcinoma.
+
+TOP 2014 25120388 R. H....     0  0   3 au[08](Norman F Truong) Abdominal fat suspension device for maintaining normal cardiorespiratory function in patients undergoing conscious sedation during surgery: a feasibility study.
+
+TOP 2005 16366083 R. H..Cc    13  1   0 au[03](Steven J Rottman) Extramedullary versus intramedullary tibial alignment guides for total knee arthroplasty.
+
+TOP 2009 19683186 R. H....     7  0  45 au[05](Gerard P Barry) Performance of strabismic subjects using a validated surgical training module: a pilot study.
+
+TOP 2005 16325630 R. H...c     8  2  15 au[01](James Chivian Lukban) Suburethral sling using the transobturator approach: a quality-of-life analysis.
+
+TOP 2001 11231765 R. H..Cc    66  7  11 au[03](D C Herman) Increased corneal thickness in patients with ocular hypertension.
+
+TOP 1987  3558277 R. .....     1  0   0 au[02](H Chow) Phosphorus in wine: comparison of atomic absorption spectrometry methods.
+
+TOP 2017 28116033 R. H....     2  0  10 au[04](Michael Chary) Differences in Self-expression Reflect Formal Evaluation in a Fourth-year Emergency Medicine Clerkship.
+
+TOP 2017 27834725 R. H....     9  0   0 au[09](Kyle Bauer) Do Gadolinium-Based Contrast Agents Affect 18 F-FDG PET/CT Uptake in the Dentate Nucleus and the Globus Pallidus? A Pilot Study.
+
+TOP 2016 27271277 R. H....     2  0  10 au[07](Carmine Catalano) Video capsule endoscopy: is bowel preparation necessary?
+
+TOP 2016 26720204 R. H....     0  0  26 au[07](Chunmiao Xu) Liver Malignancies Treated With Intra-Arterial Therapy: Assessment of Early Response as Quantified by Volumetric Enhancement Using Gadoxetate Disodium.
+
+TOP 2015 25498884 R. H....     5  0   7 au[05](Abhiram R Bhashyam) A novel approach for needs assessment to build global orthopedic surgical capacity in a low-income country.
+
+TOP 2014 24858583 R. H....     2  0  13 au[04](Jared R Hylton) Octogenarians develop infrapopliteal arterial occlusive disease in the absence of traditional risk factors.
+
+TOP 2014 24054870 R. H..Cc     7  1  13 au[12](Ian M Thompson) Blood loss associated with radical cystectomy: a prospective, randomized study comparing Impact LigaSure vs. stapling device.
+
+TOP 2013 23254818 R. H...c    22  1  13 au[10](Cristian J Luciano) Percutaneous spinal fixation simulation with virtual reality and haptics.
+
+TOP 2011 21163493 R. H....     5  0  12 au[03](Shamim Nemati) T-wave alternans patterns during sleep in healthy, cardiac disease, and sleep apnea patients.
+
+TOP 2010 20852059 R. H..Cc    20  5  24 au[11](Eugene S Chung) Effect of peri-infarct pacing early after myocardial infarction: results of the prevention of myocardial enlargement and dilatation post myocardial infarction study.
+
+TOP 2010 20529980 R. H...c    14  2  19 au[04](Stacie G Deiner) Patient characteristics and anesthetic technique are additive but not synergistic predictors of successful motor evoked potential monitoring.
+
+TOP 2009 19896047 R. H...c    10  1   7 au[05](Todd Baldini) Strength of single- versus double-anchor repair of type II SLAP lesions: a cadaveric study.
+
+TOP 2009 19499751 R. H....     2  0   0 au[08](Emanuele Montanari) Minute focus of prostate cancer on needle biopsy: correlation with radical prostatectomy specimen.
+
+TOP 2020 31633573 R. H....     0  0  18 au[08](Kirsi Härmä) Cloverleaf Sign in Pelvic Magnetic Resonance Imaging for Deep Infiltrating Endometriosis: Association With Longer Operation Times, Greater Blood Loss, and Higher Rates of Bowel Resection.
+
+TOP 2019 31340466 R. H....     0  0  21 au[07](Yuriko Ikeda) Instrumental Activities of Daily Living: The Processes Involved in and Performance of These Activities by Japanese Community-Dwelling Older Adults with Subjective Memory Complaints.
+
+TOP 2019 31086796 R. H....     1  0  20 au[08](Carlos E Garcia Rodriguez) Students Teaching Students: A Novel Solution for Teaching Procedures via Instruction on the Corpse.
+
+TOP 2018 29912033 RP H....     4  0  33 au[04](Bram P Raphael) Analysis of Healthcare Institutional Costs of Pediatric Home Parenteral Nutrition Central Line Infections.
+
+TOP 2019 29300258 R. H....     0  0  10 au[06](Elizabeth M Strom) Effectiveness of Assessing Ureteral Patency Using Preoperative Phenazopyridine.
+
+TOP 2013 24079558 R. H...c    10  1  22 au[05](Junping Ma Bergin) An in vitro comparison of photogrammetric and conventional complete-arch implant impression techniques.
+
+TOP 2010 20864854 R. .A...    14  0  11 au[04](James J McCarthy) Guided growth of the proximal femur: a pilot study in the lamb model.
+
+TOP 2010 20096787 R. H...c    42  2  35 au[08](Lisbeth Marner) Brain imaging of serotonin 4 receptors in humans with [11C]SB207145-PET.
+
+TOP 2009 19167536 R. ....c    40  2  27 au[05](Akihiko Shirakura) The influence of veneering porcelain thickness of all-ceramic and metal ceramic crowns on failure resistance after cyclic loading.
+
+TOP 2008 18995175 R. H...c     7  2  35 au[07](Jalal K Ghali) Exploring the potential synergistic action of spironolactone on nitric oxide-enhancing therapy: insights from the African-American Heart Failure Trial.
+
+TOP 2006 17069101 R. H...c    24  1  64 au[10](Young J Juhn) Childhood asthma and measles vaccine response.
+
+TOP 1998  9444336 R. .A..c    22  1  59 au[04](B J Zink) Effects of ethanol in an experimental model of combined traumatic brain injury and hemorrhagic shock.
+
+TOP 2012 22261783 R. H.M..    22  0  26 au[07](Ashok Srinivasan) Utility of pretreatment mean apparent diffusion coefficient and apparent diffusion coefficient histograms in prediction of outcome to chemoradiation in head and neck squamous cell carcinoma.
+
+TOP 2011 21605705 R. HAM..    17  0  19 au[05](F Van den Broeck) Optimal sample storage and extraction procotols for reliable multilocus genotyping of the human parasite Schistosoma mansoni.
+
+TOP 2009 19322003 R. H..Cc    13  1   0 au[03](Chung-Jing Wang) Adjunctive medical therapy with an alpha-1A-specific blocker after shock wave lithotripsy of lower ureteral stones.
+
+TOP 2002 12093957 R. H....    21  0   0 au[05](Marguerite Herschel) Isoimmunization is unlikely to be the cause of hemolysis in ABO-incompatible but direct antiglobulin test-negative neonates.
+
+TOP 2013 23714266 R. H....    38  0  31 au[11](Ji-Young Kim) Increased power spectral density in resting-state pain-related brain networks in fibromyalgia.
+
+TOP 2010 20510575 R. H.M..     5  0  14 au[06](Alexandre Semionov) Pandemic influenza A (H1N1) 2009: chest radiographic findings from 147 proven cases in the Montreal area.
+
+TOP 2010 20187091 R. H...c    57  6  23 au[07](Bo Yu) Changes in markers of ovarian reserve and endocrine function in young women with breast cancer undergoing adjuvant chemotherapy.
+
+TOP 2008 19035096 R. H....    11  0   0 au[11](Zhi-Qiang Zhang) [Application of amplitude of low-frequency fluctuation to the temporal lobe epilepsy with bilateral hippocampal sclerosis: an fMRI study].
+
+TOP 2006 16484526 R. .A..c    66  5  29 au[04](Erin E Mosley) cis-9, trans-11 conjugated linoleic acid is synthesized directly from vaccenic acid in lactating dairy cattle.
+
+TOP 2002 12297142 R. H.M..     8  0  14 au[08](Min Huan Jen) Micronuclei and nuclear anomalies in urinary exfoliated cells of subjects in radionuclide-contaminated regions.
+
+TOP 2001 11302597 R. H...c    33  8  29 au[03](M Gomez) Reduced blood loss during burn surgery.
+
+TOP 1996  8961908 R. H...c    68  6  39 au[04](E Ciruelo) Cumulative rate of relapse of lupus nephritis after successful treatment with cyclophosphamide.
+
+TOP 2017 27979446 R. H....     5  0  15 au[11](Michael J Connor) Adverse Events Involving Radiation Oncology Medical Devices: Comprehensive Analysis of US Food and Drug Administration Data, 1991 to 2015.
+1 of 5 citations downloaded:
+CIT 2017 28463163 R. .....     2  0  12 au[12](Michael J Connor) Medical Device Recalls in Radiation Oncology: Analysis of US Food and Drug Administration Data, 2002-2015.
+
+TOP 2015 26509683 R. H..C.     3  0  27 au[05](Justin H Rigby) Intramuscular Heating Characteristics of Multihour Low-Intensity Therapeutic Ultrasound.
+
+TOP 2019 30651005 R. H....     0  0  11 au[14](Sankalp Das) The Impact of Lifestyle Modification on Cardiometabolic Risk Factors in Health-Care Employees With Type 2 Diabetes.
+
+TOP 2013 23958816 R. H.M.c    17  2  18 au[07](Aparna Mukherjee) Ambulatory gastric lavages provide better yields of Mycobacterium tuberculosis than induced sputum in children with intrathoracic tuberculosis.
+
+TOP 2017 29094161 R. H....    31  0  53 au[05](Fernando Pires Hartwig) Inflammatory Biomarkers and Risk of Schizophrenia: A 2-Sample Mendelian Randomization Study.
+
+TOP 2011 21923426 R. H..Cc     6  1  26 au[04](Sreekala Prabhakaran) Methacholine challenge as a clinical bioassay of pulmonary delivery of a long-acting β₂-adrenergic agonist.
+
+TOP 2018 29982347 RP H....     1  0  47 au[05](Gunn-Helen Moen) Are serum concentrations of vitamin B-12 causally related to cardiometabolic risk factors and disease? A Mendelian randomization study.
+1 of 47 References downloaded:
+REF 2013 23863760 R. H...c   142  7  11 au[02](Brandon L Pierce) Efficient design for Mendelian randomization studies: subsample and 2-sample instrumental variable estimators.
+
+TOP 2018 29659041 RP H....     0  0  30 au[05](S Vega-López) Association of added sugar intake and caries-related experiences among individuals of Mexican origin.
+
+TOP 2017 28470976 R. H....     1  0  21 au[09](Corey T Jensen) Qualitative Slow Blood Flow in Lower Extremity Deep Veins on Doppler Sonography: Quantitative Assessment and Preliminary Evaluation of Correlation With Subsequent Deep Venous Thrombosis Development in a Tertiary Care Oncology Center.
+
+TOP 2016 27370308 R. H..Cc     3  1  15 au[06](Adolfo Renzi) Evaluating the Surgeons' Perception of Difficulties of Two Techniques to Perform STARR for Obstructed Defecation Syndrome: A Multicenter Randomized Trial.
+
+TOP 2016 26474379 R. H....     6  0   6 au[09](Elizabeth Salt) Risk Factors for Targeted Fungal and Mycobacterial Infections in Patients Taking Tumor Necrosis Factor Inhibitors.
+
+TOP 2013 23853221 R. H...c     9  2  39 au[11](Albeir Y Mousa) Patency in arteriovenous grafts in hemodialysis patients.
+
+TOP 2013 22583606 R. H.M.c    28  4  17 au[06](Mohsen Bakhshandeh) Normal tissue complication probability modeling of radiation-induced hypothyroidism after head-and-neck radiation therapy.
+
+TOP 2012 21840102 R. H..Cc    18  1  29 au[08](Paul W Poeschl) Application of platelet-rich plasma for enhanced bone regeneration in grafted sinus.
+
+TOP 2010 19897787 R. .A..c    21  1  43 au[04](Jie Zhang) Differential effects of clinical doses of antenatal betamethasone on nephron endowment and glomerular filtration rate in adult sheep.
+
+TOP 2007 17573444 R. H...c    58 10  16 au[02](Robert West) Is nicotine replacement therapy for smoking cessation effective in the "real world"? Findings from a prospective multinational cohort study.
+
+TOP 2020 32088110 R. H....     0  0   0 au[07](Daniel Horwitz) Long-term outcomes comparing metabolic surgery to no surgery in patients with type 2 diabetes and body mass index 30-35.
+
+TOP 2019 31920201 R. .....     0  0   0 au[04](Nolan A Denny) Operating Room Waste Reduction.
+
+TOP 2019 31285042 R. H....     0  0   0 au[10](Ann McGaffey) A "Sense"-ational HPV Vaccination Quality Improvement Project in a Family Medicine Residency Practice.
+
+TOP 2017 28418784 R. H....     1  0  23 au[07](Hilary C McCrary) A Fresh Cadaver Model for the Instruction of Ultrasound-Guided Fine-Needle Aspiration of Thyroid Nodules.
+
+TOP 2016 27243139 R. H...c     6  1  18 au[05](Lindsay M Kuroki) See-and-Treat Loop Electrosurgical Excision Procedure for High-Grade Cervical Cytology: Are We Overtreating?
+
+TOP 2014 25132659 R. H....    31  0  27 au[12](Lisa A Radkay) Thyroid nodules with KRAS mutations are different from nodules with NRAS and HRAS mutations with regard to cytopathologic and histopathologic outcome characteristics.
+
+TOP 2014 24342575 R. H....     2  0  34 au[04](Ryan Newell Bullen) Self-perception of the facial profile: an aid in treatment planning for orthognathic surgery.
+
+TOP 2013 23558408 R. H...c    20  4  33 au[07](Pamela J Atherton) The relation between cancer patient treatment decision-making roles and quality of life.
+
+TOP 2013 23452970 R. H...c     3  1  14 au[02](Shiwen Zhu) Association between gingival recession and proclination of maxillary central incisors near the cleft in patients with unilateral cleft lip and palate: A retrospective case-control study.
+
+TOP 2012 23160929 R. .AM..     7  0  49 au[13](Swetha Mahesula) Immunoenrichment microwave and magnetic proteomics for quantifying CD47 in the experimental autoimmune encephalomyelitis model of multiple sclerosis.
+
+TOP 2010 20297865 R. H...c    11  1  18 au[05](Evelyn D Lobo) Oral olanzapine disposition in adolescents with schizophrenia or bipolar I disorder: a population pharmacokinetic model.
+
+TOP 2006 16631066 R. H.M..    16  0  20 au[05](Juergen Kampmeier) Effect of growth factors on proliferation and expression of growth factor receptors in a human lens epithelial cell line.
+
+TOP 2019 31764799 R. H....     0  0  14 au[07](Zhe Xu) Regional homogeneity and functional connectivity analysis of resting-state magnetic resonance in patients with bipolar II disorder.
+
+TOP 2018 30177514 RP H....     3  0  18 au[08](Joseph Schulman) Variations in Neonatal Antibiotic Use.
+
+TOP 2017 29200856 R. H.M..     4  0  43 au[08](Shao-Hua Hu) Altered microstructure of brain white matter in females with anorexia nervosa: a diffusion tensor imaging study.
+
+TOP 2016 26858672 R. H....     3  0  19 au[07](Luciana Mendonça Alves) Rapid Naming in Brazilian Students with Dyslexia and Attention Deficit Hyperactivity Disorder.
+
+TOP 2015 25785486 R. H.M..    10  0  31 au[12](Jussuf T Kaifi) Circulating tumor cell levels are elevated in colorectal cancer patients with high tumor burden in the liver.
+
+TOP 2014 25367337 R. HAM..     2  0  35 au[07](Su Jin Kim) Knockdown of anterior gradient 2 expression extenuates tumor-associated phenotypes of SNU-478 ampulla of Vater cancer cells.
+
+TOP 2014 24136321 R. H..Cc     2  1  13 au[03](Stephen J Wetmore) Split thickness skin grafting in canal wall down tympanomastoidectomy.
+
+TOP 2013 24029556 R. H..Cc    19  4  46 au[05](Jessica Chubak) Uptake and positive predictive value of fecal occult blood tests: A randomized controlled trial.
+1 of 46 References downloaded:
+REF 2011 21185397 R. H...c    50 10  18 au[14](Aafke H C van Roon) Diagnostic yield improves with collection of 2 samples in fecal immunochemical test screening without affecting attendance.
+
+TOP 2012 22006448 R. H.M..    31  0  32 au[12](Jian-Guang Wang) Disorders in angiogenesis and redox pathways are main factors contributing to the progression of rheumatoid arthritis: a comparative proteomics study.
+
+TOP 2011 21527997 R. H...c    19  3  39 au[06](Kaveh Azartash) Pre-corneal tear film thickness in humans measured with a novel technique.
+
+TOP 2010 20683195 R. H.M..     6  0  21 au[05](Tzong-Hae Lee) The role of transplacental microtransfusions of maternal lymphocytes in in utero HIV transmission.
+
+TOP 2008 18656633 R. .AM..    18  0  21 au[06](Mikel Sadek) Gene expression analysis of a porcine native abdominal aortic aneurysm model.
+
+TOP 2019 30660111 R. .....     1  0  10 au[10](Ibrahim Hussain) Spinal Instability Neoplastic Score component validation using patient-reported outcomes.
+
+TOP 2018 29882298 RP H....     1  0  24 au[07](Makoto Nagoshi) Low-dose dexmedetomidine as an adjuvant to propofol infusion for children in MRI: A double-cohort study.
+
+TOP 2017 29033801 R. H....     1  0  53 au[09](Shashwath A Meda) Heavy Drinking in College Students Is Associated with Accelerated Gray Matter Volumetric Decline over a 2 Year Period.
+
+TOP 2017 28499978 R. H..C.     1  0  14 au[05](Laura P Cohen) Salt Taste Recognition in a Heart Failure Cohort.
+
+TOP 2014 24651745 R. H....     8  0  34 au[11](Ji Yung Choo) Quantitative analysis of lungs and airways with CT in subjects with the chronic obstructive pulmonary disease (COPD) candidate FAM13A gene: case control study for CT quantification in COPD risk gene.
+
+TOP 2012 22542582 R. H...c    17  4  14 au[12](Jean Faivre) Positivity rates and performances of immunochemical faecal occult blood tests at different cut-off levels within a colorectal cancer screening programme.
+1 of 17 citations downloaded:
+CIT 2013 24029556 R. H..Cc    19  4  46 au[05](Jessica Chubak) Uptake and positive predictive value of fecal occult blood tests: A randomized controlled trial.
+1 Cited by Clinical papers:
+CLI 2013 24029556 R. H..Cc    19  4  46 au[05](Jessica Chubak) Uptake and positive predictive value of fecal occult blood tests: A randomized controlled trial.
+1 of 14 References downloaded:
+REF 2011 21185397 R. H...c    50 10  18 au[14](Aafke H C van Roon) Diagnostic yield improves with collection of 2 samples in fecal immunochemical test screening without affecting attendance.
+
+TOP 2008 18204291 R. H...c    16  2  33 au[10](Linda C W Lam) Screening of mild cognitive impairment in Chinese older adults--a multistage validation of the Chinese abbreviated mild cognitive impairment test.
+
+TOP 2007 18068605 R. H...c    19  2  14 au[03](Nikolaos Pandis) Changes in the stiffness of the ligating mechanism in retrieved active self-ligating brackets.
+
+TOP 2004 14752760 R. H...c    50  2  55 au[04](John M Schuberth) Deltoid ligament integrity in lateral malleolar fractures: a comparative analysis of arthroscopic and radiographic assessments.
+
+TOP 2017 28451494 R. H....    10  0  42 au[46](Sara E Thompson) C5 Palsy After Cervical Spine Surgery: A Multicenter Retrospective Review of 59 Cases.
+
+TOP 2015 26199386 R. H..C.     1  0  52 au[11](Peter H O'Donnell) Serum C-Telopeptide Collagen Crosslinks and Plasma Soluble VEGFR2 as Pharmacodynamic Biomarkers in a Trial of Sequentially Administered Sunitinib and Cilengitide.
+
+TOP 2016 27603676 R. H....     5  0  23 au[06](Euphemia W Mu) Use of Digitally Stained Multimodal Confocal Mosaic Images to Screen for Nonmelanoma Skin Cancer.
+
+TOP 2020 32054301 R. H....     0  0  26 au[21](Michael M Lindeborg) Nepali Linguistic Validation of the Velopharyngeal Insufficiency Effects on Life Outcomes Instrument: VELO-Nepali.
+
+TOP 2019 31527283 R. H..C.     0  0   0 au[06](Sandeep Grover) Risky behaviors and Parkinson disease: A mendelian randomization study.
+
+TOP 2019 30948224 R. H....     1  0   0 au[07](Omar Hussein) The Significance of Contrast Density of the Computed Tomography-Angiographic Spot Sign and its Correlation with Hematoma Expansion.
+
+TOP 2019 30442422 R. H....     0  0   0 au[05](Nneka L Ifejika) Cluster Enrollment: A Screening Tool for Stroke Risk Factors in Minority Women Caregivers.
+
+TOP 2016 27306634 R. H....    10  0  12 au[12](Nicholas E Johnson) Disease burden and functional outcomes in congenital myotonic dystrophy: A cross-sectional study.
+
+TOP 2015 26509894 R. H.M.c    10  1  21 au[06](Malika Davids) A Survey on Use of Rapid Tests and Tuberculosis Diagnostic Practices by Primary Health Care Providers in South Africa: Implications for the Development of New Point-of-Care Tests.
+
+TOP 2011 22321709 R. H....     4  0   0 au[04](Shuo Liu) [An epidemiological study of chronic obstructive pulmonary disease in greenhouse farmers in Liaoning Province from 2006 to 2009].
+
+TOP 2009 19546830 R. H...c     8  1  16 au[05](Marco Antonio Ayala) Laryngeal mask airway use in otologic surgery.
+
+TOP 2019 31274602 R. H....     0  0   0 au[10](Takehiro Kinjo) Effects of Perioperative Administration of Acetaminophen on Postoperative Shivering: A Randomized, Triple-Blind, Placebo-Controlled Trial.
+
+TOP 2019 29944460 R. H....     4  0  26 au[07](Samuel J Rubin) Stage II Oral Tongue Cancer: Survival Impact of Adjuvant Radiation Based on Depth of Invasion.
+
+TOP 2017 27754596 R. H....     6  0  10 au[07](Abib Agbetoba) Educational utility of advanced three-dimensional virtual imaging in evaluating the anatomical configuration of the frontal recess.
+
+TOP 2014 24928306 R. H...c     5  1  15 au[04](Maya K Nanda) A cross-sectional questionnaire assessing patient and physician use of short-term prophylaxis for hereditary angioedema.
+
+TOP 2012 22908896 R. .AM..     8  0  30 au[08](Lishan Liu) Enhancement of electron spin echo envelope modulation spectroscopic methods to investigate the secondary structure of membrane proteins.
+
+TOP 2012 22392172 R. H..Cc    41  8  37 au[03](Tonja R Nansel) Clinic-integrated behavioral intervention for families of youth with type 1 diabetes: randomized clinical trial.
+
+TOP 2001 11154360 R. H..Cc   139  9  12 au[03](R K Peterson) Allograft versus autograft patellar tendon anterior cruciate ligament reconstruction: A 5-year follow-up.
+
+TOP 2020 32089329 R. H....     0  0   0 au[07](Rubens Belfort) Fixed-combination Bimatoprost/Brimonidine/Timolol in Glaucoma: A Randomized, Masked, Controlled, Phase III Study Conducted in Brazil<sup>☆</sup>.
+
+TOP 2019 30989761 R. H.M..     1  0  36 au[13](Augustin Lecler) Quality-based pharmacokinetic model selection on DCE-MRI for characterizing orbital lesions.
+
+TOP 2019 30352484 R. H....     0  0  10 au[07](Man Zhang) Quantitative Assessment of Liver Stiffness Using Ultrasound Shear Wave Elastography in Patients With Chronic Graft-Versus-Host Disease After Allogeneic Hematopoietic Stem Cell Transplantation: A Pilot Study.
+
+TOP 2017 29167147 R. H....     1  0  12 au[04](Bryan C McCarthy) Medication errors resulting in harm: Using chargemaster data to determine association with cost of hospitalization and length of stay.
+
+TOP 2018 29044641 RP H....     4  0  35 au[06](Bo Ra Yang) Qualitative and Semiquantitative Elastography for the Diagnosis of Intermediate Suspicious Thyroid Nodules Based on the 2015 American Thyroid Association Guidelines.
+
+TOP 2015 26256297 R. H....     3  0  25 au[06](Noah G Oliver) Influence of Hallux Rigidus on Reamputation in Patients With Diabetes Mellitus After Partial Hallux Amputation.
+
+TOP 2009 19577136 R. H.M.c    23  2  16 au[07](Wolfram Hahn) Influence of thermoplastic appliance thickness on the magnitude of force delivered to a maxillary central incisor during tipping.
+
+TOP 2007 17507810 R. H...c    28  3  17 au[06](Kambiz Nael) 3.0 Tesla high spatial resolution contrast-enhanced magnetic resonance angiography (CE-MRA) of the pulmonary circulation: initial experience with a 32-channel phased array coil using a high relaxivity contrast agent.
+
+TOP 2006 16523022 R. H...c    42  7  26 au[07](Kambiz Nael) High spatial-resolution CE-MRA of the carotid circulation with parallel imaging: comparison of image quality between 2 different acceleration factors at 3.0 Tesla.
+
+TOP 2019 31702990 R. H.M..     1  0   0 au[03](Ryan H Fitzgerald) Evaluation of Wound Closure Rates Using a Human Fibroblast-derived Dermal Substitute Versus a Fetal Bovine Collagen Dressing: A Retrospective Study.
+
+TOP 2019 31052543 R. ..M..     0  0  18 au[09](Haiyang Wang) The Preparation and Catalytic Properties of Nanoporous Pt/CeO 2 Composites with Nanorod Framework Structures.
+
+TOP 2018 30185446 RP H..Cc     7  1  22 au[07](P Emanuela Voinescu) Antiepileptic drug clearances during pregnancy and clinical implications for women with epilepsy.
+
+TOP 2017 27697359 R. H.M..     3  0  33 au[07](Miklos D Kertai) Mast cell activation and arterial hypotension during proximal aortic repair requiring hypothermic circulatory arrest.
+
+TOP 2016 27196645 .. H...c    26  3  48 au[02](Rebeccah Sokol) Peer Support for the Hardly Reached: A Systematic Review.
+
+TOP 2015 25488314 R. H...c     8  1  21 au[07](William Yao) Cone-beam computed tomographic comparison of surgically assisted rapid palatal expansion and multipiece Le Fort I osteotomy.
+
+TOP 2014 24449672 R. H...c    14  2  22 au[10](Elizabeth L Eby) Healthcare costs and adherence associated with human regular U-500 versus high-dose U-100 insulin in patients with diabetes.
+
+TOP 2007 17259909 R. H....     6  0   7 au[08](L Stewart Massad) Hysterectomy among women with HIV: indications and incidence.
+
+TOP 2019 31647653 R. .....     0  0   0 au[21](Lu-Ning Chen) Efficient Hydrogen Production from Methanol Using a Single-Site Pt 1 /CeO 2 Catalyst.
+
+TOP 2019 30641339 R. H....     1  0   0 au[10](Ayna B Nejad) Medial prefrontal disengagement during self-focus in formerly depressed patients prone to rumination.
+
+TOP 2018 29370409 RP H.M..     2  0  53 au[06](Gloria E Evans) Does the endometrial gene expression of fertile women vary within and between cycles?
+
+TOP 2015 26033708 R. H..Cc    12  3  20 au[21](Yeon Hee Park) Quality of life (QoL) in metastatic breast cancer patients with maintenance paclitaxel plus gemcitabine (PG) chemotherapy: results from phase III, multicenter, randomized trial of maintenance chemotherapy versus observation (KCSG-BR07-02).
+
+TOP 2019 31587744 R. H....     1  0   0 au[04](Kevin S Henson) Comparison of Selected Outcomes Associated with Two Postoperative Analgesic Approaches in Patients Undergoing Total Knee Arthroplasty.
+
+TOP 2019 31077211 R. H....     0  0  65 au[07](Ming-Sheng Teng) Pleiotropic association of LIPC variants with lipid and urinary 8-hydroxy deoxyguanosine levels in a Taiwanese population.
+
+TOP 2018 30830458 RP .AM..     1  0  36 au[07](Elizabeth Dickinson) Integrating transcriptomic techniques and k-means clustering in metabolomics to identify markers of abiotic and biotic stress in Medicago truncatula.
+
+TOP 2014 25834764 R. H....     4  0  80 au[11](Robert M Post) Illness progression as a function of independent and accumulating poor prognosis factors in outpatients with bipolar disorder in the United States.
+
+TOP 2013 23948011 R. H....    12  0  59 au[10](Melinda C Aldrich) Socioeconomic status and lung cancer: unraveling the contribution of genetic admixture.
+
+TOP 2004 15167834 R. H...c    46  2  15 au[07](Joseph P Bruner) Intrauterine repair of spina bifida: preoperative predictors of shunt-dependent hydrocephalus.
+
+TOP 2013 23461427 R. H....     5  0   0 au[06](Kristin Lundeen) Evaluation of a novel web-based prior approval application for palivizumab prophylaxis of respiratory syncytial virus in a state Medicaid program.
+
+TOP 2012 23161666 R. .AM..    12  0  56 au[17](Itay Raphael) Microwave and magnetic (M(2) ) proteomics of the experimental autoimmune encephalomyelitis animal model of multiple sclerosis.
+1 of 12 citations downloaded:
+CIT 2012 23160929 R. .AM..     7  0  49 au[13](Swetha Mahesula) Immunoenrichment microwave and magnetic proteomics for quantifying CD47 in the experimental autoimmune encephalomyelitis model of multiple sclerosis.
+
+TOP 2019 31634905 R. H.M..     3  0  32 au[22](Jeannie Callum) Effect of Fibrinogen Concentrate vs Cryoprecipitate on Blood Component Transfusion After Cardiac Surgery: The FIBRES Randomized Clinical Trial.
+
+TOP 2016 27064572 R. H..Cc    62  5  38 au[25](Soma Kumar) Risk Factors Associated With Pediatric Acute Recurrent and Chronic Pancreatitis: Lessons From INSPPIRE.
+
+TOP 2019 30615301 R. H....     1  0  52 au[08](George Hindy) Cardiometabolic Polygenic Risk Scores and Osteoarthritis Outcomes: A Mendelian Randomization Study Using Data From the Malmö Diet and Cancer Study and the UK Biobank.
+
+TOP 2017 28424226 R. H....     2  0  27 au[07](Christina L Mikesell) Objective Measurement of Adherence to Out-Patient Airway Clearance Therapy by High-Frequency Chest Wall Compression in Cystic Fibrosis.
+
+TOP 2015 25439086 R. H...c     5  1  17 au[04](Terry Te-Yi Teng) The Effect of early physiotherapy on the recovery of mandibular function after orthognathic surgery for Class III correction: part I--jaw-motion analysis.
+
+TOP 2006 16818537 R. H..Cc    33  8   0 au[06](Eran Kozer) Pain in infants who are younger than 2 months during suprapubic aspiration and transurethral bladder catheterization: a randomized, controlled study.
+
+TOP 2014 25027412 R. H....    18  0  49 au[10](Elkin O Luis) Frontobasal gray matter loss is associated with the TREM2 p.R47H variant.
+
+TOP 2019 31215772 R. H....     1  0  51 au[16](Eveline Y Wu) Measuring Circulating Complement Activation Products in Myeloperoxidase- and Proteinase 3-Antineutrophil Cytoplasmic Antibody-Associated Vasculitis.
+
+TOP 2018 30287806 RP H....     0  0  69 au[07](Hang Zhou) Genome-wide association study identifies glutamate ionotropic receptor GRIA4 as a risk gene for comorbid nicotine dependence and major depression.
+
+TOP 2016 27102923 R. H....     4  0  12 au[06](Roderick Youngdo Kim) Correlation of Lymph Node Density With Negative Outcome Predictors in Oral and Maxillofacial Squamous Cell Carcinoma.
+
+TOP 2015 25380107 R. H..Cc    33  4  48 au[06](Halinder S Mangat) Hypertonic saline reduces cumulative and daily intracranial pressure burdens after severe traumatic brain injury.
+
+TOP 2011 21402549 R. H.MCc    18  8  41 au[11](Jonathan Z Li) Factors associated with viral rebound in HIV-1-infected individuals enrolled in a therapeutic HIV-1 gag vaccine trial.
+
+TOP 2007 17196393 R. H...c    15  3  11 au[08](David J De La Zerda) Aortic valve-sparing repair with autologous pericardial leaflet extension has a greater early re-operation rate in congenital versus acquired valve disease.
+
+TOP 2019 30946384 R. H..C.     0  0  23 au[06](Chu-Yu Yen) Current screening practice in patients under long-term hydroxychloroquine medication in Taiwan: A nationwide population-based cohort study.
+
+TOP 2015 25319735 R. H.M.c    25  3  17 au[07](Bani Chander Roland) Small Intestinal Transit Time Is Delayed in Small Intestinal Bacterial Overgrowth.
+
+TOP 2005 16263972 R. H...c    33  4  29 au[08](Jeffrey Goldhagen) The health status of southern children: a neglected regional disparity.
+
+TOP 2013 24423819 R. H....     0  0   0 au[07](Chang-wei Wu) [Association of oxygen uptake efficiency in exercise test with exercise capacity in patients with stable chronic obstructive pulmonary disease].
+
+TOP 2014 24290575 R. H..Cc    41  4  10 au[07](Stacey Su) Patterns of survival and recurrence after surgical treatment of early stage non-small cell lung carcinoma in the ACOSOG Z0030 (ALLIANCE) trial.
+
+TOP 2013 23866800 R. H..Cc     7  3  40 au[08](Henry M Spotnitz) Primary endpoints of the biventricular pacing after cardiac surgery trial.
+
+TOP 2013 22608346 R. H.M.c     8  1  28 au[11](Jasmin Divers) Cerebral white matter hyperintensity in African Americans and European Americans with type 2 diabetes.
+
+TOP 2019 30673066 RP H....    19  0  30 au[07](Karmel W Choi) Assessment of Bidirectional Relationships Between Physical Activity and Depression Among Adults: A 2-Sample Mendelian Randomization Study.
+2 of 30 References downloaded:
+REF 2017 29094161 R. H....    31  0  53 au[05](Fernando Pires Hartwig) Inflammatory Biomarkers and Risk of Schizophrenia: A 2-Sample Mendelian Randomization Study.
+REF 2017 29094155 .. H....     2  0   0 au[03](Enda M Byrne) Inference in Psychiatry via 2-Sample Mendelian Randomization-From Association to Causal Pathway?
+
+TOP 2011 21606537 R. H.MCc   302 93  33 au[10](Grace A McComsey) Bone mineral density and fractures in antiretroviral-naive persons randomized to receive abacavir-lamivudine or tenofovir disoproxil fumarate-emtricitabine along with efavirenz or atazanavir-ritonavir: Aids Clinical Trials Group A5224s, a substudy of ACTG A5202.
+
+TOP 2019 29878938 R. H..C.     0  0  25 au[08](Bigna S Buddeberg) Cardiac Structure and Function in Morbidly Obese Parturients: An Echocardiographic Study.
+
+TOP 2000 10993554 R. H...c    35  3   0 au[06](F Riedel) Serum levels of vascular endothelial growth factor in patients with head and neck cancer.
+
+TOP 2019 30824336 R. H....     1  0   0 au[06](Pavithra Ranganathan) A randomized control trial using intraoperative dexmedetomidine during Roux-en-Y gastric bypass surgery to reduce postoperative pain and narcotic use.
+
+TOP 2018 28338441 RP H....     2  0  43 au[07](Constantin Tuleasca) Radiosurgery in the management of brain metastasis: a retrospective single-center study comparing Gamma Knife and LINAC treatment.
+
+TOP 2018 30219280 RP H.M..     1  0  26 au[19](Yu Sunakawa) Immune-related Genes to Dominate Neutrophil-lymphocyte Ratio (NLR) Associated With Survival of Cetuximab Treatment in Metastatic Colorectal Cancer.
+
+TOP 2019 31243313 RP H....     6  0  46 au[37](Monika Brüggemann) Standardized next-generation sequencing of immunoglobulin and T-cell receptor gene recombinations for MRD marker identification in acute lymphoblastic leukaemia; a EuroClonality-NGS validation study.
+
+TOP 2014 24211090 R. H.M.c    21  3  27 au[04](Unjali P Gujral) The relative associations of β-cell function and insulin sensitivity with glycemic status and incident glycemic progression in migrant Asian Indians in the United States: the MASALA study.
+
+TOP 2018 29521584 RP H.M..     8  0  58 au[09](Kingsley O Abode-Iyamah) Deep brain stimulation hardware-related infections: 10-year experience at a single institution.
+
+TOP 2019 31177883 R. H.M..     0  0   9 au[04](Michael V Zaretsky) Comparison of obstetrical outcomes in patients undergoing cerclage with or without amniocentesis.
+
+TOP 2015 25281561 R. H.M..     4  0  29 au[11](Wei-Dong Xu) Up-regulation of fatty acid oxidation in the ligament as a contributing factor of ankylosing spondylitis: A comparative proteomic study.
+
+TOP 2018 30544321 RP H....     0  0  35 au[13](Constantin Tuleasca) Pretherapeutic resting-state fMRI profiles are associated with MR signature volumes after stereotactic radiosurgical thalamotomy for essential tremor.
+
+TOP 2019 29864067 RP H....     7  0  32 au[31](Tom K Lin) Pancreas Divisum in Pediatric Acute Recurrent and Chronic Pancreatitis: Report From INSPPIRE.
+1 of 32 References downloaded:
+REF 2016 27064572 R. H..Cc    62  5  38 au[25](Soma Kumar) Risk Factors Associated With Pediatric Acute Recurrent and Chronic Pancreatitis: Lessons From INSPPIRE.
+
+TOP 2019 31307833 R. H....     1  0   0 au[19](Kyoung Im Cho) Efficacy and Safety of a Fixed-Dose Combination of Candesartan and Rosuvastatin on Blood Pressure and Cholesterol in Patients With Hypertension and Hypercholesterolemia: A Multicenter, Randomized, Double-Blind, Parallel Phase III Clinical Study.
+
+TOP 2019 31200713 R. H....     0  0  37 au[08](Zhong Lin) Interactions between genetic variants involved in the folate metabolic pathway and serum lipid, homocysteine levels on the risk of recurrent spontaneous abortion.
+
+TOP 2016 26747746 R. H...c    40  3  75 au[19](Christopher D Whelan) Heritability and reliability of automatically segmented human hippocampal formation subregions.
+
+TOP 2006 16680448 R. H.M..    56  0  20 au[08](Cornelia Neidlinger-Wilke) Regulation of gene expression in intervertebral disc cells by low and high hydrostatic pressure.
+
+TOP 2017 29071344 R. H....    19  0  62 au[11](Hang Zhou) Genetic Risk Variants Associated With Comorbid Alcohol Dependence and Major Depression.
+0 of 19 citations downloaded:
+CIT 2018 30287806 RP H....     0  0  69 au[07](Hang Zhou) Genome-wide association study identifies glutamate ionotropic receptor GRIA4 as a risk gene for comorbid nicotine dependence and major depression.
+
+TOP 2017 28502692 R. H....     2  0  28 au[04](Mario Teo) What Factors Determine Treatment Outcome in Aneurysmal Subarachnoid Hemorrhage in the Modern Era? A Post Hoc STASH Analysis.
+
+TOP 2013 24169122 R. H...c    37  5  21 au[08](Carla E Ransom) Infant growth outcomes after maternal tenofovir disoproxil fumarate use during pregnancy.
+
+TOP 2019 31139855 R. H....     0  0  42 au[10](C M Swanson) Association between objective sleep duration and bone mineral density in older postmenopausal women from the Study of Osteoporotic Fractures (SOF).
+
+TOP 2020 31054125 R. H....     0  0  30 au[20](A Rodríguez-Quiroga) Development and psychometric properties of the "Suicidality: Treatment Occurring in Paediatrics (STOP) Risk and Resilience Factors Scales" in adolescents.
+
+TOP 2019 30673084 RP H....     5  0  34 au[46](Christina Ellervik) Assessment of the Relationship Between Genetic Determinants of Thyroid Function and Atrial Fibrillation: A Mendelian Randomization Study.
+
+TOP 2019 31075152 R. H....     1  0  69 au[58](Cavin K Ward-Caviness) Mendelian randomization evaluation of causal effects of fibrinogen on incident coronary heart disease.
+

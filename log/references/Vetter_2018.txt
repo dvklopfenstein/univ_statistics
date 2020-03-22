@@ -1,0 +1,40 @@
+2017 1. Vetter TR, Mascha EJ. In the beginning-there is the introductionand your study hypothesis. Anesth Analg. 2017;124:1709–1711.
+2016 2. Hazra A, Gogtay N. Biostatistics series module 2: overview of hypothesis testing. Indian J Dermatol. 2016;61:137–145.
+2017 3. Vetter TR. Fundamentals of research data and variables: the devil is in the details. Anesth Analg. 2017;125:1375–1380.
+2016 4. Salkind NJ. t(ea) for two: tests between the means of different groups. In: Statistics for People Who (Think They) Hate Statistics. 6th ed. Thousand Oaks, CA: Sage Publications; 2016:211–227.
+2016 5. Hazra A, Gogtay N. Biostatistics series module 3: comparing groups: numerical variables. Indian J Dermatol. 2016;61:251–260.
+2011 6. Kalpić D, Hlupić N, Lovrić M. Student’s t tests. In: Lovric M (ed). International Encyclopedia of Statistical Science. Berlin, Heidelberg, Germany: Springer Berlin Heidelberg, 2011:1559–1563.
+2013 7. Field A. Comparing two means. In: Discovering Statistics Using IBM SPSS Statistics: And Sex and Drugs and Rock ‘n’ Roll. Los Angeles, CA: Sage, 2013:357–391.
+2014 8. Motulsky H. Comparing two means: unpaired t test. In: Intuitive Biostatistics: A Nonmathematical Guide to Statistical Thinking. New York, NY: Oxford University Press, 2014:261–271.
+2013 9. Field A. The beast of bias. In: Discovering Statistics Using IBM SPSS Statistics: And Sex and Drugs and Rock ‘n’ Roll. Los Angeles, CA: Sage, 2013:163–212.
+2014 10. Motulsky H. Analysis of variance. In: Intuitive Biostatistics: A Nonmathematical Guide to Statistical Thinking. New York, NY: Oxford University Press, 2014:369–376.
+2016 11. Salkind NJ. Two groups too many: try analysis of variance. In: Statistics for People Who (Think They) Hate Statistics. 6th ed. Thousand Oaks, CA: Sage Publications, 2016:243–260.
+2014 12. Mayell A, Srinivasan I, Campbell F, Peliowski A. Analgesic effects of gabapentin after scoliosis surgery in children: a randomized controlled trial. Paediatr Anaesth. 2014;24:1239–1244.
+2010 13. Rusy LM, Hainsworth KR, Nelson TJ, et al. Gabapentin use in pediatric spinal fusion patients: a randomized, double-blind, controlled trial. Anesth Analg. 2010;110:1393–1398.
+2007 14. Hsu H, Lachenbruch PA. Paired t test. In: Wiley Encyclopedia of Clinical Trials. Hoboken, NJ: John Wiley &amp; Sons, Inc, 2007:1–3.
+2017 15. Urdan TC. T tests. In: Statistics in Plain English. 4th ed. New York, NY: Routledge, Taylor &amp; Francis Group, 2017:93–111.
+2014 16. Motulsky H. Comparing two paired groups. In: Intuitive Biostatistics: A Nonmathematical Guide to Statistical Thinking. New York, NY: Oxford University Press, 2014:272–283.
+1900 17. Pearson K. On the criterion that a given system of deviations from the probable in the case of a correlated system of variables is such that it can be reasonably supposed to have arisen from random sampling. Philos Mag. 1900;50:157–175.
+2017 18. Urdan TC. The chi-square test of independence. In: Statistics in Plain English. 4th ed. New York, NY: Routledge, Taylor &amp; Francis Group, 2017:205–212.
+2013 19. Mendenhall W, Beaver RJ, Beaver BM. Analysis of categorical data. In: Introduction to Probability and Statistics. Boston, MA: CL-Wadsworth, 2013:574–605.
+2016 20. Salkind NJ. What to do when you’re not normal: chi-square and some other nonparametric tests. In: Statistics for People Who (Think They) Hate Statistics. 6th ed. Thousand Oaks, CA: Sage Publications, 2016:315–331.
+2013 21. Field A. Categorical data. In: Discovering Statistics Using IBM SPSS Statistics: And Sex and Drugs and Rock ‘n’ Roll. Los Angeles, CA: Sage, 2013:720–759.
+2011 22. Howell DC. Chi-square test: analysis of contingency tables. In: Lovric M (ed). International Encyclopedia of Statistical Science. Berlin, Heidelberg, Germany: Springer Berlin Heidelberg, 2011:250–252.
+2016 23. Hazra A, Gogtay N. Biostatistics series module 4: comparing groups - categorical variables. Indian J Dermatol. 2016;61:385–392.
+2014 24. Motulsky H. Comparing proportions. In: Intuitive Biostatistics: A Nonmathematical Guide to Statistical Thinking. New York, NY: Oxford University Press, 2014:233–241.
+2012 25. Abd-Elsayed AA, Sessler DI, Mendoza-Cuartas M, et al. A randomized controlled study to assess patients’ understanding of and consenting for clinical trials using two different consent form presentations. Minerva Anestesiol. 2012;78:564–573.
+2013 26. McHugh ML. The chi-square test of independence. Biochem Med (Zagreb). 2013;23:143–149.
+2016 27. Brown CH IV, Max L, LaFlam A, et al. The association between preoperative frailty and postoperative delirium after cardiac surgery. Anesth Analg. 2016;123:430–435.
+2017 28. Vetter TR, Mascha EJ. Bias, confounding, and interaction: lions and tigers, and bears, oh my! Anesth Analg. 2017;125:1042–1048.
+2017 29. Department of Statistics Online Programs. Comparing two population proportions with independent samples. STAT 500 2017. Available at: https://onlinecourses.science.psu.edu/ stat500/node/55. Accessed September 29, 2017.
+2011 30. Voinov V, Nikulin M. Chi-square goodness-of-fit tests: drawbacks and improvements. In: Lovric M (ed). International Encyclopedia of Statistical Science. Berlin, Heidelberg, Germany: Springer Berlin Heidelberg, 2011:246–250.
+2012 31. Vetter TR, Boudreaux AM, Papapietro SE, Smith PW, Taylor BB, Porterfield JR Jr. The perioperative management of patients with coronary artery stents: surveying the clinical stakeholders and arriving at a consensus regarding optimal care. Am J Surg. 2012;204:453–461.e2.
+1947 32. Mann HB, Whitney DR. On a test of whether one of two random variables is stochastically larger than the other. Ann Math Statist. 1947;18:50–60.
+2013 33. Mendenhall W, Beaver RJ, Beaver BM. Nonparametric tests. In: Introduction to Probability and Statistics. Boston, MA: CL-Wadsworth, 2013:606–654.
+2013 34. Field A. Non-parametric models. In: Discovering Statistics Using IBM SPSS Statistics: And Sex and Drugs and Rock ‘n’ Roll. Los Angeles, CA: Sage, 2013:213–261.
+2011 35. Neuhäuser M. Wilcoxon–Mann–Whitney test. In: Lovric M (ed). International Encyclopedia of Statistical Science. Berlin, Heidelberg, Germany: Springer Berlin Heidelberg, 2011:1656–1658.
+1963 36. Hodges JL, Lehmann EL. Estimates of location based on rank tests. Ann Math Statist. 1963;34:598–611.
+2013 37. Divine G, Norton HJ, Hunt R, Dienemann J. Statistical grand rounds: a review of analysis and sample size calculation considerations for Wilcoxon tests. Anesth Analg. 2013;117:699–710.
+2016 38. Naik BI, Nemergut EC, Kazemi A, et al. The effect of dexmedetomidine on postoperative opioid consumption and pain after major spine surgery. Anesth Analg. 2016;122:1646–1653.
+2011 39. Rey D, Neuhäuser M. Wilcoxon-signed-rank test. In: Lovric M (ed). International Encyclopedia of Statistical Science. Berlin, Heidelberg, Germany: Springer Berlin Heidelberg, 2011:1658–1659.
+2013 40. Gruenewald M, Ilies C, Herz J, et al. Influence of nociceptive stimulation on analgesia nociception index (ANI) during propofol-remifentanil anaesthesia. Br J Anaesth. 2013;110:1024–1030

@@ -19,3 +19,36 @@ REF 2016 26961635 .. H...c    34  1   1 au[01](Monya Baker) Statisticians issue 
 REF 2014 24763340 .. .....    25  0   5 au[15](Alyssa Goodman) Ten simple rules for the care and feeding of scientific data.
 REF 2014 25340653 .. H....     6  0   0 au[03](Harriet Dashnow) Ten simple rules for writing a PLOS ten simple rules article.
 
+TOP 2013 23456667 .. H...c    61 22   4 au[04](George Divine) Statistical grand rounds: a review of analysis and sample size calculation considerations for Wilcoxon tests. Divine_2013
+2 of 61 citations downloaded:
+CIT 2016 27003917 R. H..Cc    14  4  27 au[07](Bhiken I Naik) The Effect of Dexmedetomidine on Postoperative Opioid Consumption and Pain After Major Spine Surgery.
+CIT 2018 29189214 RP H....     7  0  15 au[02](Thomas R Vetter) Unadjusted Bivariate Two-Group Comparisons: When Simpler is Better.
+1 Cited by Clinical papers:
+CLI 2016 27003917 R. H..Cc    14  4  27 au[07](Bhiken I Naik) The Effect of Dexmedetomidine on Postoperative Opioid Consumption and Pain After Major Spine Surgery.
+
+TOP 2018 29189214 RP H....     7  0  15 au[02](Thomas R Vetter) Unadjusted Bivariate Two-Group Comparisons: When Simpler is Better. Vetter_2018
+4 of 7 citations downloaded:
+CIT 2018 29346210 RP H...c    12  1  29 au[02](Edward J Mascha) Significance, Errors, Power, and Sample Size: The Blocking and Tackling of Statistics.
+CIT 2018 29905618 RP H...c    11  1  38 au[02](Patrick Schober) Repeated Measures Designs and Analysis of Longitudinal Data: If at First You Do Not Succeed-Try, Try Again.
+CIT 2019 30531221 .. H....     2  0  58 au[02](Thomas R Vetter) Statistical Process Control: No Hits, No Runs, No Errors?
+CIT 2018 30015653 .P H....     1  0  29 au[02](Patrick Schober) Survival Analysis and Interpretation of Time-to-Event Data: The Tortoise and the Hare.
+CIT 2019 31584913 R. .....     0  0   6 au[02](Patrick Schober) Two-Sample Unpaired t Tests in Medical Research.
+CIT 2019 31613806 R. .....     0  0   5 au[02](Patrick Schober) Chi-square Tests in Medical Research.
+CIT 2019 30649072 R. H....     0  0  54 au[01](Thomas R Vetter) Systematic Review and Meta-analysis: Sometimes Bigger Is Indeed Better.
+15 of 15 References downloaded:
+REF 2013 23894860 R. ....c   106  3   3 au[01](Mary L McHugh) The chi-square test of independence.
+REF 2013 23456667 .. H...c    61 22   4 au[04](George Divine) Statistical grand rounds: a review of analysis and sample size calculation considerations for Wilcoxon tests.
+REF 2010 20418301 R. H..Cc    57  6  27 au[09](Lynn M Rusy) Gabapentin use in pediatric spinal fusion patients: a randomized, double-blind, controlled trial.
+REF 2013 23471754 R. H...c    54 17  25 au[07](M Gruenewald) Influence of nociceptive stimulation on analgesia nociception index (ANI) during propofol-remifentanil anaesthesia.
+REF 2014 25230144 R. H..C.    27  0  20 au[04](Antonia Mayell) Analgesic effects of gabapentin after scoliosis surgery in children: a randomized controlled trial.
+REF 2016 27096563 R. H..Cc    21  3  32 au[10](Charles H Brown) The Association Between Preoperative Frailty and Postoperative Delirium After Cardiac Surgery.
+REF 2017 28817531 .. HA..c    16  1  58 au[02](Thomas R Vetter) Bias, Confounding, and Interaction: Lions and Tigers, and Bears, Oh My!
+REF 2016 27003917 R. H..Cc    14  4  27 au[07](Bhiken I Naik) The Effect of Dexmedetomidine on Postoperative Opioid Consumption and Pain After Major Spine Surgery.
+REF 2017 28787341 .. H....    12  0  25 au[01](Thomas R Vetter) Fundamentals of Research Data and Variables: The Devil Is in the Details.
+REF 2017 28301418 R. .....    10  0   4 au[02](Thomas R Vetter) In the Beginning-There Is the Introduction-and Your Study Hypothesis.
+REF 2016 27293244 R. H....    10  0   0 au[02](Avijit Hazra) Biostatistics Series Module 3: Comparing Groups: Numerical Variables.
+REF 2016 27512183 R. .....     9  0   0 au[02](Avijit Hazra) Biostatistics Series Module 4: Comparing Groups - Categorical Variables.
+REF 2012 22621834 R. H...c     6  1  33 au[06](Thomas R Vetter) The perioperative management of patients with coronary artery stents: surveying the clinical stakeholders and arriving at a consensus regarding optimal care.
+REF 2012 22337156 R. H..Cc     5  2   0 au[09](A A Abd-Elsayed) A randomized controlled study to assess patients' understanding of and consenting for clinical trials using two different consent form presentations.
+REF 2016 27057011 R. H....     3  0   0 au[02](Avijit Hazra) Biostatistics Series Module 2: Overview of Hypothesis Testing.
+
