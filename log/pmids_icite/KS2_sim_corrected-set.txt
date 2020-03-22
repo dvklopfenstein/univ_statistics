@@ -1,0 +1,239 @@
+TOP 2017 28463163 R. .....     2  0  12 au[12](Michael J Connor) Medical Device Recalls in Radiation Oncology: Analysis of US Food and Drug Administration Data, 2002-2015.
+0 of 2 citations downloaded:
+CIT 2019 31504680 R. H....     0  0  69 au[06](Danielle S Bitterman) Master protocol trial design for efficient and rational evaluation of novel therapeutic oncology devices.
+CIT 2019 31192056 R. .....     0  0   6 au[05](Craig A Beers) Radiation Oncology Device Approval in the United States and Canada.
+12 of 12 References downloaded:
+REF 2011 21321283 R. H....    81  0   3 au[03](Diana M Zuckerman) Medical device recalls and the FDA approval process.
+REF 2010 20634922 .. H....    33  0  11 au[04](Jonas Zajac Hines) Left to their own devices: breakdowns in United States medical device premarket review.
+REF 2013 23265568 R. H....    26  0  15 au[08](Stephanie A Terezakis) An evaluation of departmental radiation oncology incident reports: anticipating a national reporting system.
+REF 2016 26984921 .. H...c    19  1   1 au[05](Charles S Day) Analysis of FDA-Approved Orthopaedic Devices and Their Recalls.
+REF 2016 26644398 R. .....    12  0   8 au[08](Taha A Kass-Hout) OpenFDA: an innovative platform providing access to a wealth of FDA's publicly available data.
+REF 2017 27979446 R. H....     5  0  15 au[11](Michael J Connor) Adverse Events Involving Radiation Oncology Medical Devices: Comprehensive Analysis of US Food and Drug Administration Data, 1991 to 2015.
+REF 2016 26922597 R. H....     5  0   6 au[03](Comeron W Ghobadi) Overview of Class I Device Recalls in Diagnostic Radiology, 2002-2015.
+REF 2013 24328977 R. .....     5  0   1 au[01](Lisa K Simone) Software-related recalls: an analysis of records.
+REF 2014 24837271 R. H....     4  0   7 au[03](John C Somberg) Assessment of cardiovascular and noncardiovascular medical device recalls.
+REF 2014 25198486 R. H....     3  0   0 au[03](Sanjay Kumar) The nature and pattern of coronary stent recalls.
+REF 2012 22548012 R. H....     3  0   6 au[03](Jona A Hattangadi) US Food and Drug Administration Regulation of Medical Devices and Radiation Oncology: Can Reform Improve Safety?
+REF 1984  6512441 R. .....     1  0   0 au[01](N G Leveson) Building safe computer-controlled systems.
+
+TOP 2017 27979446 R. H....     5  0  15 au[11](Michael J Connor) Adverse Events Involving Radiation Oncology Medical Devices: Comprehensive Analysis of US Food and Drug Administration Data, 1991 to 2015.
+3 of 5 citations downloaded:
+CIT 2018 29270603 RP H....    12  0  44 au[07](Hani M Rayess) A Cross-sectional Analysis of Adverse Events and Litigation for Injectable Fillers.
+CIT 2017 28463163 R. .....     2  0  12 au[12](Michael J Connor) Medical Device Recalls in Radiation Oncology: Analysis of US Food and Drug Administration Data, 2002-2015.
+CIT 2017 28586962 R. H....     2  0  37 au[06](Deborah Marshall) Nature of Medical Malpractice Claims Against Radiation Oncologists.
+CIT 2019 31504680 R. H....     0  0  69 au[06](Danielle S Bitterman) Master protocol trial design for efficient and rational evaluation of novel therapeutic oncology devices.
+CIT 2018 29346485 RP H....     0  0  20 au[06](Hani M Rayess) Adverse Events in Facial Implant Surgery and Associated Malpractice Litigation.
+15 of 15 References downloaded:
+REF 2004 14633936 R. H...c   674 19  41 au[03](Joan S Ash) Some unintended consequences of information technology in health care: the nature of patient care information system-related errors.
+REF 1994  8058027 .. H..Cc   614 25   0 au[10](G J Kutcher) Comprehensive QA for radiation oncology: report of AAPM Radiation Therapy Committee Task Group 40.
+REF 2009 19810494 .. H..Cc   511 11  69 au[13](Eric E Klein) Task Group 142 report: quality assurance of medical accelerators.
+REF 2008 18841871 R. H...c   156  4 201 au[10](Indra J Das) Accelerator beam data commissioning equipment and procedures: report of the TG-106 of the Therapy Physics Committee of the AAPM.
+REF 1994  7968843 .. H..Cc   113  7   0 au[07](R Nath) AAPM code of practice for radiotherapy accelerators: report of AAPM Radiation Therapy Task Group No. 45.
+REF 2012 23231278 R. ....c    61  1  18 au[05](E C Ford) Consensus recommendations for incident learning database structures in radiation oncology.
+REF 1992  1609125 R. H...c    56  2   7 au[06](G Leunens) Human errors in data transfer during the preparation and delivery of radiation treatment affecting the final result: "garbage in, garbage out".
+REF 2011 21938265 R. H...c    35  1  14 au[03](Risa B Myers) Review of Reported Clinical Information System Adverse Events in US Food and Drug Administration Databases.
+REF 2010 20634922 .. H....    33  0  11 au[04](Jonas Zajac Hines) Left to their own devices: breakdowns in United States medical device premarket review.
+REF 1993  8413039 R. H...c    27  4   0 au[10](J A Purdy) Medical accelerator safety considerations: report of AAPM Radiation Therapy Committee Task Group No. 35.
+REF 2011 22195143 R. H....    20  0   9 au[04](Farah Magrabi) Patient safety problems associated with heathcare information technology: an analysis of adverse events reported to the US Food and Drug Administration.
+REF 2016 26467552 R. H....     9  0  40 au[07](Kay D Everett) Structural Mechanics Predictions Relating to Clinical Coronary Stent Fracture in a 5 Year Period in FDA MAUDE Database.
+REF 2013 24328977 R. .....     5  0   1 au[01](Lisa K Simone) Software-related recalls: an analysis of records.
+REF 2012 22548012 R. H....     3  0   6 au[03](Jona A Hattangadi) US Food and Drug Administration Regulation of Medical Devices and Radiation Oncology: Can Reform Improve Safety?
+REF 2013 23920872 R. .....     1  0   0 au[02](Fabrizio Pecoraro) Detecting software failures in the MAUDE database: a preliminary analysis.
+
+TOP 2008 17704528 R. H.M..    23  0   0 au[03](Peter B Gilbert) The 2-sample problem for failure rates depending on a continuous mark: an application to vaccine efficacy.
+18 of 23 citations downloaded:
+CIT 2017 28133811 .. HAM.c    40  3 164 au[02](Georgia D Tomaras) Complex immune correlates of protection in HIV-1 vaccine efficacy trials.
+CIT 2014 24932411 R. HAM.c    28  3  63 au[02](Georgia D Tomaras) Advancing Toward HIV-1 Vaccine Efficacy through the Intersections of Immune Correlates.
+CIT 2011 23181167 R. ..M..    23  0  40 au[10](Peter B Gilbert) A Sequential Phase 2b Trial Design for Evaluating Vaccine Efficacy and Immune Correlates for Multiple HIV Vaccine Regimens.
+CIT 2013 24033299 .. H...c    19  3  90 au[02](Tracey A Day) Lessons learned from HIV vaccine clinical efficacy trials.
+CIT 2009 19838313 R. ..M..    16  0   9 au[03](Yanqing Sun) PROPORTIONAL HAZARDS MODELS WITH CONTINUOUS MARKS.
+CIT 2012 23519918 R. ..M.c    11  2   9 au[02](Yanqing Sun) Estimation of Stratified Mark-Specific Proportional Hazards Models with Missing Marks.
+CIT 2013 23421613 R. H.M.c     9  1   6 au[02](M Juraska) Mark-specific hazard ratio model with multivariate continuous marks: an application to vaccine efficacy.
+CIT 2015 25641990 R. ..M..     8  0  13 au[02](Peter B Gilbert) Inferences on relative failure rates in stratified mark-specific proportional hazards models with missing marks, with application to HIV vaccine efficacy trials.
+CIT 2012 23243491 R. ..M..     5  0  28 au[07](James G Kublin) HIV Vaccine Trials Network: activities and achievements of the first decade and beyond.
+CIT 2012 23950622 R. H.M..     5  0   8 au[03](Yanqing Sun) Quantile Regression for Competing Risks Data with Missing Cause of Failure.
+CIT 2016 28154793 R. ..M.c     4  1  34 au[02](Peter B Gilbert) Predicting Overall Vaccine Efficacy in a New Setting by Re-Calibrating Baseline Covariate and Intermediate Response Endpoint Effect Modifiers of Type-Specific Vaccine Efficacy.
+CIT 2013 22764174 R. H.M..     4  0  13 au[03](Yanqing Sun) Mark-specific proportional hazards model with multivariate continuous marks and its application to HIV vaccine efficacy trials.
+CIT 2012 22468017 R. .....     4  0  11 au[03](Seunggeun Hyun) Proportional hazards model for competing risks data with missing cause of failure.
+CIT 2016 26511033 R. H....     2  0  17 au[02](Michal Juraska) Mark-specific hazard ratio model with missing multivariate marks.
+CIT 2016 26461462 R. ..M..     2  0  13 au[03](Yanqing Sun) Goodness-of-fit test of the stratified mark-specific proportional hazards model with continuous mark.
+CIT 2016 25691289 R. H....     2  0   9 au[02](Shoubhik Mondal) Simultaneous confidence bands for Cox regression from semiparametric random censorship.
+CIT 2015 25773491 R. H....     1  0  16 au[02](Dean Follmann) Incorporating founder virus information in vaccine field trials.
+CIT 2009 19838322 R. .....     1  0   2 au[03](Yanqing Sun) EMPIRICAL LIKELIHOOD INFERENCE FOR THE COX MODEL WITH TIME-DEPENDENT COEFFICIENTS VIA LOCAL PARTIAL LIKELIHOOD.
+CIT 2018 29488249 RP H....     0  0  16 au[04](Yanqing Sun) Hypothesis tests for stratified mark-specific proportional hazards models with missing covariates, with application to HIV vaccine efficacy trials.
+CIT 2017 27170333 R. H....     0  0  11 au[04](Dongxiao Han) Mark-specific additive hazards regression with continuous marks.
+CIT 2017 30008509 R. H....     0  0   6 au[01](Brent A Johnson) Nonparametric Two-Sample Tests of the Marginal Mark Distribution with Censored Marks.
+CIT 2016 26990686 R. H....     0  0  10 au[03](Chiung-Yu Huang) Nonparametric analysis of bivariate gap time with competing risks.
+CIT 2015 26528376 R. .....     0  0   7 au[01](Brent A Johnson) On Huberized calibration regression for censored medical cost data.
+
+TOP 2010 20297865 R. H...c    11  1  18 au[05](Evelyn D Lobo) Oral olanzapine disposition in adolescents with schizophrenia or bipolar I disorder: a population pharmacokinetic model.
+9 of 11 citations downloaded:
+CIT 2011 21694620 R. H...c    32  5  37 au[07](Maxine X Patel) Plasma olanzapine in relation to prescribed dose and other factors: data from a therapeutic drug monitoring service, 1999-2009.
+CIT 2013 23588704 .. H...c    31  6 118 au[01](Silvio Caccia) Safety and pharmacokinetics of atypical antipsychotics in children and adolescents.
+CIT 2012 22372514 R. H...c    23  5  50 au[06](Ludmila A Kryzhanovskaya) Comparison of long-term (at least 24 weeks) weight gain and metabolic changes between adolescents and adults treated with olanzapine.
+CIT 2015 25803501 .. HA..c    11  2  74 au[07](Zachary Whitney) Therapeutic drug levels of second generation antipsychotics in youth: a systematic review.
+CIT 2018 29194718 RP H....    10  0  65 au[09](Thomas M Polasek) Prediction of olanzapine exposure in individual patients using physiologically based pharmacokinetic modelling and simulation.
+CIT 2010 20369908 .. H...c     5  1  26 au[01](Paul L McCormack) Olanzapine: in adolescents with schizophrenia or bipolar I disorder.
+CIT 2018 30312108 .P H....     3  0  99 au[03](Esther S Lee) A Focused Review on the Treatment of Pediatric Patients with Atypical Antipsychotics.
+CIT 2016 27117554 R. H....     2  0  36 au[06](Anyue Yin) Population pharmacokinetics analysis of olanzapine for Chinese psychotic patients based on clinical therapeutic drug monitoring data with assistance of meta-analysis.
+CIT 2018 30121590 RP H....     1  0  15 au[10](Anning Li) Development of a population pharmacokinetic model of olanzapine for Chinese health volunteers and patients with schizophrenia.
+CIT 2020 32008418 R. H....     0  0 114 au[03](Marija Jovanović) Understanding variability in the pharmacokinetics of atypical antipsychotics - focus on clozapine, olanzapine and aripiprazole population models.
+CIT 2018 29619682 RP H..C.     0  0  25 au[04](Marc Cantillon) A Population Pharmacokinetic and Pharmacodynamic Analysis of RP5063 Phase 2 Study Data in Patients with Schizophrenia or Schizoaffective Disorder.
+1 Cited by Clinical papers:
+CLI 2018 29619682 RP H..C.     0  0  25 au[04](Marc Cantillon) A Population Pharmacokinetic and Pharmacodynamic Analysis of RP5063 Phase 2 Study Data in Patients with Schizophrenia or Schizoaffective Disorder.
+18 of 18 References downloaded:
+REF 1997  9204677 R. H...c  4765 599  29 au[08](J Kaufman) Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL): initial reliability and validity data.
+REF 2003 13679531 .. H.M.c  1017 115  85 au[06](Gregory L Kearns) Developmental pharmacology--drug disposition, action, and therapy in infants and children.
+REF 1995  7481573 R. H...c   362 55   0 au[02](P J Weiden) Cost of relapse in schizophrenia.
+REF 1992  1287200 R. H...c   325 120   4 au[03](J W Mandema) Building population pharmacokinetic--pharmacodynamic models. I. Models for covariate effects.
+REF 1999 10511917 .. H...c   290 41  32 au[04](J T Callaghan) Olanzapine. Pharmacokinetic and pharmacodynamic profile.
+REF 1996  8935812 R. H..Cc   227 55  10 au[06](C M Beasley) Olanzapine versus placebo: results of a double-blind, fixed-dose olanzapine trial.
+REF 1992  1458773 R. H...c   162 29   0 au[04](M V Relling) Racial and gender differences in N-acetyltransferase, xanthine oxidase, and CYP1A2 activities.
+REF 2007 17898346 R. H..Cc   136 34   0 au[13](Mauricio Tohen) Olanzapine versus placebo in the treatment of adolescents with bipolar mania.
+REF 1996  8710751 R. H.M..   126  0   5 au[02](V R Patel) Preparation and characterization of freeze-dried chitosan-poly(ethylene oxide) hydrogels for site-specific antibiotic delivery in the stomach.
+REF 1993  8287062 R. H.M.c    96  4   0 au[06](H Schweikl) Expression of CYP1A1 and CYP1A2 genes in human liver.
+REF 2009 19057413 R. H..Cc    89 18  39 au[11](Ludmila Kryzhanovskaya) Olanzapine versus placebo in adolescents with schizophrenia: a 6-week, randomized, double-blind, placebo-controlled trial.
+REF 2007 17681611 R. H...c    47  8  17 au[03](Judith Usall) Gender differences in response to antipsychotic treatment in outpatients with schizophrenia.
+REF 1991  2028115 R. H...c    46  5  12 au[03](L B Sheiner) A simulation study comparing designs for dose ranging.
+REF 2000 10770461 R. H..Cc    43  5  18 au[08](D R Grothe) Olanzapine pharmacokinetics in pediatric and adolescent inpatients with childhood-onset schizophrenia.
+REF 2008 18294089 R. H...c    25  6  31 au[13](Ralf W Dittmann) Effectiveness and tolerability of olanzapine in the treatment of adolescents with schizophrenia and related psychotic disorders: results from a large, prospective, open-label study.
+REF 2005 16379519 .. H....    12  0  35 au[06](Frank M Theisen) Olanzapine overdose in children and adolescents: two case reports and a review of the literature.
+REF 1993  8504622 .. H...c    12  5  23 au[01](J D Powers) Statistical considerations in pharmacokinetic study design.
+REF 1998  9572018 .. HA...     2  0   0 au[01]() 9th Biennial Winter Workshop on Schizophrenia. Davos, Switzerland, February 7-13, 1998. Abstract.
+
+TOP 2007 17873981 R. ..M.c   120 12   0 au[04](Markus B Blatz) Influence of surface treatment and simulated aging on bond strengths of luting agents to zirconia.
+108 of 120 citations downloaded:
+CIT 2011 21094526 .. H.M.c   163  6 120 au[04](Jeffrey Y Thompson) Adhesion/cementation to zirconia and other non-silicate ceramics: where are we now?
+CIT 2013 24140561 .. H.M.c   155  2 132 au[05](Takashi Miyazaki) Current status of zirconia restoration.
+CIT 2011 21133983 .. H.M.c   135  3  85 au[03](J L Ferracane) Self-adhesive resin cements - chemistry, properties and clinical considerations.
+CIT 2009 19767578 R. H.M.c   115  5  31 au[03](M Kern) Surface conditioning influences zirconia ceramic bonding.
+CIT 2010 19766300 R. H.M.c    95  4  33 au[03](B Yang) Influence of air-abrasion on zirconia ceramic bonding using an adhesive composite resin.
+CIT 2010 20362764 R. H.M.c    86  2  28 au[04](Dana M Qeblawi) The effect of zirconia surface treatment on flexural strength and shear bond strength to a resin cement.
+CIT 2010 20047757 R. ..M.c    84  4  44 au[03](Pascal Magne) New zirconia primer improves bond strength of resin-based cements.
+CIT 2009 18952276 R. H.MCc    76  8  35 au[06](Raquel Castillo Oyagüe) Effect of water aging on microtensile bond strength of dual-cured resin cements to pre-treated sintered zirconium-oxide ceramics.
+CIT 2014 24123837 .. HA...    62  0 149 au[04](Evaggelia Papia) Bonding between oxide ceramics and adhesive cement systems: a systematic review.
+CIT 2009 19616882 R. ..M.c    62  2  25 au[07](Alessio Casucci) Influence of different surface treatments on surface zirconia frameworks.
+CIT 2015 25059831 .. H....    61  0  67 au[01](Matthias Kern) Bonding to oxide ceramics—laboratory testing versus clinical outcome.
+CIT 2011 21056462 R. H.M.c    56  3  37 au[06](Susanne S Scherrer) Fatigue behavior in water of Y-TZP zirconia ceramics after abrasion with 30 μm silica-coated alumina particles.
+CIT 2013 23137995 R. H.MCc    53  1  44 au[05](Masanao Inokoshi) Durable bonding to mechanically and/or chemically pre-treated dental zirconia.
+CIT 2010 19415350 R. H.MCc    49  1  26 au[07](Markus B Blatz) In vitro comparative bond strength of contemporary self-adhesive resin cements to zirconium oxide ceramic with and without air-particle abrasion.
+CIT 2011 21071072 R. ..M.c    47  3  29 au[03](Ahmed Attia) Influence of surface conditioning and cleaning methods on resin bonding to zirconia ceramic.
+CIT 2011 21564117 .. H...c    45  3  27 au[02](E E Hill) A clinically focused discussion of luting materials.
+CIT 2013 23022106 R. H.MCc    38  2  44 au[05](Ana Luísa Gomes) Influence of sandblasting granulometry and resin cement composition on microtensile bond strength to zirconia ceramic for dental prosthetic frameworks.
+CIT 2010 20381854 R. ..M.c    38  2  36 au[05](Peter Jevnikar) The effect of nano-structured alumina coating on resin-bond strength to zirconia ceramics.
+CIT 2009 18758827 R. ..M.c    38  6  42 au[03](F P Nothdurft) Effect of surface treatment on the initial bond strength of different luting cements to zirconium oxide ceramic.
+CIT 2014 24754327 .. ....c    37  1  77 au[04](Frank A Spitznagel) Resin bond to indirect composite and new ceramic/polymer materials: a review of the literature.
+CIT 2011 21798589 R. ..M..    36  0  54 au[07](Alessio Casucci) Effect of surface pre-treatments on the zirconia ceramic-resin cement microtensile bond strength.
+CIT 2011 21353693 R. H.M.c    35  1  28 au[03](Jeffrey R Piascik) Development of a novel surface modification for improved bonding to zirconia.
+CIT 2014 24676632 R. ..M.c    34  1  46 au[08](Yoo-Jin Shin) Evaluation of the shear bond strength of resin cement to Y-TZP ceramic after different surface treatments.
+CIT 2018 29035694 .P H.M..    33  0  46 au[02](Y Zhang) Novel Zirconia Materials in Dentistry.
+CIT 2011 21710091 R. ..M.c    32  1  28 au[01](Ahmed Attia) Bond strength of three luting agents to zirconia ceramic - influence of surface treatment and thermocycling.
+CIT 2010 20655101 R. H.M.c    31  2  73 au[02](Ramez Shahin) Effect of air-abrasion on the retention of zirconia ceramic crowns luted with different cements before and after artificial aging.
+CIT 2009 19721282 R. ....c    30  3  45 au[09](Shuzo Kitayama) Effect of an internal coating technique on tensile bond strengths of resin cements to zirconia ceramics.
+CIT 2010 21180009 R. H.MCc    28  2  43 au[06](Sheila Pestana Passos) Adhesive quality of self-adhesive and conventional adhesive resin cement to Y-TZP ceramic before and after aging conditions.
+CIT 2013 23044388 R. H.MC.    27  0  40 au[08](Guilherme B Valverde) Surface characterisation and bonding of Y-TZP following non-thermal plasma treatment.
+CIT 2012 22364644 R. ..M..    26  0  25 au[04](Jeffrey R Piascik) Surface fluorination of zirconia: adhesive bond strength comparison to commercial primers.
+CIT 2011 21094475 R. H....    26  0  12 au[07](Michael Behr) The bond strength of the resin-to-zirconia interface using different bonding concepts.
+CIT 2011 22024182 R. H.M..    26  0  33 au[02](Ahmed Attia) Long-term resin bonding to zirconia ceramic with a new universal primer.
+CIT 2010 20668359 R. H.M.c    22  3  33 au[04](Jie Lin) Bonding of self-adhesive resin cements to enamel using different surface treatments: bond strength and etching pattern evaluations.
+CIT 2015 24799187 R. ....c    21  2  57 au[05](Carolina Ceolin Druck) Adhesion to Y-TZP ceramic: study of silica nanofilm coating on the surface of Y-TZP.
+CIT 2010 20338094 R. H....    20  0  32 au[02](Congxiao Zhang) Shear bond strengths of self-adhesive luting resins fixing dentine to different restorative materials.
+CIT 2008 19051861 R. ..M..    20  0  32 au[03](Jon Lindgren) Effect of surface treatments and aging in water on bond strength to zirconia.
+CIT 2018 28876966 .P .....    18  0  60 au[03](M B Blatz) The Effect of Resin Bonding on Long-Term Success of High-Strength Ceramics.
+CIT 2011 21531453 R. H.MC.    17  0  27 au[07](Robert L Smith) Long-term microtensile bond strength of surface modified zirconia.
+CIT 2009 19583761 R. H...c    17  1  50 au[04](Djamila Puschmann) Load-bearing capacity of all-ceramic posterior inlay-retained fixed dental prostheses.
+CIT 2015 26365987 R. ..M..    16  0  38 au[06](Herzl Chai) On the interfacial fracture resistance of resin-bonded zirconia and glass-infiltrated graded zirconia.
+CIT 2013 24182897 R. H.M..    16  0  21 au[05](Renata Garcia Fonseca) Effect of particle size on the flexural strength and phase transformation of an airborne-particle abraded yttria-stabilized tetragonal zirconia polycrystal ceramic.
+CIT 2014 24299447 R. H....    15  0  44 au[04](A Erdem) Effects of different surface treatments on bond strength between resin cements and zirconia ceramics.
+CIT 2011 21284761 R. ..M.c    15  1  39 au[04](Carlo Monaco) Pilot evaluation of four experimental conditioning treatments to improve the bond strength between resin cement and Y-TZP ceramic.
+CIT 2008 19241694 R. H....    15  0  13 au[09](Goro Nishigawa) Ultrasonic cleaning of silica-coated zirconia influences bond strength between zirconia and resin luting material.
+CIT 2012 23217471 R. H.M..    14  0  25 au[05](Tariq F Alghazzawi) The failure load of CAD/CAM generated zirconia and glass-ceramic laminate veneers with different preparation designs.
+CIT 2010 21171499 R. H.M.c    14  1  16 au[03](John O Burgess) Self-adhesive resin cements.
+CIT 2016 27892564 R. H.M..    13  0 154 au[05](Chandkiram Gautam) Zirconia based dental ceramics: structure, mechanical properties, biocompatibility and applications.
+CIT 2013 22713113 R. H.M..    13  0  40 au[06](Mai Koizuka) The effect of different surface treatments on the bond strength of a gingiva-colored indirect composite veneering material to three implant framework materials.
+CIT 2010 20690416 R. H.MC.    13  0  26 au[04](Jie Lin) Effect of self-adhesive resin cement and tribochemical treatment on bond strength to zirconia.
+CIT 2015 25859635 R. ..M..    12  0  30 au[05](Aurealice Rosa Maria Martins) Improving adhesion between luting cement and zirconia-based ceramic with an alternative surface treatment.
+CIT 2015 25136900 R. H....    12  0  32 au[08](S A Feitosa) Effect of cleansing methods on saliva-contaminated zirconia--an evaluation of resin bond durability.
+CIT 2014 24529652 R. H.M.c    12  1  49 au[06](Mehdi Karimipour-Saryazdi) Influence of surface treatment of yttrium-stabilized tetragonal zirconium oxides and cement type on crown retention after artificial aging.
+CIT 2016 26268746 .. H.M..    11  0 137 au[02](R Luthra) An insight into current concepts and techniques in resin bonding to high strength ceramics.
+CIT 2016 26875611 .. H....    11  0  40 au[07](Ya-Ru Wei) Clinical performance of anterior resin-bonded fixed dental prostheses with different framework designs: A systematic review and meta-analysis.
+CIT 2015 25453565 R. H.M..    11  0  51 au[05](Plínio Sciasci) Effect of surface treatments on the shear bond strength of luting cements to Y-TZP ceramic.
+CIT 2015 28793485 .. .....    11  0 101 au[03](Alvaro Della Bona) Zirconia as a Dental Biomaterial.
+CIT 2008 18791580 R. H....    11  0  32 au[01](B Mizrahi) The anterior all-ceramic crown: a rationale for the choice of ceramic and cement.
+CIT 2014 25386526 R. ....c    10  1  28 au[04](Varsha Murthy) Effect of four surface treatment methods on the shear bond strength of resin cement to zirconia ceramics- a comparative in vitro study.
+CIT 2013 22926485 R. ....c    10  1  19 au[07](Juan-Luis Román-Rodríguez) Bond strength of selected composite resin-cements to zirconium-oxide ceramic.
+CIT 2019 27880028 RP H.M..     9  0  40 au[05](Kubilay Barutcigil) Effect of Different Surface Treatments on Bond Strength of Resin Cement to a CAD/CAM Restorative Material.
+CIT 2015 25799283 R. H.M..     9  0  22 au[02](Beata Smielak) Effect of hydrofluoric acid concentration and etching duration on select surface roughness parameters for zirconia.
+CIT 2013 24386768 .. H.M..     9  0  57 au[02](Sumit Makkar) Self-adhesive resin cements: a new perspective in luting technology.
+CIT 2012 22433034 R. H.MC.     9  0  57 au[06](F C Lorenzoni) Evaluation of chemical treatment on zirconia surface with two primer agents and an alkaline solution on bond strength.
+CIT 2011 21110711 R. H.M..     8  0  40 au[05](Safak Kulunk) Effect of air abrasion particles on the bond strength of adhesive resin cement to zirconia core.
+CIT 2010 20392490 R. ....c     8  1  34 au[05](Hesam Mirmohammadi) The influence of rotating fatigue on the bond strength of zirconia-composite interfaces.
+CIT 2009 19579142 R. H.M..     8  0  33 au[05](Jin-Ho Phark) In vitro shear bond strength of dual-curing resin cements to two different high-strength ceramic materials with different surface texture.
+CIT 2008 18536945 R. .A..c     8  2  47 au[04](F P Nothdurft) Influence of fatigue testing and cementation mode on the load-bearing capability of bovine incisors restored with crowns and zirconium dioxide posts.
+CIT 2018 28935192 RP ..M..     7  0  36 au[06](Shogo Yagawa) Effect of priming agents on shear bond strengths of resin-based luting agents to a translucent zirconia material.
+CIT 2013 23724930 R. H.M..     7  0  37 au[04](Kevin B Seto) Fatigue behavior of the resinous cement to zirconia bond.
+CIT 2010 20105682 R. .....     7  0  33 au[04](Nina Beck) In vitro fracture resistance of copy-milled zirconia ceramic posts.
+CIT 2018 29676972 RP H..C.     6  0  46 au[05](R Grasel) Effect of Resin Luting Systems and Alumina Particle Air Abrasion on Bond Strength to Zirconia.
+CIT 2016 26412003 R. ..M..     6  0  59 au[05](Fahad A Al-Harbi) In vitro shear bond strength of Y-TZP ceramics to different core materials with the use of three primer/resin cement systems.
+CIT 2015 26258062 R. .....     6  0  25 au[03](Ji-Yeon Lee) Comparison of shear bond strength of orthodontic brackets using various zirconia primers.
+CIT 2012 22139462 R. .....     6  0  28 au[06](Ryosuke Fushiki) Shear bond strength between an indirect composite layering material and feldspathic porcelain-coated zirconia ceramics.
+CIT 2010 19680171 R. .....     6  0  20 au[08](Juan L Román-Rodríguez) In vitro experimental study of bonding between aluminium oxide ceramics and resin cements.
+CIT 2017 28088308 R. H.M..     5  0  30 au[04](Chan Park) Effect of various polishing systems on the surface roughness and phase transformation of zirconia and the durability of the polishing systems.
+CIT 2017 28435615 R. .....     5  0  21 au[04](Jin Hyung Cho) Effect of zirconia surface treatment using nitric acid-hydrofluoric acid on the shear bond strengths of resin cements.
+CIT 2016 25916969 R. ..M..     5  0  48 au[03](Nadine Freifrau von Maltzahn) Retention Forces between Titanium and Zirconia Components of Two-Part Implant Abutments with Different Techniques of Surface Modification.
+CIT 2018 28461047 RP .....     4  0  43 au[04](Nadja Rohr) Influence of cement type and ceramic primer on retention of polymer-infiltrated ceramic crowns to a one-piece zirconia implant.
+CIT 2017 29109822 R. ..M..     4  0  33 au[05](Jihun Kim) The Effect of Various Types of Mechanical and Chemical Preconditioning on the Shear Bond Strength of Orthodontic Brackets on Zirconia Restorations.
+CIT 2017 27859654 R. ..M..     4  0  23 au[05](Geum-Jun Han) Promotion of resin bonding to dental zirconia ceramic using plasma deposition of tetramethylsilane and benzene.
+CIT 2016 27382569 R. .....     4  0  36 au[05](Jong-Eun Kim) Effect of Surface Treatment on Shear Bond Strength between Resin Cement and Ce-TZP/Al2O3.
+CIT 2015 25866998 R. ..M..     4  0  28 au[04](Gulsah E Akin) Surface roughness and bond strength of zirconia posts to a resin cement after various surface pretreatments.
+CIT 2014 26199489 R. H....     4  0  29 au[04](Leyla Sadighpour) Effect of Resin Cement Mixing Method on the Retention Strength of a CAD/CAM Zirconia Crowns.
+CIT 2013 23106772 R. H....     4  0  21 au[02](Joanne M Livaditis) The use of custom-milled zirconia teeth to address tooth abrasion in complete dentures: a clinical report.
+CIT 2012 23422603 R. H.M..     4  0  60 au[01](Cherif Adel Mohsen) Evaluation of push-out bond strength of surface treatments of two esthetic posts.
+CIT 2012 22823334 R. H.MC.     4  0  22 au[03](Ala O Ali) The influence of different convergence angles and resin cements on the retention of zirconia copings.
+CIT 2017 27928098 R. ..M..     3  0  38 au[03](Maryam Moezzizadeh) Effect of bioglass and silica coating of zirconia substrate on its bond strength to resin cement.
+CIT 2017 27575994 R. .....     3  0  40 au[06](Nergiz Rona) Effect of electrical discharge machining on dental Y-TZP ceramic-resin bonding.
+CIT 2016 27252003 R. ..M..     3  0  36 au[06](Taro Iwasaki) Shear bond strengths of an indirect composite layering material to a tribochemically silica-coated zirconia framework material.
+CIT 2015 25672386 R. ..MC.     3  0  23 au[06](Monique Kruger Guarita) Effect of different surface treatments for ceramic bracket base on bond strength of rebonded brackets.
+CIT 2015 25819355 R. H....     3  0  22 au[05](Ga-Hyun Kim) Shear bond strength between resin cement and colored zirconia made with metal chlorides.
+CIT 2013 23755347 R. .....     3  0  30 au[04](Seung-Mi Kim) The effect of resin cements and primer on retentive force of zirconia copings bonded to zirconia abutments with insufficient retention.
+CIT 2018 29962415 RP .....     2  0  28 au[07](Yu Tsuyuki) Effect of occlusal groove on abutment, crown thickness, and cement-type on fracture load of monolithic zirconia crowns.
+CIT 2015 26884775 R. H....     2  0  37 au[05](Minoo Mahshid) Effect of Coloring-by-Dipping on Microtensile Bond Strength of Zirconia to Resin Cement.
+CIT 2015 25932308 R. H....     2  0  44 au[05](Serdar Polat) Evaluation of the bond strength between aged composite cores and luting agent.
+CIT 2013 24353874 R. .....     2  0  35 au[06](Tolga Külünk) The effect of alumina and aluminium nitride coating by reactive magnetron sputtering on the resin bond strength to zirconia core.
+CIT 2018 30047509 R. H.M..     1  0  23 au[06](Akifumi Takahashi) The effect of different cleaning agents on saliva contamination for bonding performance of zirconia ceramics.
+CIT 2018 29487838 R. .....     1  0  24 au[04](Ji-Yeon Lee) Comparison of bond strengths of ceramic brackets bonded to zirconia surfaces using different zirconia primers and a universal adhesive.
+CIT 2018 30423984 RP ..M..     1  0  61 au[07](Chan Park) Effect of Plasma Treatment and Its Post Process Duration on Shear Bonding Strength and Antibacterial Effect of Dental Zirconia.
+CIT 2018 29656421 RP H....     1  0  31 au[04](Farahnaz Nejatidanesh) Effect of cleaning methods on retentive values of saliva-contaminated implant-supported zirconia copings.
+CIT 2018 28533011 RP H....     1  0  31 au[05](Beatriz Regalado Galvão Ribeiro) Effect of surface treatments on repair with composite resin of a partially monoclinic phase transformed yttrium-stabilized tetragonal zirconia.
+CIT 2017 29563429 R. .....     1  0  30 au[02](Ju-Hyoung Lee) Effect of the Surface Treatment Method Using Airborne-Particle Abrasion and Hydrofluoric Acid on the Shear Bond Strength of Resin Cement to Zirconia.
+CIT 2017 27677215 R. H....     1  0  35 au[03](Krysta Sellers) Retentive strength of implant-supported CAD-CAM lithium disilicate crowns on zirconia custom abutments using 6 different cements.
+CIT 2017 28435623 R. .....     1  0  31 au[03](Jung-Jin Lee) Influence of nano-structured alumina coating on shear bond strength between Y-TZP ceramic and various dual-cured resin cements.
+CIT 2015 26041071 R. ..M..     1  0  39 au[06](Futoshi Komine) Effect of various surface preparations on bond strength of a gingiva-colored indirect composite to zirconia framework for implant-supported prostheses.
+CIT 2013 23718996 R. .A...     1  0  29 au[03](Kisaki Shimazu) Evaluation of the caries-preventive effect of three orthodontic band cements in terms of fluoride release, retentiveness, and microleakage.
+CIT 2013 24037072 R. H.M..     1  0  25 au[04](Emilia Adriane Silva) Heat treatment following surface silanization in rebonded tribochemical silica-coated ceramic brackets: shear bond strength analysis.
+CIT 2020 31948123 R. .....     0  0  33 au[03](Francesco Valente) Effects of 10-MDP Based Primer on Shear Bond Strength between Zirconia and New Experimental Resin Cement.
+CIT 2020 32024198 R. .....     0  0  45 au[06](Marco Colombo) Influence of Different Surface Pretreatments on Shear Bond Strength of an Adhesive Resin Cement to Various Zirconia Ceramics.
+CIT 2019 31216246 R. ..M..     0  0  20 au[03](E J Go) Evaluation of the Microshear Bond Strength of MDP-containing and Non-MDP-containing Self-adhesive Resin Cement on Zirconia Restoration.
+CIT 2019 31480271 R. .....     0  0  48 au[06](Yong-Seok Jang) Effects of Liner-Bonding of Implant-Supported Glass-Ceramic Crown to Zirconia Abutment on Bond Strength and Fracture Resistance.
+CIT 2019 30867349 R. ..M..     0  0  25 au[06](Aftab Ahmed Khan) Surface wettability and nano roughness at different grit blasting operational pressures and their effects on resin cement to zirconia adhesion.
+CIT 2019 30854839 R. ..M..     0  0  32 au[07](Alana M Dantas) The effect of air-particle abrasion and a zirconia primer application on resin cement bonding strength to zirconia.
+CIT 2019 30511468 R. ..M..     0  0  41 au[05](Yuri Dal Bello) Bond strength between composite repair and polymer-infiltrated ceramic-network material: Effect of different surface treatments.
+CIT 2018 29731837 RP H.M..     0  0  33 au[06](Wenshu Liu) Phosphoric and carboxylic methacrylate esters as bonding agents in self-adhesive resin cements.
+CIT 2018 29503713 RP .....     0  0  35 au[05](Canan Akay) Influence of nano alumina coating on the flexural bond strength between zirconia and resin cement.
+CIT 2017 28640855 R. ..M..     0  0  36 au[05](Yong-Mei Li) The effect of subpressure on the bond strength of resin to zirconia ceramic.
+CIT 2017 26789538 R. H....     0  0  44 au[04](Sibel Cetik) In Vitro Study of the Sealing Ability of Cements for Zirconia Restorations.
+CIT 2012 22691086 .. .....     0  0  17 au[01](Edward J Swift) Self-adhesive resin cements—part I.
+12 Cited by Clinical papers:
+CLI 2009 18952276 R. H.MCc    76  8  35 au[06](Raquel Castillo Oyagüe) Effect of water aging on microtensile bond strength of dual-cured resin cements to pre-treated sintered zirconium-oxide ceramics.
+CLI 2013 23137995 R. H.MCc    53  1  44 au[05](Masanao Inokoshi) Durable bonding to mechanically and/or chemically pre-treated dental zirconia.
+CLI 2010 19415350 R. H.MCc    49  1  26 au[07](Markus B Blatz) In vitro comparative bond strength of contemporary self-adhesive resin cements to zirconium oxide ceramic with and without air-particle abrasion.
+CLI 2013 23022106 R. H.MCc    38  2  44 au[05](Ana Luísa Gomes) Influence of sandblasting granulometry and resin cement composition on microtensile bond strength to zirconia ceramic for dental prosthetic frameworks.
+CLI 2010 21180009 R. H.MCc    28  2  43 au[06](Sheila Pestana Passos) Adhesive quality of self-adhesive and conventional adhesive resin cement to Y-TZP ceramic before and after aging conditions.
+CLI 2013 23044388 R. H.MC.    27  0  40 au[08](Guilherme B Valverde) Surface characterisation and bonding of Y-TZP following non-thermal plasma treatment.
+CLI 2011 21531453 R. H.MC.    17  0  27 au[07](Robert L Smith) Long-term microtensile bond strength of surface modified zirconia.
+CLI 2010 20690416 R. H.MC.    13  0  26 au[04](Jie Lin) Effect of self-adhesive resin cement and tribochemical treatment on bond strength to zirconia.
+CLI 2012 22433034 R. H.MC.     9  0  57 au[06](F C Lorenzoni) Evaluation of chemical treatment on zirconia surface with two primer agents and an alkaline solution on bond strength.
+CLI 2018 29676972 RP H..C.     6  0  46 au[05](R Grasel) Effect of Resin Luting Systems and Alumina Particle Air Abrasion on Bond Strength to Zirconia.
+CLI 2012 22823334 R. H.MC.     4  0  22 au[03](Ala O Ali) The influence of different convergence angles and resin cements on the retention of zirconia copings.
+CLI 2015 25672386 R. ..MC.     3  0  23 au[06](Monique Kruger Guarita) Effect of different surface treatments for ceramic bracket base on bond strength of rebonded brackets.
+
