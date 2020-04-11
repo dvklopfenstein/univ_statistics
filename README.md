@@ -23,6 +23,14 @@ A [**Flowchart**](doc/README_flowchart.md) to aid in choosing correct statistica
 
 ### [Statistical Reasoning II by John McGready at Johns Hopkins University ](http://ocw.jhsph.edu/index.cfm/go/viewCourse/course/StatisticalReasoning2/coursePage/index/)
 
+## How to be a Statistical Detective: Simple ways to sleuth out statistical errors, by Kristin Sainani at Stanford University
+kcobb@stanford.edu
+  * http://statcheck.io takes PDF, DOCX, or HTML
+  * [GRIM test](http://www.prepubmed.org/grim_test) (Granularity-Related Inconsistent Mean) flags impossible mean values
+  * [WebPlotDigitizer](https://apps.automeris.io/wpd)    
+  * https://onlinelibrary.wiley.com/doi/toc/10.1016/(ISSN)1934-1563.statistics
+  * Pearson: Normally distributed data, Don't have outliars, otherwise use Pearson's
+
 
 # Statistics links
 

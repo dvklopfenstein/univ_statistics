@@ -52,3 +52,9 @@ REF 2012 22621834 R. H...c     6  1  33 au[06](Thomas R Vetter) The perioperativ
 REF 2012 22337156 R. H..Cc     5  2   0 au[09](A A Abd-Elsayed) A randomized controlled study to assess patients' understanding of and consenting for clinical trials using two different consent form presentations.
 REF 2016 27057011 R. H....     3  0   0 au[02](Avijit Hazra) Biostatistics Series Module 2: Overview of Hypothesis Testing.
 
+TOP 17057710 .. H.M.c 4 2006   344  9  23 au[17](Anil Potti) Genomic signatures to guide the use of chemotherapeutics. Potti_2006
+
+TOP 21217686 .. ..... 2 2011    28  0   1 au[17](Anil Potti) Retraction: Genomic signatures to guide the use of chemotherapeutics. Potti_2011
+1 of 1 References downloaded:
+REF 17057710 .. H.M.c 4 2006   344  9  23 au[17](Anil Potti) Genomic signatures to guide the use of chemotherapeutics.
+
