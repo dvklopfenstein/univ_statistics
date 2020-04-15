@@ -1,60 +1,939 @@
-TOP 2016 27281180 .. .....    14  0   3 au[06](Robert E Kass) Ten Simple Rules for Effective Statistical Practice. Kass_2016
+TOP 27281180 .. .....  67 2 2016    14  0   3 au[06](Robert E Kass) Ten Simple Rules for Effective Statistical Practice.
 9 of 14 citations downloaded:
-CIT 2018 29844961 RP .....    51  0  27 au[09](Xavier A Harrison) A brief introduction to mixed effects modelling and multi-model inference in ecology.
-CIT 2017 28620458 .. H....    22  0  33 au[03](Leonard P Freedman) Reproducibility2020: Progress and priorities.
-CIT 2017 29629393 R. ....c    17  1  89 au[05](Ricardo Chavarriaga) Heading for new shores! Overcoming pitfalls in BCI design.
-CIT 2017 28439179 .. H....    15  0  66 au[11](Xinzhi Zhang) Big Data Science: Opportunities and Challenges to Address Minority Health and Health Disparities in the 21st Century.
-CIT 2017 28420797 .. H...c     8  1  11 au[02](Emery N Brown) Controversy in statistical analysis of functional magnetic resonance imaging data.
-CIT 2019 31043463 R. H....     3  0  53 au[02](Pablo A Iturralde) Corrective Muscle Activity Reveals Subject-Specific Sensorimotor Recalibration.
-CIT 2018 30465718 RP H....     2  0  22 au[05](Karl E Peace) A Serious Flaw in Nutrition Epidemiology: A Meta-Analysis Study.
-CIT 2017 29152523 R. .....     2  0 210 au[30](Jane E Huggins) Workshops of the Sixth International Brain-Computer Interface Meeting: brain-computer interfaces past, present, and future.
-CIT 2017 28679565 .. H....     1  0  18 au[01](Douglas Curran-Everett) Small steps to help improve the caliber of the reporting of statistics.
-CIT 2019 31815929 R. ..M..     0  0  18 au[03](Tuure Hameri) Statistical inference in ensemble modeling of cellular metabolism.
-CIT 2019 31856181 R. .....     0  0  36 au[04](Vincent Miele) Nine quick tips for analyzing network data.
-CIT 2018 30307934 .P H....     0  0  34 au[02](Lars Ole Schwen) Ten quick tips for getting the most scientific value out of numerical data.
-CIT 2017 28125123 R. H....     0  0   7 au[05](Raphael de Freitas Saldanha) [Proposal for an epidemiological observatory in the Brazilian Unified National Health System].
-CIT 2017 28231039 R. .....     0  0   2 au[02](Jonathan R Brown) Editorial Management: Clinical Research Papers and Science Research Papers.
+CIT 31043463 R. H....  -1 i 2019     3  0  53 au[02](Pablo A Iturralde) Corrective Muscle Activity Reveals Subject-Specific Sensorimotor Recalibration.
+CIT 31815929 R. ..M..  -1 i 2019     0  0  18 au[03](Tuure Hameri) Statistical inference in ensemble modeling of cellular metabolism.
+CIT 31856181 R. .....  -1 i 2019     0  0  36 au[04](Vincent Miele) Nine quick tips for analyzing network data.
+CIT 29844961 RP ..... 100 4 2018    51  0  27 au[09](Xavier A Harrison) A brief introduction to mixed effects modelling and multi-model inference in ecology.
+CIT 29629393 R. ....c  91 3 2017    17  1  89 au[05](Ricardo Chavarriaga) Heading for new shores! Overcoming pitfalls in BCI design.
+CIT 28620458 .. H....  86 3 2017    22  0  33 au[03](Leonard P Freedman) Reproducibility2020: Progress and priorities.
+CIT 30465718 RP H....  31 2 2018     2  0  22 au[05](Karl E Peace) A Serious Flaw in Nutrition Epidemiology: A Meta-Analysis Study.
+CIT 28439179 .. H....  82 2 2017    15  0  66 au[11](Xinzhi Zhang) Big Data Science: Opportunities and Challenges to Address Minority Health and Health Disparities in the 21st Century.
+CIT 28420797 .. H...c  53 2 2017     8  1  11 au[02](Emery N Brown) Controversy in statistical analysis of functional magnetic resonance imaging data.
+CIT 29152523 R. .....  23 2 2017     2  0 210 au[30](Jane E Huggins) Workshops of the Sixth International Brain-Computer Interface Meeting: brain-computer interfaces past, present, and future.
+CIT 28679565 .. H....  11 1 2017     1  0  18 au[01](Douglas Curran-Everett) Small steps to help improve the caliber of the reporting of statistics.
+CIT 30307934 .P H....   0 0 2018     0  0  34 au[02](Lars Ole Schwen) Ten quick tips for getting the most scientific value out of numerical data.
+CIT 28125123 R. H....   0 0 2017     0  0   7 au[05](Raphael de Freitas Saldanha) [Proposal for an epidemiological observatory in the Brazilian Unified National Health System].
+CIT 28231039 R. .....   0 0 2017     0  0   2 au[02](Jonathan R Brown) Editorial Management: Clinical Research Papers and Science Research Papers.
 3 of 3 References downloaded:
-REF 2016 26961635 .. H...c    34  1   1 au[01](Monya Baker) Statisticians issue warning over misuse of P values.
-REF 2014 24763340 .. .....    25  0   5 au[15](Alyssa Goodman) Ten simple rules for the care and feeding of scientific data.
-REF 2014 25340653 .. H....     6  0   0 au[03](Harriet Dashnow) Ten simple rules for writing a PLOS ten simple rules article.
+REF 25340653 .. H....  17 2 2014     6  0   0 au[03](Harriet Dashnow) Ten simple rules for writing a PLOS ten simple rules article.
+REF 24763340 .. .....  63 2 2014    25  0   5 au[15](Alyssa Goodman) Ten simple rules for the care and feeding of scientific data.
+REF 26961635 .. H...c  91 3 2016    34  1   1 au[01](Monya Baker) Statisticians issue warning over misuse of P values.
 
-TOP 2013 23456667 .. H...c    61 22   4 au[04](George Divine) Statistical grand rounds: a review of analysis and sample size calculation considerations for Wilcoxon tests. Divine_2013
-2 of 61 citations downloaded:
-CIT 2016 27003917 R. H..Cc    14  4  27 au[07](Bhiken I Naik) The Effect of Dexmedetomidine on Postoperative Opioid Consumption and Pain After Major Spine Surgery.
-CIT 2018 29189214 RP H....     7  0  15 au[02](Thomas R Vetter) Unadjusted Bivariate Two-Group Comparisons: When Simpler is Better.
-1 Cited by Clinical papers:
-CLI 2016 27003917 R. H..Cc    14  4  27 au[07](Bhiken I Naik) The Effect of Dexmedetomidine on Postoperative Opioid Consumption and Pain After Major Spine Surgery.
+TOP 23456667 .. H...c  94 3 2013    61 22   4 au[04](George Divine) Statistical grand rounds: a review of analysis and sample size calculation considerations for Wilcoxon tests.
+22 Cited by Clinical papers:
+CLI 29683824 RP H..C.  89 3 2018     4  0  23 au[02](Jeffrey Leighton Tong) A Randomized Trial Comparing the Effect of Fiberoptic Selection and Guidance Versus Random Selection, Blind Insertion, and Direct Laryngoscopy, on the Incidence and Severity of Epistaxis After Nasotracheal Intubation.
+CLI 27007076 R. H..Cc  97 3 2016    34  7  38 au[11](Nabil M Elkassabany) The Risk of Falls After Total Knee Arthroplasty with the Use of a Femoral Nerve Block Versus an Adductor Canal Block: A Double-Blinded Randomized Controlled Study.
+CLI 26421810 R. H..Cc  88 3 2016    19  2  32 au[07](Lucas J Castro-Alves) Perioperative Duloxetine to Improve Postoperative Recovery After Abdominal Hysterectomy: A Prospective, Randomized, Double-Blinded, Placebo-Controlled Study.
+CLI 26205902 R. H..Cc  91 3 2015    24  5  23 au[07](B J Walker) Peripheral nerve catheters in children: an analysis of safety and practice patterns from the pediatric regional anesthesia network (PRAN).
+CLI 25185593 R. H..Cc  89 3 2015    33  6  23 au[09](Eva Potura) An acetate-buffered balanced crystalloid versus 0.9% saline in patients with end-stage renal disease undergoing cadaveric renal transplantation: a prospective randomized controlled trial.
+CLI 24977638 R. H..Cc  97 3 2014    68 27  29 au[07](Anne K Staehr-Rye) Surgical space conditions during low-pressure laparoscopic cholecystectomy with deep versus moderate neuromuscular blockade: a randomized clinical study.
+CLI 25010820 R. H..Cc  94 3 2014    64  9  31 au[14](David Pestaña) Perioperative goal-directed hemodynamic optimization using noninvasive cardiac output monitoring in major abdominal surgery: a prospective, randomized, multicenter, pragmatic trial: POEMAS Study (PeriOperative goal-directed thErapy in Major Abdominal Surgery).
+CLI 24918899 R. H..Cc  93 3 2014    36 13  28 au[05](Justin B Long) Transversus abdominis plane block in children: a multicenter safety analysis of 1994 cases from the PRAN (Pediatric Regional Anesthesia Network) database.
+CLI 24810262 R. H..Cc  85 3 2014    39  8  33 au[06](Anne-Mette C Sauër) Intraoperative dexamethasone and delirium after cardiac surgery: a randomized clinical trial.
+CLI 27003917 R. H..Cc  84 2 2016    14  4  27 au[07](Bhiken I Naik) The Effect of Dexmedetomidine on Postoperative Opioid Consumption and Pain After Major Spine Surgery.
+CLI 27195638 R. H..Cc  68 2 2016     9  3  21 au[06](Justin B Long) The Use of Neuraxial Catheters for Postoperative Analgesia in Neonates: A Multicenter Safety Analysis from the Pediatric Regional Anesthesia Network.
+CLI 27687344 R. H..Cc  66 2 2016     6  4  30 au[04](Gildasio S De Oliveira) Dose-ranging effect of systemic diphenhydramine on postoperative quality of recovery after ambulatory laparoscopic surgery: a randomized, placebo-controlled, double-blinded, clinical trial.
+CLI 27537754 R. H..Cc  62 2 2016     9  1  22 au[07](Roger A Langford) Comparative Plasma and Cerebrospinal Fluid Pharmacokinetics of Paracetamol After Intravenous and Oral Administration.
+CLI 26836134 R. H..Cc  57 2 2016     6  1  58 au[11](Richard L Applegate) Advanced Monitoring Is Associated with Fewer Alarm Events During Planned Moderate Procedure-Related Sedation: A 2-Part Pilot Trial.
+CLI 26237623 R. H..C.  57 2 2015     7  0  22 au[04](Kristen M Bailey) Preparing Parents to Be Present for Their Child's Anesthesia Induction: A Randomized Controlled Trial.
+CLI 26263077 R. H..Cc  48 2 2015     8  2  31 au[05](Gildasio S de Oliveira) Perioperative Dexamethasone and the Development of Chronic Postmastectomy Pain: A Single-Center Observational Cohort Study.
+CLI 26501831 R. H..C.  46 2 2015     6  0  27 au[07](Hubert A Benzon) The Effect of Systemic Magnesium on Postsurgical Pain in Children Undergoing Tonsillectomies: A Double-Blinded, Randomized, Placebo-Controlled Trial.
+CLI 25810108 R. H..Cc  42 2 2015     5  1  22 au[07](G Cappelleri) A randomised controlled comparison between stimulating and standard catheters for lumbar plexus block.
+CLI 25040433 R. H..Cc  83 2 2014    21  8  37 au[08](Samuel C Seiden) Tablet-based Interactive Distraction (TBID) vs oral midazolam to minimize perioperative anxiety in pediatric patients: a noninferiority randomized trial.
+CLI 24557112 R. H..Cc  60 2 2014    10  3  10 au[05](Tatsuya Yoshimura) Bronchial blocker lung collapse technique: nitrous oxide for facilitating lung collapse during one-lung ventilation with a bronchial blocker.
+CLI 24914630 R. H..Cc  39 2 2014     6  3  16 au[06](Gianluca Cappelleri) Effect of local anesthetic dilution on the onset time and duration of double-injection sciatic nerve block: a prospective, randomized, blinded evaluation.
+CLI 26569427 R. H..Cc  12 1 2016     1  1  17 au[03](Rachel Eshima McKay) The Effect of Anesthetic Choice (Sevoflurane Versus Desflurane) and Neuromuscular Management on Speed of Airway Reflex Recovery.
+55 of 61 citations downloaded:
+CIT 31681831 R. H.M..  -1 i 2019     2  0  29 au[10](Tilak Shah) Neoadjuvant cryotherapy improves dysphagia and may impact remission rates in advanced esophageal cancer.
+CIT 30649075 .. HA...  -1 i 2019     2  0  15 au[03](Steven J Staffa) Quantile Regression and Its Applications: A Primer for Anesthesiologists.
+CIT 30656661 .. .A...  -1 i 2019     0  0   4 au[01](G C McCracken) Statistical significance comparing cricothyroidotomy techniques.
+CIT 28590949 R. H....  -1 i 2019     0  0  12 au[04](Jeffrey R Daniels) Quantitative Assessment of Statistical Reviews of Patient Safety Research Articles.
+CIT 29189214 RP H....  90 3 2018     7  0  15 au[02](Thomas R Vetter) Unadjusted Bivariate Two-Group Comparisons: When Simpler is Better.
+CIT 29683824 RP H..C.  89 3 2018     4  0  23 au[02](Jeffrey Leighton Tong) A Randomized Trial Comparing the Effect of Fiberoptic Selection and Guidance Versus Random Selection, Blind Insertion, and Direct Laryngoscopy, on the Incidence and Severity of Epistaxis After Nasotracheal Intubation.
+CIT 30386022 RP H....  87 3 2018     5  0  32 au[05](Sanjib D Adhikary) Transmuscular quadratus lumborum versus lumbar plexus block for total hip arthroplasty: A retrospective propensity score matched cohort study.
+CIT 29564369 RP .....  85 3 2018     4  0  15 au[03](William F Auffermann) Search pattern training for evaluation of central venous catheter positioning on chest radiographs.
+CIT 27007076 R. H..Cc  97 3 2016    34  7  38 au[11](Nabil M Elkassabany) The Risk of Falls After Total Knee Arthroplasty with the Use of a Femoral Nerve Block Versus an Adductor Canal Block: A Double-Blinded Randomized Controlled Study.
+CIT 26421810 R. H..Cc  88 3 2016    19  2  32 au[07](Lucas J Castro-Alves) Perioperative Duloxetine to Improve Postoperative Recovery After Abdominal Hysterectomy: A Prospective, Randomized, Double-Blinded, Placebo-Controlled Study.
+CIT 25393589 R. H...c  96 3 2015    43  9  35 au[04](Santhanam Suresh) Are caudal blocks for pain control safe in children? an analysis of 18,650 caudal blocks from the Pediatric Regional Anesthesia Network (PRAN) database.
+CIT 25993388 R. H...c  94 3 2015    32  1  21 au[05](Feyce Peralta) The Relationship of Body Mass Index with the Incidence of Postdural Puncture Headache in Parturients.
+CIT 26205902 R. H..Cc  91 3 2015    24  5  23 au[07](B J Walker) Peripheral nerve catheters in children: an analysis of safety and practice patterns from the pediatric regional anesthesia network (PRAN).
+CIT 25185593 R. H..Cc  89 3 2015    33  6  23 au[09](Eva Potura) An acetate-buffered balanced crystalloid versus 0.9% saline in patients with end-stage renal disease undergoing cadaveric renal transplantation: a prospective randomized controlled trial.
+CIT 24977638 R. H..Cc  97 3 2014    68 27  29 au[07](Anne K Staehr-Rye) Surgical space conditions during low-pressure laparoscopic cholecystectomy with deep versus moderate neuromuscular blockade: a randomized clinical study.
+CIT 25010820 R. H..Cc  94 3 2014    64  9  31 au[14](David Pestaña) Perioperative goal-directed hemodynamic optimization using noninvasive cardiac output monitoring in major abdominal surgery: a prospective, randomized, multicenter, pragmatic trial: POEMAS Study (PeriOperative goal-directed thErapy in Major Abdominal Surgery).
+CIT 24918899 R. H..Cc  93 3 2014    36 13  28 au[05](Justin B Long) Transversus abdominis plane block in children: a multicenter safety analysis of 1994 cases from the PRAN (Pediatric Regional Anesthesia Network) database.
+CIT 24810262 R. H..Cc  85 3 2014    39  8  33 au[06](Anne-Mette C Sauër) Intraoperative dexamethasone and delirium after cardiac surgery: a randomized clinical trial.
+CIT 23966647 .. H...c  87 3 2013    46 22   7 au[01](Franklin Dexter) Wilcoxon-Mann-Whitney test used for data that are not normally distributed.
+CIT 30209784 RP H....  37 2 2018     1  0  23 au[04](Kokila N Thenuwara) Time to recovery after general anesthesia at hospitals with and without a phase I post-anesthesia care unit: a historical cohort study.
+CIT 27904923 R. H....  78 2 2017    11  0  40 au[03](Carolina Parada Villavicencio) Can diffusion-weighted magnetic resonance imaging of clear cell renal carcinoma predict low from high nuclear grade tumors.
+CIT 27607480 R. .AM..  62 2 2017     8  0  52 au[10](Eun Kyung Choi) Inhibition of Oxidative Stress in Renal Ischemia-Reperfusion Injury.
+CIT 28455260 R. HA...  26 2 2017     3  0  51 au[03](Joanna Mikołajczyk-Stecyna) TAS2R38 and CA6 genetic polymorphisms, frequency of bitter food intake, and blood biomarkers among elderly woman.
+CIT 27003917 R. H..Cc  84 2 2016    14  4  27 au[07](Bhiken I Naik) The Effect of Dexmedetomidine on Postoperative Opioid Consumption and Pain After Major Spine Surgery.
+CIT 27195638 R. H..Cc  68 2 2016     9  3  21 au[06](Justin B Long) The Use of Neuraxial Catheters for Postoperative Analgesia in Neonates: A Multicenter Safety Analysis from the Pediatric Regional Anesthesia Network.
+CIT 27687344 R. H..Cc  66 2 2016     6  4  30 au[04](Gildasio S De Oliveira) Dose-ranging effect of systemic diphenhydramine on postoperative quality of recovery after ambulatory laparoscopic surgery: a randomized, placebo-controlled, double-blinded, clinical trial.
+CIT 26669651 R. H....  65 2 2016     7  0  14 au[10](John D Mitchell) The Impact of a Resident Communication Skills Curriculum on Patients' Experiences of Care.
+CIT 27537754 R. H..Cc  62 2 2016     9  1  22 au[07](Roger A Langford) Comparative Plasma and Cerebrospinal Fluid Pharmacokinetics of Paracetamol After Intravenous and Oral Administration.
+CIT 26870749 R. H....  60 2 2016     7  0  16 au[03](William F Auffermann) Teaching search patterns to medical trainees in an educational laboratory to improve perception of pulmonary nodules.
+CIT 26836134 R. H..Cc  57 2 2016     6  1  58 au[11](Richard L Applegate) Advanced Monitoring Is Associated with Fewer Alarm Events During Planned Moderate Procedure-Related Sedation: A 2-Part Pilot Trial.
+CIT 26545101 R. H....  45 2 2016     5  0  24 au[03](Emine Ozgur Bayman) Prolonged Operative Time to Extubation Is Not a Useful Metric for Comparing the Performance of Individual Anesthesia Providers.
+CIT 26877703 R. HAM..  36 2 2016     5  0  21 au[06](Shu-Ping Wu) Systematic revision of the Taiwanese genus Kurixalus members with a description of two new endemic species (Anura, Rhacophoridae).
+CIT 26237623 R. H..C.  57 2 2015     7  0  22 au[04](Kristen M Bailey) Preparing Parents to Be Present for Their Child's Anesthesia Induction: A Randomized Controlled Trial.
+CIT 26421854 R. H....  56 2 2015     7  0  21 au[05](William F Auffermann) Simulation for Teaching and Assessment of Nodule Perception on Chest Radiography in Nonradiology Health Care Trainees.
+CIT 26263077 R. H..Cc  48 2 2015     8  2  31 au[05](Gildasio S de Oliveira) Perioperative Dexamethasone and the Development of Chronic Postmastectomy Pain: A Single-Center Observational Cohort Study.
+CIT 26501831 R. H..C.  46 2 2015     6  0  27 au[07](Hubert A Benzon) The Effect of Systemic Magnesium on Postsurgical Pain in Children Undergoing Tonsillectomies: A Double-Blinded, Randomized, Placebo-Controlled Trial.
+CIT 25810108 R. H..Cc  42 2 2015     5  1  22 au[07](G Cappelleri) A randomised controlled comparison between stimulating and standard catheters for lumbar plexus block.
+CIT 25600654 .. .....  34 2 2015     7  0  31 au[03](Elise Billoir) Sample size calculation in metabolic phenotyping studies.
+CIT 26538463 R. H...c  24 2 2015     3  1  22 au[03](Heléne Zetterström Dahlqvist) What students do schools allocate to a cognitive-behavioural intervention? Characteristics of adolescent participants in Northern Sweden.
+CIT 25658315 R. H.M..  23 2 2015     3  0  21 au[06](Andreas Duma) The hematological effects of nitrous oxide anesthesia in pediatric patients.
+CIT 25710675 R. .A...  20 2 2015     4  0  44 au[05](Maja A Tomić) The effects of levetiracetam, sumatriptan, and caffeine in a rat model of trigeminal pain: interactions in 2-component combinations.
+CIT 25902323 R. .A...  19 2 2015     3  0  49 au[04](Gary R Strichartz) Mitigation of experimental, chronic post-thoracotomy pain by preoperative infiltration of local slow-release bupivacaine microspheres.
+CIT 25040433 R. H..Cc  83 2 2014    21  8  37 au[08](Samuel C Seiden) Tablet-based Interactive Distraction (TBID) vs oral midazolam to minimize perioperative anxiety in pediatric patients: a noninferiority randomized trial.
+CIT 24445637 R. H...c  67 2 2014    15  1  20 au[04](Mihaela Visoiu) Anesthetic drugs and onset of malignant hyperthermia.
+CIT 24557112 R. H..Cc  60 2 2014    10  3  10 au[05](Tatsuya Yoshimura) Bronchial blocker lung collapse technique: nitrous oxide for facilitating lung collapse during one-lung ventilation with a bronchial blocker.
+CIT 24651234 R. H....  58 2 2014    17  0  50 au[09](Johanna Hästbacka) Serum MMP-8 and TIMP-1 in critically ill patients with acute respiratory failure: TIMP-1 is associated with increased 90-day mortality.
+CIT 24462729 R. H...c  57 2 2014    12  2  34 au[07](Gildasio S De Oliveira) Lack of association between breast reconstructive surgery and the development of chronic pain after mastectomy: a propensity matched retrospective cohort analysis.
+CIT 24914630 R. H..Cc  39 2 2014     6  3  16 au[06](Gianluca Cappelleri) Effect of local anesthetic dilution on the onset time and duration of double-injection sciatic nerve block: a prospective, randomized, blinded evaluation.
+CIT 24945123 R. H...c  25 2 2014     5  1  31 au[06](Tanja Laukkala) Long-term psychosocial outcomes after intraoperative awareness with recall.
+CIT 25439411 R. H....  17 2 2014     4  0  30 au[06](Alexander DeLeon) The incidence of coagulopathy in pregnant patients with intrahepatic cholestasis: should we delay or avoid neuraxial analgesia?
+CIT 24029856 R. H...c  70 2 2013    21  4  41 au[07](Stephanie L Kind) Is dilutional coagulopathy induced by different colloids reversible by replacement of fibrinogen and factor XIII concentrates?
+CIT 24257381 R. H...c  50 2 2013    12  4  15 au[05](Louise W Sturesson) Apparent dead space with the anesthetic conserving device, AnaConDa®: a clinical and laboratory investigation.
+CIT 27594844 R. H....  16 1 2016     1  0  38 au[02](Erin K Martin) An Evidence-Based Education Program for Adults about Child Sexual Abuse ("Prevent It!") That Significantly Improves Attitudes, Knowledge, and Behavior.
+CIT 26569427 R. H..Cc  12 1 2016     1  1  17 au[03](Rachel Eshima McKay) The Effect of Anesthetic Choice (Sevoflurane Versus Desflurane) and Neuromuscular Management on Speed of Airway Reflex Recovery.
+CIT 26974020 R. .A...   6 1 2016     1  0  36 au[08](Karsten Bartels) Right Ventricular Longitudinal Strain Is Depressed in a Bovine Model of Pulmonary Hypertension.
+CIT 26610062 R. H....   4 1 2016     1  0  32 au[06](Heiko A Kaiser) Subcutaneous perfusion before and during surgery in obese and nonobese patients.
+CIT 26076389 R. .AM..  13 1 2015     2  0  77 au[04](Mieke Soens) Systemic Progesterone Administration in Early Life Alters the Hyperalgesic Responses to Surgery in the Adult: A Study on Female Rats.
+CIT 30425554 RP H....   0 0 2018     0  0  30 au[10](Marcelo J Martins) Pregabalin to improve postoperative recovery in bariatric surgery: a parallel, randomized, double-blinded, placebo-controlled study.
+CIT 28961563 R. H....   0 0 2017     0  0  32 au[03](Franklin Dexter) Monte Carlo Simulations Comparing Fisher Exact Test and Unequal Variances t Test for Analysis of Differences Between Groups in Brief Hospital Lengths of Stay.
+CIT 28098689 .. .....   0 0 2017     0  0   2 au[01](Mahmoud Daoud) Inconsistency Between Different Methods to Indicate Statistical Significance.
+CIT 26422456 R. H....   0 0 2016     0  0  15 au[03](Franklin Dexter) First Job Search of Residents in the United States: A Survey of Anesthesiology Trainees' Interest in Academic Positions in Cities Distant from Previous Residences.
+4 of 4 References downloaded:
+REF  3203132 R. H...c 100 4 1988  7864 804   0 au[03](E R DeLong) Comparing the areas under two or more correlated receiver operating characteristic curves: a nonparametric approach.
+REF 19890884 R. H....  19 2 2010     8  0   7 au[04](George Divine) Exemplary data set sample size calculation for Wilcoxon-Mann-Whitney tests.
+REF 18618415 R. ....c  75 2 2008    52  3   9 au[02](Klaus Strassburger) Compatible simultaneous lower confidence bounds for the Holm procedure and other Bonferroni-based closed tests.
+REF 17487941 R. H...c  51 2 2008    25  7  10 au[03](Yan D Zhao) Sample size calculation for the Wilcoxon-Mann-Whitney test adjusting for ties.
 
-TOP 2018 29189214 RP H....     7  0  15 au[02](Thomas R Vetter) Unadjusted Bivariate Two-Group Comparisons: When Simpler is Better. Vetter_2018
+TOP 29189214 RP H....  90 3 2018     7  0  15 au[02](Thomas R Vetter) Unadjusted Bivariate Two-Group Comparisons: When Simpler is Better.
 4 of 7 citations downloaded:
-CIT 2018 29346210 RP H...c    12  1  29 au[02](Edward J Mascha) Significance, Errors, Power, and Sample Size: The Blocking and Tackling of Statistics.
-CIT 2018 29905618 RP H...c    11  1  38 au[02](Patrick Schober) Repeated Measures Designs and Analysis of Longitudinal Data: If at First You Do Not Succeed-Try, Try Again.
-CIT 2019 30531221 .. H....     2  0  58 au[02](Thomas R Vetter) Statistical Process Control: No Hits, No Runs, No Errors?
-CIT 2018 30015653 .P H....     1  0  29 au[02](Patrick Schober) Survival Analysis and Interpretation of Time-to-Event Data: The Tortoise and the Hare.
-CIT 2019 31584913 R. .....     0  0   6 au[02](Patrick Schober) Two-Sample Unpaired t Tests in Medical Research.
-CIT 2019 31613806 R. .....     0  0   5 au[02](Patrick Schober) Chi-square Tests in Medical Research.
-CIT 2019 30649072 R. H....     0  0  54 au[01](Thomas R Vetter) Systematic Review and Meta-analysis: Sometimes Bigger Is Indeed Better.
+CIT 30531221 .. H....  -1 i 2019     2  0  58 au[02](Thomas R Vetter) Statistical Process Control: No Hits, No Runs, No Errors?
+CIT 31584913 R. .....  -1 i 2019     0  0   6 au[02](Patrick Schober) Two-Sample Unpaired t Tests in Medical Research.
+CIT 31613806 R. .....  -1 i 2019     0  0   5 au[02](Patrick Schober) Chi-square Tests in Medical Research.
+CIT 30649072 R. H....  -1 i 2019     0  0  54 au[01](Thomas R Vetter) Systematic Review and Meta-analysis: Sometimes Bigger Is Indeed Better.
+CIT 29905618 RP H...c  96 3 2018    11  1  38 au[02](Patrick Schober) Repeated Measures Designs and Analysis of Longitudinal Data: If at First You Do Not Succeed-Try, Try Again.
+CIT 29346210 RP H...c  95 3 2018    12  1  29 au[02](Edward J Mascha) Significance, Errors, Power, and Sample Size: The Blocking and Tackling of Statistics.
+CIT 30015653 .P H....  30 2 2018     1  0  29 au[02](Patrick Schober) Survival Analysis and Interpretation of Time-to-Event Data: The Tortoise and the Hare.
 15 of 15 References downloaded:
-REF 2013 23894860 R. ....c   106  3   3 au[01](Mary L McHugh) The chi-square test of independence.
-REF 2013 23456667 .. H...c    61 22   4 au[04](George Divine) Statistical grand rounds: a review of analysis and sample size calculation considerations for Wilcoxon tests.
-REF 2010 20418301 R. H..Cc    57  6  27 au[09](Lynn M Rusy) Gabapentin use in pediatric spinal fusion patients: a randomized, double-blind, controlled trial.
-REF 2013 23471754 R. H...c    54 17  25 au[07](M Gruenewald) Influence of nociceptive stimulation on analgesia nociception index (ANI) during propofol-remifentanil anaesthesia.
-REF 2014 25230144 R. H..C.    27  0  20 au[04](Antonia Mayell) Analgesic effects of gabapentin after scoliosis surgery in children: a randomized controlled trial.
-REF 2016 27096563 R. H..Cc    21  3  32 au[10](Charles H Brown) The Association Between Preoperative Frailty and Postoperative Delirium After Cardiac Surgery.
-REF 2017 28817531 .. HA..c    16  1  58 au[02](Thomas R Vetter) Bias, Confounding, and Interaction: Lions and Tigers, and Bears, Oh My!
-REF 2016 27003917 R. H..Cc    14  4  27 au[07](Bhiken I Naik) The Effect of Dexmedetomidine on Postoperative Opioid Consumption and Pain After Major Spine Surgery.
-REF 2017 28787341 .. H....    12  0  25 au[01](Thomas R Vetter) Fundamentals of Research Data and Variables: The Devil Is in the Details.
-REF 2017 28301418 R. .....    10  0   4 au[02](Thomas R Vetter) In the Beginning-There Is the Introduction-and Your Study Hypothesis.
-REF 2016 27293244 R. H....    10  0   0 au[02](Avijit Hazra) Biostatistics Series Module 3: Comparing Groups: Numerical Variables.
-REF 2016 27512183 R. .....     9  0   0 au[02](Avijit Hazra) Biostatistics Series Module 4: Comparing Groups - Categorical Variables.
-REF 2012 22621834 R. H...c     6  1  33 au[06](Thomas R Vetter) The perioperative management of patients with coronary artery stents: surveying the clinical stakeholders and arriving at a consensus regarding optimal care.
-REF 2012 22337156 R. H..Cc     5  2   0 au[09](A A Abd-Elsayed) A randomized controlled study to assess patients' understanding of and consenting for clinical trials using two different consent form presentations.
-REF 2016 27057011 R. H....     3  0   0 au[02](Avijit Hazra) Biostatistics Series Module 2: Overview of Hypothesis Testing.
+REF 23894860 R. ....c  97 3 2013   106  3   3 au[01](Mary L McHugh) The chi-square test of independence.
+REF 28301418 R. .....  85 3 2017    10  0   4 au[02](Thomas R Vetter) In the Beginning-There Is the Introduction-and Your Study Hypothesis.
+REF 25230144 R. H..C.  84 3 2014    27  0  20 au[04](Antonia Mayell) Analgesic effects of gabapentin after scoliosis surgery in children: a randomized controlled trial.
+REF 23471754 R. H...c  94 3 2013    54 17  25 au[07](M Gruenewald) Influence of nociceptive stimulation on analgesia nociception index (ANI) during propofol-remifentanil anaesthesia.
+REF 27057011 R. H....  41 2 2016     3  0   0 au[02](Avijit Hazra) Biostatistics Series Module 2: Overview of Hypothesis Testing.
+REF 27512183 R. .....  62 2 2016     9  0   0 au[02](Avijit Hazra) Biostatistics Series Module 4: Comparing Groups - Categorical Variables.
+REF 23456667 .. H...c  94 3 2013    61 22   4 au[04](George Divine) Statistical grand rounds: a review of analysis and sample size calculation considerations for Wilcoxon tests.
+REF 22621834 R. H...c  18 2 2012     6  1  33 au[06](Thomas R Vetter) The perioperative management of patients with coronary artery stents: surveying the clinical stakeholders and arriving at a consensus regarding optimal care.
+REF 22337156 R. H..Cc  20 2 2012     5  2   0 au[09](A A Abd-Elsayed) A randomized controlled study to assess patients' understanding of and consenting for clinical trials using two different consent form presentations.
+REF 28787341 .. H....  87 3 2017    12  0  25 au[01](Thomas R Vetter) Fundamentals of Research Data and Variables: The Devil Is in the Details.
+REF 27293244 R. H....  50 2 2016    10  0   0 au[02](Avijit Hazra) Biostatistics Series Module 3: Comparing Groups: Numerical Variables.
+REF 27096563 R. H..Cc  84 3 2016    21  3  32 au[10](Charles H Brown) The Association Between Preoperative Frailty and Postoperative Delirium After Cardiac Surgery.
+REF 20418301 R. H..Cc  89 3 2010    57  6  27 au[09](Lynn M Rusy) Gabapentin use in pediatric spinal fusion patients: a randomized, double-blind, controlled trial.
+REF 27003917 R. H..Cc  84 2 2016    14  4  27 au[07](Bhiken I Naik) The Effect of Dexmedetomidine on Postoperative Opioid Consumption and Pain After Major Spine Surgery.
+REF 28817531 .. HA..c  90 3 2017    16  1  58 au[02](Thomas R Vetter) Bias, Confounding, and Interaction: Lions and Tigers, and Bears, Oh My!
 
-TOP 17057710 .. H.M.c 4 2006   344  9  23 au[17](Anil Potti) Genomic signatures to guide the use of chemotherapeutics. Potti_2006
+TOP 17057710 .. H.M.c  98 4 2006   344  9  23 au[17](Anil Potti) Genomic signatures to guide the use of chemotherapeutics.
+9 Cited by Clinical papers:
+CLI 18024211 .. H..Cc  89 3 2007   148  7  20 au[19](Hervé Bonnefoi) Validation of gene signatures that predict the response of breast cancer to neoadjuvant chemotherapy: a substudy of the EORTC 10994/BIG 00-01 clinical trial.
+CLI 17606971 R. H..Cc  89 3 2007   115 22  34 au[10](Neelima Denduluri) Phase II trial of ixabepilone, an epothilone B analog, in patients with metastatic breast cancer previously untreated with taxanes.
+CLI 21764131 R. H..C.  21 2 2011     9  0  20 au[05](Amber C Donahue) Multiplex ligation-dependent probe amplification for detection of chromosomal abnormalities in myelodysplastic syndrome and acute myeloid leukemia.
+CLI 20877360 R. H..Cc  32 2 2010    18  2  30 au[15](A Michlmayr) Modulation of plasma complement by the initial dose of epirubicin/docetaxel therapy in breast cancer and its predictive value.
+CLI 18821012 R. H..C.  80 2 2009    90  0  24 au[20](Yi Zhang) The 76-gene signature defines high-risk patients that benefit from adjuvant tamoxifen therapy.
+CLI 19352302 R. H..Cc  34 2 2009    24  3  25 au[12](Soo-Chin Lee) Chemotherapy-induced tumor gene expression changes in human breast cancers.
+CLI 19470793 R. HAMC.  27 2 2009    15  0  46 au[10](Chen Zhao) Noninvasive detection of candidate molecular biomarkers in subjects with a history of insulin resistance and colorectal adenomas.
+CLI 18160667 R. H.MCc  76 2 2008    81 10  54 au[17](Mitch Raponi) A 2-gene classifier for predicting response to the farnesyltransferase inhibitor tipifarnib in acute myeloid leukemia.
+CLI 18650156 R. H..Cc   7 1 2008     5  3  30 au[15](John T Hamm) Gemcitabine/epirubicin/paclitaxel as neoadjuvant chemotherapy in locally advanced breast cancer: a phase II trial of the NSABP Foundation Research Group.
+332 of 344 citations downloaded:
+CIT 32067584 R. H....  -1 i 2020     1  0  76 au[06](Rahul Kumar Sevakula) State-of-the-Art Machine Learning Techniques Aiming to Improve Patient Outcomes Pertaining to the Cardiovascular System.
+CIT 32029792 R. ..M..  -1 i 2020     0  0  37 au[07](Weijie Liao) Upregulation of GPNCA is associated with poor prognosis through enhancement of tumor growth via regulating GSK3B.
+CIT 30649967 R. H....  -1 i 2019     1  0  24 au[01](David B Resnik) Is it time to revise the definition of research misconduct?
+CIT 31813953 R. H.M..  -1 i 2019     0  0 138 au[07](Yu-Chiao Chiu) Deep learning of pharmacogenomics resources: moving towards precision oncology.
+CIT 26546465 .. HA...  99 4 2016   119  0 232 au[04](Jessica A Kemp) "Combo" nanomedicine: Co-delivery of multi-modal therapeutics for efficient, targeted, and safe cancer therapy.
+CIT 25673086 .. ..M.c  98 4 2015   183  1 197 au[05](Henry T Lynch) Milestones of Lynch syndrome: 1895-2015.
+CIT 24305596 .. H...c  99 4 2014   170  7 208 au[05](Hossam Haick) Assessment, origin, and implementation of breath volatile cancer markers.
+CIT 22991938 .. H.M.c  99 4 2012   222  5 124 au[07](Meggie Hakim) Volatile organic compounds of lung cancer and possible biochemical pathways.
+CIT 22147079 .. H...c  98 4 2012   183  8  47 au[05](Aoife J Lowery) Locoregional recurrence after breast cancer surgery: a systematic review by receptor phenotype.
+CIT 22098854 .. H...c  99 4 2011   348  9  86 au[02](Jorge S Reis-Filho) Gene expression profiling in breast cancer: classification, prognostication, and prediction.
+CIT 21558518 R. H...c  98 4 2011   301  9  33 au[30](Christos Hatzis) A genomic predictor of response and survival following taxane-anthracycline chemotherapy for invasive breast cancer.
+CIT 19228622 .. H...c 100 4 2009   814 32  88 au[02](Christos Sotiriou) Gene-expression signatures in breast cancer.
+CIT 19029902 R. H.M.c  99 4 2009   604 24  32 au[20](Troy D Querec) Systems biology approach predicts immunogenicity of the yellow fever vaccine in humans.
+CIT 19122658 R. H.M.c  98 4 2009   358 10  31 au[20](Pierre Farmer) A stroma-related gene signature predicts resistance to neoadjuvant chemotherapy in breast cancer.
+CIT 19139108 .. HAM.c  98 4 2009   246  4  70 au[03](Sarah R McWhinney) Platinum neurotoxicity pharmacogenetics.
+CIT 18815398 .. H.M.c 100 4 2008  1389 44 130 au[03](Roy S Herbst) Lung cancer.
+CIT 18385728 .. H...c  99 4 2008   450  5  25 au[01](Charles L Sawyers) The cancer biomarker problem.
+CIT 18612148 R. H...c  99 4 2008   392 22  38 au[13](Carey K Anders) Young age at diagnosis correlates with worse prognosis and defines a subset of breast cancers with shared patterns of gene expression.
+CIT 18516279 R. H.M..  99 4 2007   527  0  64 au[12](Paraic A Kenny) The morphologies of breast cancer cell lines in three-dimensional assays correlate with their profiles of gene expression.
+CIT 28025748 .. HA..c  89 3 2016    45  1 210 au[32](Lacey E Dobrolecki) Patient-derived xenograft (PDX) models in basic and translational breast cancer research.
+CIT 22173549 R. H...c  87 3 2012    97  3  51 au[13](Joost S Vermaat) Primary colorectal cancers and their subsequent hepatic metastases are genetically different: implications for selection of patients for targeted treatment.
+CIT 19927298 .. H...c  96 3 2010   205  3 176 au[03](Britta Weigelt) The contribution of gene expression profiling to breast cancer classification, prognostication and prediction: a retrospective of the last decade.
+CIT 21029962 .. HAM.c  95 3 2010   197  9 104 au[03](Bali Pulendran) Systems vaccinology.
+CIT 20098429 R. H.M.c  94 3 2010   184  1  37 au[12](Yang Li) Amplification of LAPTM4B and YWHAZ contributes to chemotherapy resistance and recurrence of breast cancer.
+CIT 20452298 .. HA..c  93 3 2010   149  1 145 au[03](Britta Weigelt) Histological types of breast cancer: how special are they?
+CIT 19634138 .. H...c  93 3 2010   143  4  82 au[04](Tongsen Zheng) Role of microRNA in anticancer drug resistance.
+CIT 20204499 R. H...c  92 3 2010   132 10  36 au[10](Michael Knauer) The predictive value of the 70-gene signature for adjuvant chemotherapy in early breast cancer.
+CIT 20460524 R. HAM.c  87 3 2010   110  5  41 au[06](Julien H Dey) Targeting fibroblast growth factor receptors blocks PI3K/AKT signaling, induces apoptosis, and impairs mammary tumor outgrowth and metastasis.
+CIT 20350999 .. H...c  85 3 2010    99  8 148 au[21](Sabine Tejpar) Prognostic and predictive biomarkers in resected colon cancer: current status and future perspectives for integrating genomics into biomarker discovery.
+CIT 19432961 R. H...c  97 3 2009   246  1  64 au[11](Aoife J Lowery) MicroRNA signatures predict oestrogen receptor, progesterone receptor and HER2/neu receptor status in breast cancer.
+CIT 19147570 R. H.M.c  96 3 2009   238  7  39 au[24](Olga K Mirzoeva) Basal subtype and MAPK/ERK kinase (MEK)-phosphoinositide 3-kinase feedback signaling determine susceptibility of breast cancer cells to MEK inhibition.
+CIT 19931193 .. H...c  96 3 2009   221  6  45 au[02](Geoffrey S Ginsburg) Genomic and personalized medicine: foundations and applications.
+CIT 19942925 .. H...c  95 3 2009   201  5  97 au[02](Britta Weigelt) Histological and molecular types of breast cancer: is there a unifying taxonomy?
+CIT 19261849 R. H.M.c  95 3 2009   191 11  30 au[23](H B Salvesen) Integrated genomic profiling of endometrial carcinoma associates aggressive tumors with indicators of PI3 kinase activation.
+CIT 19237659 R. H...c  94 3 2009   204  4  48 au[10](Scot J Matkovich) Reciprocal regulation of myocardial microRNAs and messenger RNA in human cardiomyopathy and reversal of the microRNA signature by biomechanical support.
+CIT 19380403 .. H...c  94 3 2009   142 11  50 au[01](Wolfgang A Weber) Assessing tumor response to therapy.
+CIT 19763148 .. H.M.c  92 3 2009   161  4  46 au[01](Bali Pulendran) Learning immunology from the yellow fever vaccine: innate immunity to systems vaccinology.
+CIT 19796752 .. H...c  92 3 2009   145  1  49 au[04](Linda E Coate) Molecular predictive and prognostic markers in non-small-cell lung cancer.
+CIT 19648052 .. H....  89 3 2009   118  0 218 au[03](Henk J Broxterman) Understanding the causes of multidrug resistance in cancer: a comparison of doxorubicin and sunitinib.
+CIT 19117999 R. H.M.c  89 3 2009   117  3  40 au[17](Fei Huang) The mechanisms of differential sensitivity to an insulin-like growth factor-1 receptor inhibitor (BMS-536924) and rationale for combining with EGFR/HER2 inhibitors.
+CIT 19608616 .. H...c  88 3 2009   106 18 138 au[22](S Beslija) Third consensus on medical treatment of metastatic breast cancer.
+CIT 19237188 R. H.M.c  85 3 2009    95  2  46 au[10](Todd Boren) MicroRNAs and their target messenger RNAs associated with ovarian cancer response to chemotherapy.
+CIT 18385730 .. H.M.c  97 3 2008   299  3  48 au[02](Laura J van't Veer) Enabling personalized cancer medicine through analysis of gene-expression patterns.
+CIT 18823650 R. H.M.c  96 3 2008   242  1  50 au[06](Antonio Sorrentino) Role of microRNAs in drug-resistant ovarian cancer cells.
+CIT 18455428 .. H.M..  92 3 2008   170  0 160 au[02](Britta Weigelt) Unraveling the microenvironmental influences on the normal mammary gland and breast cancer.
+CIT 18061144 .. HA...  90 3 2008   109  0  85 au[01](Beverly A Teicher) Next generation topoisomerase I inhibitors: Rationale and biomarker strategies.
+CIT 18829476 .. H...c  85 3 2008    92  6  34 au[03](Jeremy M G Taylor) Validation of biomarker-based risk prediction models.
+CIT 18757419 R. H.M.c  84 3 2008   110  2  49 au[10](Liang Li) Gemcitabine and cytosine arabinoside cytotoxicity: association with lymphoblastoid cell expression.
+CIT 17585334 .. H...c  97 3 2007   293  5  81 au[02](Christos Sotiriou) Taking gene-expression profiling to the clinic: when will molecular signatures become relevant to patient care?
+CIT 17560332 R. H.M.c  94 3 2007   225  2  41 au[13](Charles Swanton) Regulators of mitotic arrest and ceramide metabolism are determinants of sensitivity to paclitaxel and other chemotherapeutic drugs.
+CIT 17291746 .. H.M.c  93 3 2007   157  2 156 au[06](Christopher D Mann) Prognostic molecular markers in hepatocellular carcinoma: a systematic review.
+CIT 18024211 .. H..Cc  89 3 2007   148  7  20 au[19](Hervé Bonnefoi) Validation of gene signatures that predict the response of breast cancer to neoadjuvant chemotherapy: a substudy of the EORTC 10994/BIG 00-01 clinical trial.
+CIT 17606971 R. H..Cc  89 3 2007   115 22  34 au[10](Neelima Denduluri) Phase II trial of ixabepilone, an epothilone B analog, in patients with metastatic breast cancer previously untreated with taxanes.
+CIT 29977864 .P H....  71 2 2018     8  0 178 au[09](John Kang) Machine Learning and Radiogenomics: Lessons Learned and Future Directions.
+CIT 30255871 RP .AM..  32 2 2018     3  0  34 au[07](Yan Dai) A biocompatible and cathepsin B sensitive nanoscale system of dendritic polyHPMA-gemcitabine prodrug enhances antitumor activity markedly.
+CIT 28212255 R. H....  38 2 2017     6  0  30 au[08](Sunil M Kurian) Biomarker Guidelines for High-Dimensional Genomic Studies in Transplantation: Adding Method to the Madness.
+CIT 29129969 R. .....  16 2 2017     2  0 127 au[02](Jeffrey S Morris) Statistical Contributions to Bioinformatics: Design, Modeling, Structure Learning, and Integration.
+CIT 26766116 R. H....  72 2 2016    22  0  39 au[07](Patrycja Nowak-Sliwinska) Optimization of drug combinations using Feedback System Control.
+CIT 26892349 R. HA...  69 2 2016    14  0  40 au[05](Jared S Fowles) Intra- and interspecies gene expression models for predicting drug response in canine osteosarcoma.
+CIT 27094684 R. H.M..  61 2 2016    18  0  54 au[10](Dong-Xu He) Genome-wide profiles of methylation, microRNAs, and gene expression in chemoresistant breast cancer.
+CIT 27354694 R. H....  59 2 2016    19  0  34 au[03](Zijian Ding) Evaluating the molecule-based prediction of clinical drug responses in cancer.
+CIT 27437769 R. H.M..  50 2 2016    12  0  50 au[11](Poyin Huang) Molecular gene signature and prognosis of non-small cell lung cancer.
+CIT 28008160 R. H.M..  36 2 2016     8  0  58 au[08](Jiyeon Ryu) Highly Expressed Integrin-α8 Induces Epithelial to Mesenchymal Transition-Like Features in Multiple Myeloma with Early Relapse.
+CIT 25982393 R. H.M..  74 2 2015    20  0  60 au[11](Yen-Hao Su) Targeting of multiple oncogenic signaling pathways by Hsp90 inhibitor alone or in combination with berberine for treatment of colorectal cancer.
+CIT 26745040 .. HA...  69 2 2015    25  0  78 au[04](Jing-Jing Pan) Long Non-coding RNAs and Drug Resistance.
+CIT 25736266 .. H....  62 2 2015    18  0 142 au[02](Mohamed A Elzek) Proteomics of ovarian cancer: functional insights and clinical applications.
+CIT 25721505 R. .....  35 2 2015    13  0   5 au[02](Jeffery T Leek) Statistics. What is the question?
+CIT 26157642 R. H.M..  21 2 2015     8  0 129 au[12](Daniela Börnigen) A reproducible approach to high-throughput biological data acquisition and integration.
+CIT 23608827 .. H....  16 2 2015     5  0  40 au[05](Frunze Petrosyan) Gene expression profiling for early-stage NSCLC.
+CIT 27896142 .. .....  70 2 2014    29  0 132 au[01](Stephen A Bustin) The reproducibility of biomedical research: Sleepers awake!
+CIT 24001556 .. HA...  70 2 2014    29  0 273 au[02](D C Anderson) Biomarkers in pharmacology and drug discovery.
+CIT 25373603 R. H....  48 2 2014    19  0  41 au[06](Xin Zhou) An ER-associated miRNA signature predicts prognosis in ER-positive breast cancer.
+CIT 24144808 .. H....  49 2 2013    20  0  65 au[07](Jin Wang) Locoregional and distant recurrences after breast conserving therapy in patients with triple-negative breast cancer: a meta-analysis.
+CIT 23743933 R. H.M..  39 2 2013    15  0  37 au[04](Geza Acs) Comparison of Oncotype DX and Mammostrat risk estimations and correlations with histologic tumor features in low-grade, estrogen receptor-positive invasive breast carcinomas.
+CIT 22652627 .. HAM..  30 2 2013    12  0 143 au[04](F German Rodrıguez-Gonzalez) The challenge of gene expression profiling in heterogeneous clinical samples.
+CIT 23086576 R. H.M..  24 2 2013     7  0  38 au[03](Georgia Papachristopoulou) Significant alterations in the expression pattern of kallikrein-related peptidase genes KLK4, KLK5 and KLK14 after treatment of breast cancer cells with the chemotherapeutic agents epirubicin, docetaxel and methotrexate.
+CIT 23964133 R. H.M.c  22 2 2013    12  1  22 au[06](Wenting Wang) Independent validation of a model using cell line chemosensitivity to predict response to therapy.
+CIT 21680198 .. H.M..  77 2 2012    42  0 224 au[04](Ashish Singhal) Molecular and serum markers in hepatocellular carcinoma: predictive tools for prognosis and recurrence.
+CIT 22173289 R. H.M..  67 2 2012    34  0  62 au[05](Geza Acs) A mitotically active, cellular tumor stroma and/or inflammatory cells associated with tumor cells may contribute to intermediate or high Oncotype DX Recurrence Scores in low-grade invasive breast carcinomas.
+CIT 22298893 R. H...c  57 2 2012    35  1  41 au[02](Carlos L Arteaga) Impact of genomics on personalized cancer medicine.
+CIT 21422066 R. ....c  56 2 2012    30  1  42 au[02](Daniel Berrar) Caveats and pitfalls of ROC analysis in clinical microarray research (and how to avoid them).
+CIT 22319589 R. H.M..  56 2 2012    27  0  36 au[07](Bálint Tegze) Parallel evolution under chemotherapy pressure in 29 breast cancer cell lines results in dissimilar mechanisms of resistance.
+CIT 22174013 R. H.M..  43 2 2012    24  0  63 au[14](Yun-Yong Park) Reconstruction of nuclear receptor network reveals that NR2E3 is a novel upstream regulator of ESR1 in breast cancer.
+CIT 22355465 R. H.M..  38 2 2012    17  0  31 au[13](Nisha Bansal) BCL2 antagonist of cell death kinases, phosphatases, and ovarian cancer sensitivity to cisplatin.
+CIT 22032837 R. H.M..  34 2 2012    16  0  28 au[13](Hye Sook Chon) The BCL2 antagonist of cell death pathway influences endometrial cancer cell sensitivity to cisplatin.
+CIT 22987965 .. H.M.c  33 2 2012    18  2  93 au[03](B Weigelt) Genomic analyses to select patients for adjuvant chemotherapy: trials and tribulations.
+CIT 22459768 .. H.M..  27 2 2012    16  0 181 au[03](Eric Raspe) Gene expression profiling to dissect the complexity of cancer biology: pitfalls and promise.
+CIT 22629282 R. H.M..  24 2 2012    13  0  25 au[04](Madhankumar Sonachalam) Systems biology approach to identify gene network signatures for colorectal cancer.
+CIT 21792624 R. H.M.c  21 2 2012    10  2  46 au[08](Gais Kadra) Gene expression profiling of breast tumor cell lines to predict for therapeutic response to microtubule-stabilizing agents.
+CIT 21511492 .. H....  18 2 2012     9  0 133 au[14](Sebastiano Cavallaro) Genomic analysis: toward a new approach in breast cancer management.
+CIT 22964299 .. H...c  16 2 2012     8  1 117 au[05](Debora Fumagalli) Molecular biology in breast cancer: should molecular classifiers be assessed by conventional tools or by gene expression arrays?
+CIT 21787441 .. H....  83 2 2011    76  0 113 au[04](Pierre-Emmanuel Colombo) Microarrays in the 2010s: the contribution of microarray-based gene expression profiling to breast cancer classification, prognostication and prediction.
+CIT 20143185 .. H...c  79 2 2011    56  4  25 au[07](Shu-zhen Wei) Predictive value of ERCC1 and XPD polymorphism in patients with advanced non-small cell lung cancer receiving platinum-based chemotherapy: a systematic review and meta-analysis.
+CIT 21134890 R. H.M..  74 2 2011    59  0  12 au[07](Gregory Riddick) Predicting in vitro drug sensitivity using Random Forests.
+CIT 21386834 R. H...c  65 2 2011    46  1 123 au[02](Ian J Majewski) Taming the dragon: genomic biomarkers to individualize the treatment of cancer.
+CIT 21198673 .. H.M.c  60 2 2011    42  1 194 au[02](Luigi Buonaguro) Immunogenomics and systems biology of vaccines.
+CIT 21364027 R. H....  60 2 2011    39  0  12 au[02](Keith A Baggerly) What information should be required to support clinical "omics" publications?
+CIT 21273975 .. H....  56 2 2011    28  0  45 au[02](Hye Sook Chon) Microarray-based gene expression studies in ovarian cancer.
+CIT 21283735 R. H.M..  50 2 2011    29  0  36 au[06](Guiping Wang) Expression-based in silico screening of candidate therapeutic compounds for lung adenocarcinoma.
+CIT 21931812 R. H.M..  50 2 2011    28  0  72 au[05](Ling Yao) Discovery of IL-18 as a novel secreted protein contributing to doxorubicin resistance by comparative secretome analysis of MCF-7 and MCF-7/Dox.
+CIT 21217686 .. .....  45 2 2011    28  0   1 au[17](Anil Potti) Retraction: Genomic signatures to guide the use of chemotherapeutics.
+CIT 20473941 R. H.M..  42 2 2011    26  0  46 au[14](Marian Grade) A genomic strategy for the functional validation of colorectal cancer genes identifies potential therapeutic targets.
+CIT 21771877 R. H.M.c  42 2 2011    20  2  48 au[16](Wenjun Chang) Development of autoantibody signatures as biomarkers for early detection of colorectal carcinoma.
+CIT 21479231 R. H.M..  40 2 2011    21  0  33 au[13](Panagiotis A Konstantinopoulos) Integrated analysis of multiple microarray datasets identifies a reproducible survival predictor in ovarian cancer.
+CIT 21933421 .. H....  39 2 2011    20  0 138 au[05](Luigi Buonaguro) Systems biology applied to vaccine and immunotherapy development.
+CIT 21057205 R. H.M.c  39 2 2011    18  1  36 au[05](Frank Desarnaud) Gene expression profiling of the androgen independent prostate cancer cells demonstrates complex mechanisms mediating resistance to docetaxel.
+CIT 21208651 R. H.M.c  36 2 2011    19  3  20 au[10](Deanna Teoh) Dasatinib (BMS-35482) has synergistic activity with paclitaxel and carboplatin in ovarian cancer cells.
+CIT 20813423 R. H.M.c  32 2 2011    15  1  45 au[14](Hiroyuki Yasuda) Bronchoscopic microsampling is a useful complementary diagnostic tool for detecting lung cancer.
+CIT 21228842 .. H....  28 2 2011    15  0   4 au[01](Eugenie Samuel Reich) Cancer trial errors revealed.
+CIT 21826666 R. H.M..  26 2 2011    13  0  62 au[12](Chiara Colombo) Increased midkine expression correlates with desmoid tumour recurrence: a potential biomarker and therapeutic target.
+CIT 22091388 R. H.M..  22 2 2011    12  0  24 au[07](Hua C Gong) Signatures of drug sensitivity in nonsmall cell lung cancer.
+CIT 21764131 R. H..C.  21 2 2011     9  0  20 au[05](Amber C Donahue) Multiplex ligation-dependent probe amplification for detection of chromosomal abnormalities in myelodysplastic syndrome and acute myeloid leukemia.
+CIT 21277543 .. .....  20 2 2011    12  0   4 au[19](Hervé Bonnefoi) Retraction--Validation of gene signatures that predict the response of breast cancer to neoadjuvant chemotherapy: a substudy of the EORTC 10994/BIG 00-01 clinical trial.
+CIT 21333845 .. H...c  20 2 2011     9  1  73 au[03](Cinnamon S Bloss) Genomics for disease treatment and prevention.
+CIT 22586314 .. H....  17 2 2011    13  0  11 au[03](Eric H Rubin) The BATTLE trial: a bold step toward improving the efficiency of biomarker-based drug development.
+CIT 20693306 .. H...c  83 2 2010    87  1 131 au[03](Maria Diamandis) Personalized medicine: marking a new epoch in cancer patient management.
+CIT 20098735 R. H...c  78 2 2010    90  1  66 au[11](Andrew H Beck) 3'-end sequencing for expression quantification (3SEQ) from archival tumor samples.
+CIT 20591134 R. H.M.c  77 2 2010    84  6  30 au[18](Andrey Loboda) A gene expression signature of RAS pathway dependence predicts response to PI3K and RAS pathway inhibitors and expands the population of RAS pathway activated tumors.
+CIT 19901961 R. H...c  77 2 2010    69  1  52 au[17](A H Beck) Discovery of molecular subtypes in leiomyosarcoma through integrative molecular profiling.
+CIT 20406975 R. H.M..  76 2 2010    80  0  30 au[12](Joel Greshock) Molecular target class is predictive of in vitro response profile.
+CIT 20471474 R. H.M..  74 2 2010    63  0  55 au[05](Edita Aksamitiene) PI3K/Akt-sensitive MEK-independent compensatory circuit of ERK activation in ER-positive PI3K-mutant T47D breast cancer cells.
+CIT 20530715 R. H.M..  73 2 2010    67  0  18 au[08](Peter D Caie) High-content phenotypic profiling of drug response signatures across distinct cancer cells.
+CIT 20546776 .. HA...  73 2 2010    62  0 116 au[04](Andrew M Smith) A survey of yeast genomic assays for drug and target discovery.
+CIT 20368555 R. H...c  72 2 2010    60  1  34 au[12](William T Barry) Intratumor heterogeneity and precision of microarray-based predictors of breast cancer biology and clinical outcome.
+CIT 20211134 R. H.M..  71 2 2010    66  0  18 au[06](Naama Geva-Zatorsky) Protein dynamics in drug combinations: a linear superposition of individual-drug responses.
+CIT 20160033 .. H.M..  69 2 2010    57  0  25 au[04](Steven C Smith) The COXEN principle: translating signatures of in vitro chemosensitivity into tools for clinical outcome prediction and drug discovery in cancer.
+CIT 20404007 R. H.M..  69 2 2010    54  0  38 au[12](Gloria S Huang) Insulin-like growth factor 2 expression modulates Taxol resistance and is a candidate biomarker for reduced disease-free survival in ovarian cancer.
+CIT 20530704 R. HAM.c  67 2 2010    51  1  45 au[12](Todd M Pitts) Development of an integrated genomic classifier for a novel agent in colorectal cancer: approach to individualized therapy in early development.
+CIT 21113414 R. H.M..  66 2 2010    57  0  60 au[14](Christopher G Duncan) Integrated genomic analyses identify ERRFI1 and TACC3 as glioblastoma-targeted genes.
+CIT 20836021 .. HA..c  66 2 2010    52  1  54 au[06](Jacob D Feala) Systems approaches and algorithms for discovery of combinatorial therapies.
+CIT 20035894 .. H...c  66 2 2010    50  1 103 au[05](Delia Mezzanzanica) Role of microRNAs in ovarian cancer pathogenesis and potential clinical implications.
+CIT 20068086 R. H...c  65 2 2010    53  4  22 au[09](Jae K Lee) Prospective comparison of clinical and genomic multivariate predictors of response to neoadjuvant chemotherapy in breast cancer.
+CIT 20203060 R. H.M.c  64 2 2010    37  3  45 au[12](Robert S Chapkin) Noninvasive stool-based detection of infant gastrointestinal development using gene expression profiles from exfoliated epithelial cells.
+CIT 20515697 R. H.M..  55 2 2010    27  0  40 au[05](G S Stamatakos) An advanced discrete state-discrete event multiscale simulation model of the response of a solid tumor to chemotherapy: Mimicking a clinical study.
+CIT 20361941 R. H.M..  52 2 2010    36  0  31 au[03](Zchong-Zcho Wu) Identification and functional analysis of genes which confer resistance to cisplatin in tumor cells.
+CIT 20145230 R. H...c  49 2 2010    31  2  32 au[10](William Mostertz) Age- and sex-specific genomic profiles in non-small cell lung cancer.
+CIT 19412622 .. H....  48 2 2010    25  0  95 au[03](Andrew H Beck) Gene expression profiling for the investigation of soft tissue sarcoma pathogenesis and the identification of diagnostic, prognostic, and predictive biomarkers.
+CIT 19603265 R. H.M..  47 2 2010    34  0  21 au[10](Cornelia Liedtke) Clinical evaluation of chemotherapy response predictors developed from breast cancer cell lines.
+CIT 20466604 .. H....  47 2 2010    32  0 181 au[01](Per E Lønning) Molecular basis for therapy resistance.
+CIT 22263026 R. H.M..  46 2 2010    24  0  65 au[03](Wenlong Shao) The role of gene expression profiling in early-stage non-small cell lung cancer.
+CIT 20371338 R. H....  38 2 2010    30  0  26 au[01](René Bernards) It's diagnostics, stupid.
+CIT 20590430 .. H....  35 2 2010    24  0 163 au[04](Prue A Cowin) Profiling the cancer genome.
+CIT 20877360 R. H..Cc  32 2 2010    18  2  30 au[15](A Michlmayr) Modulation of plasma complement by the initial dose of epirubicin/docetaxel therapy in breast cancer and its predictive value.
+CIT 20700122 R. H...c  32 2 2010    13  2  25 au[09](S Glaysher) Molecular basis of chemosensitivity of platinum pre-treated ovarian cancer to chemotherapy.
+CIT 21049055 R. H...c  31 2 2010    15  1  22 au[04](Adam Abdool) Detection, analysis and clinical validation of chromosomal aberrations by multiplex ligation-dependent probe amplification in chronic leukemia.
+CIT 20831363 .. HAM..  30 2 2010    18  0 113 au[02](Fatih M Uckun) Bruton's tyrosine kinase as a molecular target in treatment of leukemias and lymphomas as well as inflammatory disorders and autoimmunity.
+CIT 20736853 .. H...c  29 2 2010    20  1 179 au[03](M Teresa Agulló-Ortuño) Lung cancer genomic signatures.
+CIT 19824818 .. H...c  26 2 2010    19  1  68 au[01](C Thomas Caskey) Using genetic diagnosis to determine individual therapeutic utility.
+CIT 20410527 R. HA..c  24 2 2010    18  1  12 au[03](Anil Potti) Refocusing the war on cancer: the critical role of personalized treatment.
+CIT 20713531 R. H...c  21 2 2010    13  1  44 au[05](Alykhan S Nagji) Multigene expression-based predictors for sensitivity to Vorinostat and Velcade in non-small cell lung cancer.
+CIT 20073576 R. H.M..  19 2 2010    12  0 128 au[01](Apar Kishor Ganti) Epidermal growth factor receptor signaling in nonsmall cell lung cancer.
+CIT 20955391 R. H.M..  18 2 2010     9  0  15 au[09](Jone Trovik) Stathmin is superior to AKT and phospho-AKT staining for the detection of phosphoinositide 3-kinase activation and aggressive endometrial cancer.
+CIT 21051275 .. H....  16 2 2010    10  0  80 au[06](Shirish M Gadgeel) Parameters for individualizing systemic therapy in non-small cell lung cancer.
+CIT 19242414 .. HA...  83 2 2009   108  0 125 au[02](Steven Christopher Smith) Learning therapeutic lessons from metastasis suppressor proteins.
+CIT 19192944 R. H...c  83 2 2009   103  4  64 au[11](Anne P G Crijns) Survival-related profile, pathways, and transcription factors in ovarian cancer.
+CIT 19188147 R. H.M..  81 2 2009   102  0  45 au[10](Andrew H Beck) The macrophage colony-stimulating factor 1 response signature in breast carcinoma.
+CIT 18821012 R. H..C.  80 2 2009    90  0  24 au[20](Yi Zhang) The 76-gene signature defines high-risk patients that benefit from adjuvant tamoxifen therapy.
+CIT 19289629 R. H.M.c  77 2 2009    82  7  39 au[08](Prateek Mendiratta) Genomic strategy for targeting therapy in castration-resistant prostate cancer.
+CIT 19147868 .. H...c  74 2 2009    65  2 102 au[02](R Stephanie Huang) Pharmacogenetics and pharmacogenomics of anticancer agents.
+CIT 19843853 R. H.M.c  71 2 2009    58  2  20 au[07](Paul D Williams) Concordant gene expression signatures predict clinical outcomes of cancer patients undergoing systemic therapy.
+CIT 19147755 R. H.M.c  71 2 2009    57  1  42 au[09](Christina K Augustine) Genomic and molecular profiling predicts response to temozolomide in melanoma.
+CIT 18425577 R. H.M.c  66 2 2009    58  1  45 au[13](Chad J Creighton) Molecular profiles of progesterone receptor loss in human breast tumors.
+CIT 19636021 R. H...c  63 2 2009    54  2  45 au[11](Ariel Anguiano) Gene expression profiles of tumor biology provide a novel approach to prognosis and may guide the selection of therapeutic targets in multiple myeloma.
+CIT 19103611 .. H....  62 2 2009    45  0 154 au[02](Felipe Correa Geyer) Microarray-based gene expression profiling as a clinical tool for breast cancer management: are we there yet?
+CIT 19367275 .. H.M..  61 2 2009    55  0  39 au[02](C Swanton) Molecular classification of solid tumours: towards pathway-driven therapeutics.
+CIT 19336569 R. H....  60 2 2009    53  0  24 au[09](Yi Zhang) Copy number alterations that predict metastatic capability of human breast cancer.
+CIT 19808191 .. H...c  55 2 2009    39  1  68 au[08](Chang-Qi Zhu) Understanding prognostic gene expression signatures in lung cancer.
+CIT 19236379 .. HAM..  54 2 2009    40  0  60 au[07](Minoru Toyota) Cancer epigenomics: implications of DNA methylation in personalized cancer therapy.
+CIT 19209693 R. H....  49 2 2009    33  0  46 au[02](Joel T Dudley) Identification of discriminating biomarkers for human disease using integrative network biology.
+CIT 19177064 .. HA...  49 2 2009    29  0  80 au[02](A P Chiang) Data-driven methods to discover molecular determinants of serious adverse drug events.
+CIT 19139136 R. H.M.c  48 2 2009    30  1  58 au[06](Molykutty John-Aryankalayil) NS-398, ibuprofen, and cyclooxygenase-2 RNA interference produce significantly different gene expression profiles in prostate cancer cells.
+CIT 19317917 R. H.M..  47 2 2009    38  0  85 au[15](Laura M Heiser) Integrated analysis of breast cancer cell lines reveals unique signaling pathways.
+CIT 19584229 R. H.M.c  44 2 2009    29  1  36 au[12](Josiah N Orina) Evaluation of current methods used to analyze the expression profiles of ATP-binding cassette transporters yields an improved drug-discovery database.
+CIT 19246616 .. HA...  44 2 2009    29  0  63 au[03](Jonathan B Overdevest) Utilizing the molecular gateway: the path to personalized cancer management.
+CIT 19881954 R. H.M.c  41 2 2009    24  1  61 au[11](Dmytro M Havaleshko) Comparison of global versus epidermal growth factor receptor pathway profiling for prediction of lapatinib sensitivity in bladder cancer.
+CIT 19704347 .. H...c  35 2 2009    23  1  60 au[05](Howard West) Molecular analysis-based treatment strategies for the management of non-small cell lung cancer.
+CIT 19352302 R. H..Cc  34 2 2009    24  3  25 au[12](Soo-Chin Lee) Chemotherapy-induced tumor gene expression changes in human breast cancers.
+CIT 19232484 R. H...c  34 2 2009    23  5  32 au[10](S Mook) Daily clinical practice of fresh tumour tissue freezing and gene expression profiling; logistics pilot study preceding the MINDACT trial.
+CIT 19648524 .. H.M..  31 2 2009    19  0 180 au[04](S Ocak) High-throughput molecular analysis in lung cancer: insights into biology and potential clinical applications.
+CIT 19861443 R. H....  30 2 2009    22  0  35 au[14](Daphne R Friedman) A genomic approach to improve prognosis and predict therapeutic response in chronic lymphocytic leukemia.
+CIT 19439077 R. H...c  30 2 2009    22  1  20 au[02](Justin M Balko) A gene expression predictor of response to EGFR-targeted therapy stratifies progression-free survival to cetuximab in KRAS wild-type metastatic colorectal cancer.
+CIT 19815050 R. H.M..  29 2 2009    21  0  52 au[06](Jacob P Laubach) Polycythemia vera erythroid precursors exhibit increased proliferation and apoptosis resistance associated with abnormal RAS and PI3K pathway activation.
+CIT 19477634 .. H...c  28 2 2009    19  2  47 au[04](Hervé Bonnefoi) Predictive signatures for chemotherapy sensitivity in breast cancer: are they ready for use in the clinic?
+CIT 19470793 R. HAMC.  27 2 2009    15  0  46 au[10](Chen Zhao) Noninvasive detection of candidate molecular biomarkers in subjects with a history of insulin resistance and colorectal adenomas.
+CIT 19755993 R. H....  24 2 2009    18  0  38 au[10](F Végran) Gene expression profile and response to trastuzumab-docetaxel-based treatment in breast carcinoma.
+CIT 19096318 .. H....  24 2 2009    13  0  88 au[03](Jennifer Beane) Clinical impact of high-throughput gene expression studies in lung cancer.
+CIT 19519204 .. H....  24 2 2009    11  0  67 au[02](Kimberly J Bussey) Genomic and expression profiling of adrenocortical carcinoma: application to diagnosis, prognosis and treatment.
+CIT 19630569 .. H...c  21 2 2009    16  1  56 au[02](Phuong Khanh H Morrow) Management of breast cancer in the genome era.
+CIT 19714244 R. HAM..  20 2 2009    17  0  48 au[05](Seiichi Mori) Utilization of genomic signatures to identify phenotype-specific drugs.
+CIT 19331659 R. HAM..  20 2 2009    16  0  39 au[05](Hideaki Mizuno) A signature-based method for indexing cell cycle phase distribution from microarray profiles.
+CIT 19544546 .. H....  20 2 2009    15  0  93 au[01](Phillip G Febbo) Genomic approaches to outcome prediction in prostate cancer.
+CIT 19290050 R. H....  20 2 2009    12  0  38 au[06](Constantin F Aliferis) Factors influencing the statistical power of complex data analysis protocols for molecular signature development from microarray data.
+CIT 19530964 .. H....  20 2 2009    12  0  59 au[04](Ellen S Koster) Systems biology in pharmacogenomic research: the way to personalized prescribing?
+CIT 18223209 .. H.M..  81 2 2008    96  0  27 au[04](Aoife J Lowery) MicroRNAs as prognostic indicators and therapeutic targets: potential effect on breast cancer management.
+CIT 18382685 R. HAM.c  78 2 2008    63  1  43 au[10](Sarah K Meadows) Gene expression signatures of radiation response are specific, durable and accurate in mice and humans.
+CIT 18160667 R. H.MCc  76 2 2008    81 10  54 au[17](Mitch Raponi) A 2-gene classifier for predicting response to the farnesyltransferase inhibitor tipifarnib in acute myeloid leukemia.
+CIT 18613999 .. H.M..  76 2 2008    68  0 225 au[14](Aleksandar Sekulic) Malignant melanoma in the 21st century: the emerging molecular landscape.
+CIT 18387932 .. H...c  73 2 2008    68  1  34 au[18](Chaitanya R Acharya) Gene expression signatures, clinicopathological features, and individualized therapy in breast cancer.
+CIT 19010864 R. H.M.c  73 2 2008    62  3  34 au[10](Giancarlo Castellano) Activation of the osteopontin/matrix metalloproteinase-9 pathway correlates with prostate cancer progression.
+CIT 18701134 R. H.M..  72 2 2008    68  0  41 au[09](Adam Elzagheid) Intense cytoplasmic ezrin immunoreactivity predicts poor survival in colorectal cancer.
+CIT 18648354 .. H....  72 2 2008    68  0  88 au[03](Panagiotis A Konstantinopoulos) Gene-expression profiling in epithelial ovarian cancer.
+CIT 18990124 .. H.M..  72 2 2008    63  0 150 au[02](Sith Sathornsumetee) Designer therapies for glioblastoma multiforme.
+CIT 18382681 .. H.M..  67 2 2008    60  0  27 au[14](Kelly H Salter) An integrated approach to the prediction of chemotherapeutic response in patients with breast cancer.
+CIT 18852117 R. H.M.c  64 2 2008    48  1  34 au[09](Richard F Riedel) A genomic approach to identify molecular pathways associated with chemotherapy resistance.
+CIT 18167534 R. H....  63 2 2008    53  0  27 au[14](Carey K Anders) Age-specific differences in oncogenic pathway deregulation seen in human breast tumors.
+CIT 18841042 .. H...c  50 2 2008    40  1  48 au[05](Gert Stockmans) Triple-negative breast cancer.
+CIT 18922927 R. HAM..  42 2 2008    43  0  44 au[08](Seiichi Mori) Utilization of pathway signatures to reveal distinct types of B lymphoma in the Emicro-myc model and human diffuse large B-cell lymphoma.
+CIT 18199530 R. H.M..  42 2 2008    36  0  33 au[08](David J Wong) Revealing targeted therapy for human cancer by gene module maps.
+CIT 18314065 .. H....  33 2 2008    23  0  48 au[02](Dimitry S A Nuyten) Using microarray analysis as a prognostic and predictive tool in oncology: focus on breast cancer and normal tissue toxicity.
+CIT 18848555 .. H....  32 2 2008    24  0  16 au[03](Yan W Asmann) Transcriptome profiling using next-generation sequencing.
+CIT 18211683 R. H....  30 2 2008    24  0  49 au[11](Alexandros Laios) An integrative model for recurrence in ovarian cancer.
+CIT 18222207 .. H....  25 2 2008    19  0  28 au[01](Thomas A D'Amico) Molecular biologic staging of lung cancer.
+CIT 18496134 R. H.M.c  25 2 2008    18  1  16 au[07](Rong Stephanie Huang) Identification of genetic variants and gene expression relationships associated with pharmacogenes in humans.
+CIT 18786252 R. H.M..  24 2 2008    17  0  44 au[09](Jiangang Liu) Identification of a gene signature in cell cycle pathway for breast cancer prognosis using gene expression profiling data.
+CIT 18194724 R. .....  24 2 2008    11  0  45 au[03](Jae K Lee) Data mining in genomics.
+CIT 18339540 .. H....  22 2 2008    16  0  47 au[02](Anil Potti) Utilization of genomic signatures to direct use of primary chemotherapy.
+CIT 18795070 .. HA...  22 2 2008    16  0  44 au[05](Zuzana Krcova) Tpl-2/Cot and COX-2 in breast cancer.
+CIT 18413807 R. H.M.c  20 2 2008    15  3  50 au[09](Joel Greshock) Genome-wide DNA copy number predictors of lapatinib sensitivity in tumor-derived cell lines.
+CIT 18324660 R. HA...  20 2 2008    14  0  36 au[02](Ramón García-Escudero) Gene expression profiling as a tool for basic analysis and clinical application of human cancer.
+CIT 23495704 R. H.M..  20 2 2008    11  0  68 au[02](Peter Nygren) Predictive tests for individualization of pharmacological cancer treatment.
+CIT 18986507 .. H.M..  19 2 2008    16  0  44 au[04](Charles Swanton) Functional genomic analysis of drug sensitivity pathways to guide adjuvant strategies in breast cancer.
+CIT 18800387 R. H.M..  18 2 2008    14  0  63 au[03](Ariel Anguiano) Toward the individualization of lung cancer therapy.
+CIT 18376380 R. H....  18 2 2008    14  0  35 au[03](Gerold Bepler) Molecular analysis-based treatment strategies for non-small cell lung cancer.
+CIT 18464047 .. H...c  16 2 2008     9  1  49 au[02](J Todd Auman) Cancer pharmacogenomics: DNA genotyping and gene expression profiling to identify molecular determinants of chemosensitivity.
+CIT 17534450 R. H.M.c  81 2 2007   103  1  40 au[10](Daniel R Rhodes) Molecular concepts analysis links tumors, pathways, mechanisms, and drugs.
+CIT 17607306 .. H.M.c  79 2 2007   113  1  66 au[02](Joseph R Nevins) Mining gene expression profiles: expression signatures as cancer phenotypes.
+CIT 17881133 .. HA..c  79 2 2007    78  4 220 au[03](Britta Stordal) A systematic review of platinum and taxane resistance from bench to clinic: an inverse relationship.
+CIT 17906199 .. H.M.c  71 2 2007    67  2  27 au[14](David S Hsu) Pharmacogenomic strategies provide a rational approach to the treatment of cisplatin-resistant patients with advanced cancer.
+CIT 17909917 R. H...c  70 2 2007    57 10  10 au[09](John C Mansour) Does graded histologic response after neoadjuvant chemotherapy predict survival for completely resected gastric cancer?
+CIT 17987014 .. H.M.c  69 2 2007    76  1   4 au[03](Kevin R Coombes) Microarrays: retracing steps.
+CIT 17964028 .. H....  63 2 2007    47  0 127 au[03](Sith Sathornsumetee) Diagnosis and treatment of high-grade astrocytoma.
+CIT 17287755 .. HAM.c  59 2 2007    52  1   7 au[02](Roger Stupp) Targeting brain-tumor stem cells.
+CIT 17766655 .. H...c  59 2 2007    46  1  60 au[07](Rudolf S N Fehrmann) Profiling studies in ovarian cancer: a review.
+CIT 17202459 .. H...c  54 2 2007    45  1  14 au[02](Roy S Herbst) Molecular signatures of lung cancer--toward personalized therapy.
+CIT 18000980 .. HAM.c  50 2 2007    44  1 165 au[04](Paul A Clark) Developmental signaling pathways in brain tumor-derived stem-like cells.
+CIT 17409441 R. H.M.c  45 2 2007    35  2  41 au[08](Roy Blum) Gene expression signature of human cancer cell lines treated with the ras inhibitor salirasib (S-farnesylthiosalicylic acid).
+CIT 17587411 .. H.M..  45 2 2007    34  0  63 au[02](Wah K Lam) Lung cancer: future directions.
+CIT 17826854 .. .....  44 2 2007    23  0  44 au[05](Johan Robbens) Ecotoxicological risk assessment using DNA chips and cellular reporters.
+CIT 17483437 R. HAM.c  42 2 2007    23  3  35 au[09](Yasunori Yoshimoto) Defining regional infusion treatment strategies for extremity melanoma: comparative analysis of melphalan and temozolomide as regional chemotherapeutic agents.
+CIT 17906450 .. H.M..  39 2 2007    28  0  41 au[02](Shannon R Morris) Gene expression profiling in breast cancer.
+CIT 17906194 .. H...c  38 2 2007    30  1  79 au[03](John D Minna) Tumor mRNA expression profiles predict responses to chemotherapy.
+CIT 17464566 .. H....  36 2 2007    25  0  77 au[02](Shannon R Morris) Molecular profiling in breast cancer.
+CIT 17397520 .. H....  35 2 2007    26  0  49 au[02](Lance D Miller) Expression genomics in breast cancer research: microarrays at the crossroads of biology and medicine.
+CIT 17764940 .. H....  35 2 2007    20  0  50 au[03](Phuong Dinh) The evolution of treatment strategies: aiming at the target.
+CIT 17973194 .. H....  30 2 2007    21  0  51 au[05](Keltouma Driouch) Gene arrays for diagnosis, prognosis and treatment of breast cancer metastasis.
+CIT 17924831 .. H.M..  28 2 2007    19  0  58 au[02](Christine M Hartford) Identifying genetic variants that contribute to chemotherapy-induced cytotoxicity.
+CIT 17558745 .. H.M..  25 2 2007    15  0 100 au[01](Uriel M Malyankar) Tumor-associated antigens and biomarkers in cancer and immune therapy.
+CIT 17956351 .. HAM.c  24 2 2007    11  2  40 au[04](M M Manson) Determining the efficacy of dietary phytochemicals in cancer prevention.
+CIT 29143332 RP H....   8 1 2018     1  0  53 au[12](Enyu Dai) Accurate prediction and elucidation of drug resistance based on the robust and reproducible chemoresponse communities.
+CIT 28481648 R. H....  11 1 2017     2  0  26 au[04](David B Resnik) Data-Intensive Science and Research Integrity.
+CIT 26667460 R. H....  13 1 2016     3  0  22 au[02](B Michael Ghadimi) Cancer Gene Profiling for Response Prediction.
+CIT 27653744 R. H.M..   6 1 2016     1  0  40 au[12](Dong-Xu He) Targeting PSG1 to enhance chemotherapeutic efficacy: new application for anti-coagulant the dicumarol.
+CIT 25459950 R. H.M..  10 1 2015     3  0  20 au[05](Dong-Xu He) A transcription/translation-based gene signature predicts resistance to chemotherapy in breast cancer.
+CIT 24331364 .. H...c   9 1 2014     3  1   6 au[01](Timothy J O'Leary) Assessing and comparing the performance of molecular diagnostic tests.
+CIT 25372392 R. H.M..   9 1 2014     3  0  62 au[09](Jingbo Wang) Potentially functional SNPs (pfSNPs) as novel genomic predictors of 5-FU response in metastatic colorectal cancer patients.
+CIT 25209432 R. H....   8 1 2014     3  0  34 au[05](Dong-Xu He) A 20-gene signature in predicting the chemoresistance of breast cancer to taxane-based chemotherapy.
+CIT 25307754 .. .....   7 1 2014     4  0  13 au[01](Timothy J O'Leary) Regulating laboratory-developed tests.
+CIT 24323457 R. H....   9 1 2013     4  0  11 au[01](Gilbert S Omenn) On best practices: the Institute of Medicine scheme for developing, validating, and demonstrating clinical utility of omics-based diagnostic and predictive tests.
+CIT 21667120 R. H.M..  16 1 2012     9  0  50 au[06](Ensel Oh) A prognostic model for lymph node-negative breast cancer patients based on the integration of proliferation and immunity.
+CIT 22326071 R. H....  11 1 2012     6  0  65 au[02](Peter Keating) Too many numbers: Microarrays in clinical cancer research.
+CIT 22736410 R. H...c  11 1 2012     4  1  32 au[01](David L DeMets) Current development in clinical trials: issues old and new.
+CIT 22256868 .. H....  10 1 2012     6  0  32 au[04](Yutaka Midorikawa) Genomic approach towards personalized anticancer drug therapy.
+CIT 22249357 .. HAM..  10 1 2012     5  0 110 au[04](D Sanoudou) Array-based pharmacogenomics of molecular-targeted therapies in oncology.
+CIT 21826086 R. H.M..   8 1 2012     5  0  26 au[02](A Torkamani) Background gene expression networks significantly enhance drug response prediction by transcriptional profiling.
+CIT 23300429 R. .....   6 1 2012     3  0  28 au[01](Ju Han Kim) Chapter 8: Biological knowledge assembly and interpretation.
+CIT 21060324 R. H.M..   4 1 2012     2  0  14 au[07](B L Fridley) Multivariate models to detect genomic signatures for a class of drugs: application to thiopurines pharmacogenomics.
+CIT 22993828 .. H...c   4 1 2012     1  1  25 au[01](William B Millard) Go back, Jack, and do it again: the underrated art of replication.
+CIT 23091430 R. H....   2 1 2012     1  0   3 au[01](Bob Carlson) Putting oncology patients at risk.
+CIT 22461660 .. .....   2 1 2012     1  0   3 au[09](Richard F Riedel) Retraction in part: A genomic approach to identify molecular pathways associated with chemotherapy resistance.
+CIT 22043058 R. H...c  12 1 2011     7  1  37 au[06](Debora Fumagalli) Gene profiling assay and application: the predictive role in primary therapy.
+CIT 22130145 .. H....  12 1 2011     4  0  14 au[01](Scott Kern) Analytic model for academic research productivity having factors, interactions and implications.
+CIT 22649765 R. ..M..   7 1 2011     4  0  55 au[14](Julia Eschenbrenner) Evaluation of activity and combination strategies with the microtubule-targeting drug sagopilone in breast cancer cell lines.
+CIT 22037323 .. H....   5 1 2011     1  0   2 au[01](Susan Moore) Can we trust your data?
+CIT 21691702 .. H....   3 1 2011     1  0  41 au[06](Maria Aparecida Azevedo Koike Folgueira) Transcriptional profile and response to neoadjuvante chemotherapy in breast cancer.
+CIT 21590388 R. H.M..   3 1 2011     1  0  14 au[14](K N Kashkin) Genes potentially associated with resistance of lung cancer cells to paclitaxel.
+CIT 22043050 R. H....   2 1 2011     2  0  24 au[02](Giampaolo Bianchini) Surrogate markers for targeted therapy-based treatment activity and efficacy.
+CIT 20368975 R. H....  15 1 2010    10  0  42 au[09](Panagiotis A Konstantinopoulos) Analysis of multiple sarcoma expression datasets: implications for classification, oncogenic pathway activation and chemotherapy resistance.
+CIT 20117883 .. H....  15 1 2010     7  0  89 au[02](D G Power) Localized adenocarcinoma of the esophagogastric junction--is there a standard of care?
+CIT 20100687 R. H.M..  13 1 2010     8  0  42 au[02](James Todd Auman) Colorectal cancer cell lines lack the molecular heterogeneity of clinical colorectal tumors.
+CIT 20014924 .. H.M.c  12 1 2010    10  1  89 au[01](Mark R Lackner) Prospects for personalized medicine with inhibitors targeting the RAS and PI3K pathways.
+CIT 20813028 R. H....  12 1 2010     9  0   8 au[04](Robin M Hallett) An algorithm to discover gene signatures with predictive potential.
+CIT 20526299 .. H....  12 1 2010     9  0   3 au[01](Stu Hutson) Data handling errors spur debate over clinical trial.
+CIT 20948301 .. H.M..  12 1 2010     7  0  22 au[02](Sally A Amundson) Integration of biological knowledge and gene expression data for biomarker selection: FN1 as a potential predictor of radiation resistance in head and neck cancer.
+CIT 29776245 R. H....  12 1 2010     6  0  72 au[04](Ketao Jin) Personalized cancer therapy using a patient-derived tumor tissue xenograft model: a translational field worthy of exploring further?
+CIT 20658911 .. H....  11 1 2010     7  0  92 au[03](Sandra C Tomaszek) Prospects for molecular staging of non-small-cell lung cancer from genomic alterations.
+CIT 20350124 R. H....  10 1 2010     7  0  23 au[02](R Stephanie Huang) Approaches to the discovery of pharmacogenomic markers in oncology: 2000-2010-2020.
+CIT 23488531 R. ..M..   8 1 2010     5  0 253 au[03](Massimiliano Paci) New biomarkers for lung cancer.
+CIT 20444440 R. H.M..   8 1 2010     4  0  13 au[08](Megan D Indermaur) Genomic-directed targeted therapy increases endometrial cancer cell sensitivity to doxorubicin.
+CIT 20652516 R. HA...   7 1 2010     4  0  60 au[03](Feng Cheng) Multi-gene expression-based statistical approaches to predicting patients' clinical outcomes and responses.
+CIT 20410052 R. H....   7 1 2010     4  0  59 au[03](Inho Park) Inference of combinatorial Boolean rules of synergistic gene sets from cancer microarray datasets.
+CIT 20549335 .. H....   6 1 2010     5  0  29 au[03](Catherine Oakman) Re-searching anthracycline therapy.
+CIT 19882269 R. H.M..   4 1 2010     3  0  23 au[02](B Michael Ghadimi) Cancer gene profiling for response prediction.
+CIT 20592045 R. H....   4 1 2010     2  0   5 au[01](Stephen R Master) Getting the details right: gene signatures for cancer therapy.
+CIT 20579923 .. H.M..   2 1 2010     1  0  42 au[07](A Frati) [Clinicopathological and genomics predictors of response to neoadjuvant chemotherapy in breast cancer].
+CIT 19443336 .. H....  16 1 2009     9  0  48 au[03](Edgardo S Santos) Gene expression profiling and non-small-cell lung cancer: where are we now?
+CIT 19509251 R. HAM..  13 1 2009    10  0  45 au[06](Tomohiro Eguchi) Expression levels of p18INK4C modify the cellular efficacy of cyclin-dependent kinase inhibitors via regulation of Mcl-1 expression in tumor cell lines.
+CIT 19713842 .. H....  11 1 2009     7  0  50 au[03](Erica Moretti) Predicting anthracycline benefit: have we made any progress?
+CIT 23485207 R. ..M..  10 1 2009     5  0 122 au[01](Hilmar M Warenius) Technological challenges of theranostics in oncology.
+CIT 19229372 R. ..M..   7 1 2009     4  0  36 au[03](P D Williams) Genomancy: predicting tumour response to cancer therapy based on the oracle of genetics.
+CIT 19467173 .. H.M..   6 1 2009     6  0  49 au[03](Alvin J X Lee) RNAi-mediated functional analysis of pathways influencing cancer cell drug resistance.
+CIT 19508830 .. H....   6 1 2009     4  0  39 au[02](Aubrey Jolly Graham) Translating genomics into clinical practice: applications in lung cancer.
+CIT 19663732 .. H....   5 1 2009     3  0  49 au[03](Edgardo S Santos) How is gene-expression profiling going to challenge the future management of lung cancer?
+CIT 19914538 R. H....   5 1 2009     3  0  36 au[04](Philippe L Bedard) Aiming at the target: improved adjuvant medical therapy.
+CIT 18989892 .. H....   3 1 2009     2  0   8 au[01](Peter J Houghton) How do we identify novel treatment for childhood cancer?
+CIT 20031600 .. .AM..   3 1 2009     2  0  11 au[02](Rahul C Deo) Pathways of the heart.
+CIT 19637041 R. H....   2 1 2009     1  0  17 au[03](Jenny C Chang) Pharmacogenetics of breast cancer: toward the individualization of therapy.
+CIT 19517027 R. ..M.c  16 1 2008    14  1  82 au[03](Hiraku Itadani) Can systems biology understand pathway activation? Gene expression signatures as surrogate markers for understanding the complexity of pathway activation.
+CIT 18673536 R. H.M..  15 1 2008    14  0  29 au[05](Raphael Genolet) An approach to analyse the specific impact of rapamycin on mRNA-ribosome association.
+CIT 18656055 .. H...c  15 1 2008    12  1  60 au[02](John C Mansour) Molecular mechanisms for individualized cancer care.
+CIT 18261237 R. H.M..  15 1 2008    11  0  27 au[05](Brian Z Ring) Gene expression patterns within cell lines are predictive of chemosensitivity.
+CIT 18953815 .. H....  14 1 2008     8  0  56 au[02](Michael G House) Neoadjuvant therapy for gastric cancer.
+CIT 19231941 R. .AM..  11 1 2008     5  0  24 au[03](Daman J Adlam) Electrochemical monitoring of rat mammary adenocarcinoma cells: an in vitro assay for anticancer drug selection.
+CIT 19094238 R. .AM..  10 1 2008    10  0  39 au[09](Zhandong Liu) Singular value decomposition-based regression identifies activation of endogenous signaling pathways in vivo.
+CIT 18650156 R. H..Cc   7 1 2008     5  3  30 au[15](John T Hamm) Gemcitabine/epirubicin/paclitaxel as neoadjuvant chemotherapy in locally advanced breast cancer: a phase II trial of the NSABP Foundation Research Group.
+CIT 18274085 .. H...c   7 1 2008     4  1  35 au[04](Phuong Dinh) New tools for assessing breast cancer recurrence.
+CIT 19266288 .. H....   6 1 2008     3  0  36 au[01](George R Simon) Individualizing chemotherapy for non-small cell lung cancer (NSCLC) in the adjuvant and advanced setting: current status and future directions.
+CIT 19046112 .. H...c   5 1 2008     3  2  77 au[04](Edgardo S Santos) Controversies in the management of stage IIIA non-small-cell lung cancer.
+CIT 19093262 R. H...c   4 1 2008     3  1  27 au[02](Christina I Herold) Primary systemic therapy in breast cancer: past lessons and new approaches.
+CIT 19086604 .. H...c   4 1 2008     2  1  41 au[02](Loretta Erhunmwunsee) Detection of occult N2 disease with molecular techniques.
+CIT 18407953 .. H...c   4 1 2008     2  1   9 au[01](L Del Mastro) The difficult decision-making process for using or not using adjuvant chemotherapy in premenopausal endocrine-responsive breast cancer patients.
+CIT 18804420 .. HA...   3 1 2008     2  0   9 au[01](Damien Chaussabel) Translation of genomics research at the bedside: the promise and the challenge.
+CIT 20477436 R. ..M..   2 1 2008     1  0  55 au[09](Grant Sellar) Opportunities posed by novel patient selection biomarker approaches in oncology drug development: going beyond the cytotoxics.
+CIT 17603309 R. H.M..  16 1 2007    13  0 100 au[02](Maria Gabriela Raso) Molecular pathogenesis of early-stage non-small cell lung cancer and a proposal for tissue banking to facilitate identification of new biomarkers.
+CIT 17899862 .. HA...  15 1 2007     7  0  30 au[05](Andrea Micheli) Strategies for cancer control in Italy.
+CIT 17962100 .. H....  14 1 2007    10  0  60 au[02](Tzu-Hao Wang) Microarray analysis of gene expression of cancer to guide the use of chemotherapeutics.
+CIT 17442611 .. H.M..  12 1 2007    11  0 130 au[03](Marion Lohrum) The new frontier in cancer research: deciphering cancer epigenetics.
+CIT 17187513 .. HA...  10 1 2007     8  0  47 au[02](Michail Ignatiadis) Predicting risk of breast cancer recurrence using gene-expression profiling.
+CIT 18000360 R. H....   9 1 2007     7  0 141 au[17](T J Belbin) Head and neck cancer: reduce and integrate for optimal outcome.
+CIT 18078352 .. H....   8 1 2007     6  0  82 au[02](Prateek Mendiratta) Genomic signatures associated with the development, progression, and outcome of prostate cancer.
+CIT 17573671 .. H....   8 1 2007     5  0  13 au[01](M Dietel) Predictive medicine: incipient reality or fata morgana?
+CIT 17353936 .. H....   6 1 2007     6  0  12 au[02](Edison T Liu) Higher order structure in the cancer transcriptome and systems medicine.
+CIT 18020912 .. H....   4 1 2007     4  0  41 au[02](Ariel Anguiano) Genomic signatures individualize therapeutic decisions in non-small-cell lung cancer.
+CIT 17429092 .. H....   3 1 2007     3  0   9 au[02](Stefan Michiels) Five-gene signature in non-small-cell lung cancer.
+CIT 17492937 .. H.M.c   3 1 2007     2  1  79 au[06](Nina Anensen) Early gene expression of acute myeloid leukemia in response to chemotherapy.
+CIT 28028763 R. H....   0 0 2017     0  0  18 au[09](Alexandra Martinez) Building a Personalized Cancer Treatment System.
+CIT 27279233 .. H....   0 0 2015     0  0  33 au[09](Edward B Garon) Clinical Trials in Non-Small Cell Lung Cancer with Biomarker-Driven Treatment Allocation: Ready or Not, Here We Come.
+CIT 22798219 R. HAM..   0 0 2012     0  0   6 au[01](Yu Shyr) Rigorous quantitative sciences integration--the foundation of high-dimensional genomic research.
+CIT 23226032 R. H....   0 0 2009     0  0  68 au[02](Steven F Powell) Tailoring treatment of nonsmall cell lung cancer by tissue type: role of pemetrexed.
+CIT 29783502 R. H....   0 0 2009     0  0   9 au[02](Marla Vacek Broadfoot) The Center for Genomic Medicine at the Duke Institute for Genome Sciences &amp; Policy: propelling genomics into clinical practice.
+CIT 23496047 R. H.M..   0 0 2009     0  0 103 au[04](Jia Wei) Molecular biomarkers for predicting chemotherapy response in lung cancer.
+CIT 22461094 R. H.M..   0 0 2009     0  0  34 au[03](Geoffrey S Ginsburg) Transforming the practice of medicine using genomics.
+CIT 29783457 R. H.M..   0 0 2008     0  0   9 au[02](Maria Grazia Daidone) A bridge over troubled questions.
+CIT 18701404 .. H....   0 0 2008     0  0  16 au[01](Christopher A Moskaluk) The continued supremacy of qualitative interpretation over quantitative measurement in histologic tissue assessment: collagenous colitis as a case in point.
+CIT 23484818 R. H.M..   0 0 2007     0  0 161 au[01](Yves St-Pierre) Drug discovery using the regulation of gene expression.
+23 of 23 References downloaded:
+REF 11562467 R. H.M.c  99 4 2001   618  8  31 au[10](M West) Predicting the clinical status of human breast cancer by using gene expression profiles.
+REF 16203655 R. H.M..  39 2 2005    29  0  14 au[12](Shanu Modi) Phosphorylated/activated HER2 as a marker of clinical resistance to single agent taxane chemotherapy for metastatic breast cancer.
+REF 16020661 R. H.M..  20 2 2005    15  0  58 au[07](Takeshi Takahashi) Cyclin A-associated kinase activity is needed for paclitaxel sensitivity.
+REF 15837626 R. H.M.c  76 2 2005    97  4  39 au[11](Sanne Lugthart) Identification of genes associated with chemotherapy crossresistance and treatment response in childhood acute lymphoblastic leukemia.
+REF 16154800 R. H.M..  59 2 2005    48  0   0 au[02](Henk J Broxterman) Anticancer therapeutics: "Addictive" targets, multi-targeted drugs, new drug combinations.
+REF 16326753 R. H...c  78 2 2006    80  5  31 au[21](Roy S Herbst) Clinical Cancer Advances 2005: major research advances in cancer treatment, prevention, and screening--a report from the American Society of Clinical Oncology.
+REF 15295046 R. H...c  97 3 2004   357 18  32 au[13](Amy Holleman) Gene-expression patterns in drug-resistant acute lymphoblastic leukemia cells and response to treatment.
+REF 11553813 R. H.M.c  98 4 2001   368  4  14 au[13](J E Staunton) Chemosensitivity prediction by transcriptional profiling.
+REF 15475421 R. H...c  29 2 2004    23  1   0 au[05](Jennifer Pittman) Bayesian analysis of binary prediction tree models for retrospectively sampled outcomes.
+REF 16294046 .. H.M.c  65 2 2005    73  1   0 au[01](Mikhail V Blagosklonny) Why therapeutic response may not prolong the life of a cancer patient: selection for oncogenic resistance.
+REF  7459811 R. H...c 100 4 1981  5091 2292   2 au[04](A B Miller) Reporting results of cancer treatment.
+REF 11821453 R. H..Cc 100 4 2002  1397 118   9 au[13](Charles L Vogel) Efficacy and safety of trastuzumab as a single agent in first-line treatment of HER2-overexpressing metastatic breast cancer.
+REF 16273092 R. HAM.c 100 4 2006  1242 19  23 au[15](Andrea H Bild) Oncogenic pathway signatures in human cancers as a guide to targeted therapies.
+REF 15178790 .. H.M.c  52 2 2004    50  1   0 au[04](John D Minna) Cancer. A bull's eye for targeted lung cancer therapy.
+REF 15774793 .. H...c  96 3 2005   280 15  19 au[04](Daniel J Sargent) Clinical trial designs for predictive marker validation in cancer treatment trials.
+REF 12907009 R. H...c  99 4 2003   520 39  26 au[11](Jenny C Chang) Gene expression profiling for the prediction of therapeutic response to docetaxel in patients with breast cancer.
+REF 15914550 R. H.M.c  95 3 2005   232 17  34 au[16](Roman Rouzier) Microtubule-associated protein tau: a marker of paclitaxel sensitivity in breast cancer.
+REF  9843981 R. HA..c 100 4 1998  9046 72  12 au[04](M B Eisen) Cluster analysis and display of genome-wide expression patterns.
+REF 16217747 R. H....  79 2 2006    93  0  37 au[07](Balazs Györffy) Gene expression profiling of 30 cancer cell lines predicts resistance towards 11 anticancer drugs at clinically achieved concentrations.
+REF 16243820 R. H...c  61 2 2005    46  2   0 au[11](Rupert Langer) Association of pretherapeutic expression of chemotherapy-related genes with response to neoadjuvant chemotherapy in Barrett carcinoma.
+REF 11251004 R. H...c  95 3 2001   239 34  50 au[09](O S Breathnach) Twenty-two years of phase III trials for patients with advanced non-small-cell lung cancer: sobering results.
+REF 16115903 R. H...c 100 4 2005  1046 72   9 au[16](Roman Rouzier) Breast cancer molecular subtypes respond differently to preoperative chemotherapy.
+REF 16280040 R. HAM.c  68 2 2005    64  3  31 au[05](Manabu Emi) Targeted therapy against Bcl-2-related proteins in breast cancer cells.
 
-TOP 21217686 .. ..... 2 2011    28  0   1 au[17](Anil Potti) Retraction: Genomic signatures to guide the use of chemotherapeutics. Potti_2011
+TOP 21217686 .. .....  45 2 2011    28  0   1 au[17](Anil Potti) Retraction: Genomic signatures to guide the use of chemotherapeutics.
+25 of 28 citations downloaded:
+CIT 32157489 R. .....  -1 i 2020     0  0  28 au[02](Giovanni Di Leo) Statistical significance: p value, 0.05 threshold, and applications to radiomics-reasons for a conservative approach.
+CIT 31921859 R. H....  -1 i 2019     0  0  19 au[03](Frank Emmert-Streib) Ensuring Quality Standards and Reproducible Research for Data Analysis Services in Oncology: A Cooperative Service Model.
+CIT 29977864 .P H....  71 2 2018     8  0 178 au[09](John Kang) Machine Learning and Radiogenomics: Lessons Learned and Future Directions.
+CIT 30213783 RP .....  37 2 2018     3  0  29 au[06](Lucy A Parker) Diagnostic Biomarkers: Are We Moving from Discovery to Clinical Application?
+CIT 28462602 .. H.M..  21 2 2017     4  0 104 au[03](Graeme Benstead-Hume) 'Big data' approaches for novel anti-cancer drug discovery.
+CIT 23608827 .. H....  16 2 2015     5  0  40 au[05](Frunze Petrosyan) Gene expression profiling for early-stage NSCLC.
+CIT 25451164 R. H.M..  73 2 2014    31  0  31 au[13](Jianxin Lv) miRNA expression patterns in chemoresistant breast cancer tissues.
+CIT 27896142 .. .....  70 2 2014    29  0 132 au[01](Stephen A Bustin) The reproducibility of biomedical research: Sleepers awake!
+CIT 24001556 .. HA...  70 2 2014    29  0 273 au[02](D C Anderson) Biomarkers in pharmacology and drug discovery.
+CIT 21472434 R. H...c  78 2 2012    47  4  36 au[09](E H Lips) Neoadjuvant chemotherapy in ER+ HER2- breast cancer: response prediction based on immunohistochemical and molecular characteristics.
+CIT 22319589 R. H.M..  56 2 2012    27  0  36 au[07](Bálint Tegze) Parallel evolution under chemotherapy pressure in 29 breast cancer cell lines results in dissimilar mechanisms of resistance.
+CIT 22733404 .. HA...  45 2 2012    20  0 205 au[04](Claudiu V Komorowsky) Perspectives on systems biology applications in diabetic kidney disease.
+CIT 22987965 .. H.M.c  33 2 2012    18  2  93 au[03](B Weigelt) Genomic analyses to select patients for adjuvant chemotherapy: trials and tribulations.
+CIT 22990081 .. .....  31 2 2012    10  0  19 au[01](Crystal M Smith-Spangler) Transparency and reproducible research in modeling: why we need it and how to get there.
+CIT 21792624 R. H.M.c  21 2 2012    10  2  46 au[08](Gais Kadra) Gene expression profiling of breast tumor cell lines to predict for therapeutic response to microtubule-stabilizing agents.
+CIT 21799864 R. H.M..  36 2 2011    18  0  49 au[11](Xuan Bich Trinh) Microarray-based oncogenic pathway profiling in advanced serous papillary ovarian carcinoma.
+CIT 21277543 .. .....  20 2 2011    12  0   4 au[19](Hervé Bonnefoi) Retraction--Validation of gene signatures that predict the response of breast cancer to neoadjuvant chemotherapy: a substudy of the EORTC 10994/BIG 00-01 clinical trial.
+CIT 18852117 R. H.M.c  64 2 2008    48  1  34 au[09](Richard F Riedel) A genomic approach to identify molecular pathways associated with chemotherapy resistance.
+CIT 27630666 R. .A...  10 1 2016     3  0  14 au[03](Frank Emmert-Streib) Against Dataism and for Data Sharing of Big Biomedical and Clinical Data with Research Parasites.
+CIT 25372392 R. H.M..   9 1 2014     3  0  62 au[09](Jingbo Wang) Potentially functional SNPs (pfSNPs) as novel genomic predictors of 5-FU response in metastatic colorectal cancer patients.
+CIT 25307754 .. .....   7 1 2014     4  0  13 au[01](Timothy J O'Leary) Regulating laboratory-developed tests.
+CIT 22681410 .. H.M..  11 1 2012     4  0  95 au[02](Sing-Huang Tan) An update on chemotherapy and tumor gene expression profiles in breast cancer.
+CIT 22249357 .. HAM..  10 1 2012     5  0 110 au[04](D Sanoudou) Array-based pharmacogenomics of molecular-targeted therapies in oncology.
+CIT 22339590 R. H....   4 1 2012     1  0  45 au[02](Justin M Balko) Molecular signatures of lung cancer: defining new diagnostic and therapeutic paradigms.
+CIT 22461660 .. .....   2 1 2012     1  0   3 au[09](Richard F Riedel) Retraction in part: A genomic approach to identify molecular pathways associated with chemotherapy resistance.
+CIT 21691271 R. H....   6 1 2011     3  0  10 au[02](S B Haga) Practical ethics: establishing a pathway to benefit for complex pharmacogenomic tests.
+CIT 22146450 .. .....   3 1 2011     2  0   3 au[01]() A retrospective of retractions: the striking record in 2011.
+CIT 28028763 R. H....   0 0 2017     0  0  18 au[09](Alexandra Martinez) Building a Personalized Cancer Treatment System.
 1 of 1 References downloaded:
-REF 17057710 .. H.M.c 4 2006   344  9  23 au[17](Anil Potti) Genomic signatures to guide the use of chemotherapeutics.
+REF 17057710 .. H.M.c  98 4 2006   344  9  23 au[17](Anil Potti) Genomic signatures to guide the use of chemotherapeutics.
+
+TOP 16790829 R. H...c  99 4 2006   358 18   5 au[02](Miguel A Hernán) Estimating causal effects from epidemiological data.
+18 Cited by Clinical papers:
+CLI 31186020 R. H..C.  -1 i 2019     0  0  20 au[04](Michela Baccini) Comparison of two statistical indicators in communicating epidemiological results to the population: a randomized study in a high environmental risk area of Italy.
+CLI 29203418 RP H..Cc  85 3 2018     7  2  22 au[05](Goodarz Danaei) Electronic medical records can be used to emulate target trials of sustained treatment strategies.
+CLI 27902507 R. H..C.  48 2 2017     4  0  49 au[14](Daniel Westreich) Smoking, HIV, and risk of pregnancy loss.
+CLI 28143599 R. H..C.  20 2 2017     1  0  23 au[09](E A Huhn) Decreased neonatal pain response after vaginal-operative delivery with Kiwi OmniCup versus metal ventouse.
+CLI 27012407 R. H..Cc  57 2 2016    13  1  42 au[05](Tara I Chang) Drug-Eluting Versus Bare-Metal Stents During PCI in Patients With End-Stage Renal Disease on Dialysis.
+CLI 25918184 R. H..C.  48 2 2015    11  0  26 au[06](Emmanuelle Kesse-Guyot) Evidence of a cumulative effect of cardiometabolic disorders at midlife and subsequent cognitive function.
+CLI 26275176 R. H..C.  34 2 2015     6  0  19 au[02](Tomohiro Shinozaki) Brief Report: Doubly Robust Estimation of Standardized Risk Difference and Ratio in the Exposed Population.
+CLI 24885129 R. H..Cc  81 2 2014    22  1  24 au[10](Loc G Do) Common risk factor approach to address socioeconomic inequality in the oral health of preschool children--a prospective cohort study.
+CLI 24939980 R. H..Cc  68 2 2014    23  2  42 au[10](Mohammad Ehsanul Karim) Marginal structural Cox models for estimating the association between β-interferon exposure and disease progression in a multiple sclerosis cohort.
+CLI 24998933 R. H..C.  20 2 2014     6  0  43 au[02](Stephen M Amrock) Effect of increased leptin and C-reactive protein levels on mortality: results from the National Health and Nutrition Examination Survey.
+CLI 23835501 R. H..Cc  82 2 2013    39  6  18 au[08](Supriya D Mehta) The long-term efficacy of medical male circumcision against HIV acquisition.
+CLI 23337413 R. H..Cc  64 2 2013    18  3  10 au[19](Kate Leslie) Nitrous oxide and serious morbidity and mortality in the POISE trial.
+CLI 23520489 R. H..Cc  38 2 2013    12  1  45 au[06](Daniel Westreich) Incident pregnancy and time to death or AIDS among HIV-positive women receiving antiretroviral therapy.
+CLI 23284983 R. H..C.  32 2 2012     9  0  40 au[07](Emmanuelle Kesse-Guyot) Alcohol consumption in midlife and cognitive performance assessed 13 years later in the SU.VI.MAX 2 cohort.
+CLI 20526200 R. H..Cc  59 2 2010    33  4  28 au[05](Sengwee Toh) Estimating absolute risks in the presence of nonadherence: an application to a follow-up study with baseline randomization.
+CLI 28583098 R. H..C.  16 1 2017     1  0  43 au[03](Ole Klungsøyr) Contours of a causal feedback mechanism between adaptive personality and psychosocial function in patients with personality disorders: a secondary analysis from a randomized clinical trial.
+CLI 26972925 R. H..C.   5 1 2016     1  0  25 au[06](Margaret Vernon) Deriving health utility values from a randomized, double-blind, placebo-controlled trial of siltuximab in subjects with multicentric Castleman's disease.
+CLI 29268707 R. H..C.   0 0 2017     0  0  25 au[04](Stefan H Kreisel) Does being physically active prevent future disability in older people? Attenuated effects when taking time-dependent confounders into account.
+307 of 358 citations downloaded:
+CIT 31134333 R. H....  -1 i 2020     2  0  77 au[02](Nuala A Sheehan) Epidemiology, genetic epidemiology and Mendelian randomisation: more need than ever to attend to detail.
+CIT 32159811 R. H....  -1 i 2020     0  0  25 au[08](Jessica Cobian) Changes in Health Insurance Coverage Over Time by Immigration Status Among US Older Adults, 1992-2016.
+CIT 31953948 R. .....  -1 i 2020     0  0  33 au[03](Elisavet Syriopoulou) Marginal measures and causal effects using the relative survival framework.
+CIT 31846099 R. .....  -1 i 2020     0  0  17 au[05](Joseph Kang) Causal inference of latent classes in complex survey data with the estimating equation framework.
+CIT 31994250 R. H.M..  -1 i 2020     0  0  37 au[06](Nancy Birungi) Association of maternal HIV-1 severity with dental caries: an observational study of uninfected 5- to 7-yr-old children of HIV-1-infected mothers without severe immune suppression.
+CIT 32130245 R. ..M..  -1 i 2020     0  0  57 au[15](Anthony N Muiru) The epidemiology of chronic kidney disease (CKD) in rural East Africa: A population-based study.
+CIT 31764275 R. H....  -1 i 2020     0  0  48 au[05](Alexa R Yakubovich) Long-term Exposure to Neighborhood Deprivation and Intimate Partner Violence Among Women: A UK Birth Cohort Study.
+CIT 32171256 R. H....  -1 i 2020     0  0  41 au[07](Joshua D Wallach) Evaluation of confounding in epidemiologic studies assessing alcohol consumption on the risk of ischemic heart disease.
+CIT 31950306 R. H.M..  -1 i 2020     0  0  53 au[05](Wusiman Aibibula) The Mediating Role of Depressive Symptoms in the Association Between Food Insecurity and HIV Related Health Outcomes Among HIV-HCV Co-Infected People.
+CIT 31172653 R. H....  -1 i 2020     0  0  28 au[03](Scott J Oglesbee) Implementing lower-risk brief resolved unexplained events guideline reduces admissions in a modelled population.
+CIT 30291179 RP H....  -1 i 2019    14  0  14 au[02](Kun-Hsing Yu) Framing the challenges of artificial intelligence in medicine.
+CIT 30325422 RP ....c  -1 i 2019    12  1  33 au[02](Apostolos Gkatzionis) Contextualizing selection bias in Mendelian randomization: how bad is it likely to be?
+CIT 30311958 RP H....  -1 i 2019     8  0  50 au[21](Jennifer A Hutcheon) Good practices for the design, analysis, and interpretation of observational studies on birth spacing and perinatal health outcomes.
+CIT 29866373 R. H....  -1 i 2019     3  0  40 au[01](Hongwei Xu) Physical and mental health of Chinese grandparents caring for grandchildren and great-grandparents.
+CIT 31037639 R. H....  -1 i 2019     3  0  28 au[06](James William Bales) Primary External Ventricular Drainage Catheter Versus Intraparenchymal ICP Monitoring: Outcome Analysis.
+CIT 30457439 R. H....  -1 i 2019     2  0  36 au[05](Rosette J Chakkalakal) Gestational Diabetes and Maternal Weight Management During and After Pregnancy.
+CIT 29921160 R. ..M..  -1 i 2019     2  0  40 au[04](Laura B Balzer) A new approach to hierarchical data analysis: Targeted maximum likelihood estimation for the causal effect of a cluster-level exposure.
+CIT 30974070 R. H....  -1 i 2019     2  0  27 au[06](D H Ha) Fluoridated Water Modifies the Effect of Breastfeeding on Dental Caries.
+CIT 31104612 R. HA...  -1 i 2019     2  0  30 au[04](Joshua Kaminsky) Perfect counterfactuals for epidemic simulations.
+CIT 31111944 R. H....  -1 i 2019     2  0  37 au[05](Ya-Hui Yu) Comparison of Parametric and Nonparametric Estimators for the Association Between Incident Prepregnancy Obesity and Stillbirth in a Population-Based Cohort Study.
+CIT 30640216 R. H....  -1 i 2019     1  0  27 au[05](Jacqueline E Rudolph) Estimating Human Immunodeficiency Virus (HIV) Prevention Effects in Low-incidence Settings.
+CIT 31512926 R. .....  -1 i 2019     1  0  48 au[15](Felicitas Kuehne) Guidance for a causal comparative effectiveness analysis emulating a target trial based on big real world evidence: when to start statin treatment.
+CIT 31023227 R. H....  -1 i 2019     1  0  40 au[09](Itai M Magodoro) Female sex and cardiovascular disease risk in rural Uganda: a cross-sectional, population-based study.
+CIT 31795945 R. H....  -1 i 2019     1  0  39 au[06](Myra B McGuinness) A comparison of methods to estimate the survivor average causal effect in the presence of missing data: a simulation study.
+CIT 30606765 .. .....  -1 i 2019     1  0  26 au[12](Frank van Leth) The Tuberculosis Network European Trials group (TBnet) ERS Clinical Research Collaboration: addressing drug-resistant tuberculosis through European cooperation.
+CIT 31758643 R. H....  -1 i 2019     1  0  22 au[03](Koryu Sato) Rotating savings and credit association, its members' diversity, and higher-level functional capacity: A 3-year prospective study from the Japan Gerontological Evaluation Study.
+CIT 31435960 R. H....  -1 i 2019     1  0  44 au[28](Alexandros A Polymeris) Intravenous thrombolysis for suspected ischemic stroke with seizure at onset.
+CIT 30811344 R. ..M..  -1 i 2019     1  0  21 au[06](Linh Tran) Double Robust Efficient Estimators of Longitudinal Treatment Effects: Comparative Performance in Simulations and a Case Study.
+CIT 30908645 R. H....  -1 i 2019     1  0  45 au[06](Anderson Ribeiro da Silva) Birth weight, verbal cognition in early adolescence, and lexical and reading skills in late adolescence: a formal mediation analysis using a potential outcomes approach.
+CIT 30810890 R. H....  -1 i 2019     1  0  23 au[10](Rurina Watanuki) Optimal use of anthracycline-free perioperative chemotherapy in HER2-positive breast cancer patients.
+CIT 30834430 R. H....  -1 i 2019     1  0  10 au[04](Alexander Breskin) Using Bounds to Compare the Strength of Exchangeability Assumptions for Internal and External Validity.
+CIT 31867648 R. H....  -1 i 2019     1  0  14 au[09](Joseph S Koopmeiners) The Importance of Estimating Causal Effects for Evaluating a Nicotine Standard for Cigarettes.
+CIT 30935304 .. H....  -1 i 2019     1  0  18 au[02](Allison E Aiello) Introduction to the Symposium: Causal Inference and Public Health.
+CIT 30458208 R. H.M..  -1 i 2019     1  0  24 au[07](Romain Neugebauer) Comparative effectiveness of treatment of actinic keratosis with topical fluorouracil and imiquimod in the prevention of keratinocyte carcinoma: A cohort study.
+CIT 30187332 R. H....  -1 i 2019     0  0  45 au[10](Douglas S Swords) Lymph Node Ratio in Pancreatic Adenocarcinoma After Preoperative Chemotherapy vs. Preoperative Chemoradiation and Its Utility in Decisions About Postoperative Chemotherapy.
+CIT 30632830 R. H....  -1 i 2019     0  0  35 au[07](Mark D Danese) Treatment patterns, survival, and hospitalization in adult patients with acute lymphoblastic leukemia: an observational cohort study using SEER Medicare data.
+CIT 29451089 R. .....  -1 i 2019     0  0  14 au[02](Zach Branson) Randomization-based inference for Bernoulli trial experiments and implications for observational studies.
+CIT 30325772 R. H....  -1 i 2019     0  0  48 au[04](Catherine R Lesko) Death after diagnosis of noncommunicable disease comorbid conditions, stratified by injection drug use.
+CIT 31538135 R. H....  -1 i 2019     0  0  34 au[07](Yara Abu Awad) Change in PM<sub>2.5</sub> exposure and mortality among Medicare recipients: Combining a semi-randomized approach and inverse probability weights in a low exposure population.
+CIT 31220937 R. H....  -1 i 2019     0  0  38 au[03](Matthew J Valente) A Viable Alternative When Propensity Scores Fail: Evaluation of Inverse Propensity Weighting and Sequential G-Estimation in a Two-Wave Mediation Model.
+CIT 31390108 R. H.M..  -1 i 2019     0  0  33 au[11](Bernhard Kerschberger) Successful expansion of community-based drug-resistant TB care in rural Eswatini - a retrospective cohort study.
+CIT 31603028 R. H....  -1 i 2019     0  0  20 au[04](Bo Chen) Causal variance decompositions for institutional comparisons in healthcare.
+CIT 30584028 R. H....  -1 i 2019     0  0  28 au[13](Itai M Magodoro) Population Prevalence and Correlates of Prolonged QT Interval: Cross-Sectional, Population-Based Study From Rural Uganda.
+CIT 31440323 R. H....  -1 i 2019     0  0  18 au[04](Ying-Qi Zhao) Robustifying Trial-Derived Optimal Treatment Rules for A Target Population.
+CIT 31132157 R. H....  -1 i 2019     0  0  35 au[01](Richard J Smith) Living with observational data in biological anthropology.
+CIT 31251839 R. H....  -1 i 2019     0  0  31 au[10](Franca Rusconi) Perinatal maternal mental health is associated with both infections and wheezing in early childhood.
+CIT 31517670 R. .....  -1 i 2019     0  0  16 au[03](Issa J Dahabreh) On the Relation Between G-formula and Inverse Probability Weighting Estimators for Generalizing Trial Results.
+CIT 31537568 R. H.M..  -1 i 2019     0  0  30 au[03](Andreas Jensen) Early childhood vaccination and subsequent mortality or morbidity: are observational studies hampered by residual confounding? A Danish register-based cohort study.
+CIT 31144577 R. H....  -1 i 2019     0  0  28 au[08](Fabio Pellegrini) A proof-of-concept application of a novel scoring approach for personalized medicine in multiple sclerosis.
+CIT 32051926 R. H....  -1 i 2019     0  0  45 au[08](Youssef Oulhote) Joint and independent neurotoxic effects of early life exposures to a chemical mixture: A multi-pollutant approach combining ensemble learning and g-computation.
+CIT 31609929 R. H.M..  -1 i 2019     0  0  41 au[24](Sara Lodi) Effectiveness of Transmitted Drug Resistance Testing Before Initiation of Antiretroviral Therapy in HIV-Positive Individuals.
+CIT 30863592 R. H....  -1 i 2019     0  0  19 au[03](Ruoyu Zhang) Refined risk stratification for thoracoscopic lobectomy or segmentectomy.
+CIT 30484904 R. H....  -1 i 2019     0  0  24 au[03](Brian Neelon) A multivariate discrete failure time model for the analysis of infant motor development.
+CIT 31436461 R. H....  -1 i 2019     0  0  24 au[01](Seth J Prins) Criminogenic or criminalized? Testing an assumption for expanding criminogenic risk assessment.
+CIT 30838408 .. .....  -1 i 2019     0  0   5 au[01](Andrew N B Weil) Comment on: Comparative effectiveness of abatacept, rituximab, tocilizumab and TNFi biologics in RA: results from a nationwide Swedish register.
+CIT 31186020 R. H..C.  -1 i 2019     0  0  20 au[04](Michela Baccini) Comparison of two statistical indicators in communicating epidemiological results to the population: a randomized study in a high environmental risk area of Italy.
+CIT 30760066 R. ..M..  -1 i 2019     0  0  12 au[01](Yasutaka Chiba) Inference on covariate effect types for treatment effectiveness in a randomized trial with a binary outcome.
+CIT 25593140 R. H...c  98 4 2015   103  3 110 au[04](Ambika Satija) Understanding nutritional epidemiology and its role in policy.
+CIT 18682488 R. H.M.c 100 4 2008   870 84  36 au[02](Stephen R Cole) Constructing inverse probability weights for marginal structural models.
+CIT 30458506 RP H....  92 3 2018    10  0  40 au[09](George L Jackson) Intermediate Diabetes Outcomes in Patients Managed by Physicians, Nurse Practitioners, or Physician Assistants: A Cohort Study.
+CIT 29228138 RP H....  92 3 2018     8  0  21 au[06](Ruoyu Zhang) American Society of Anesthesiologists physical status facilitates risk stratification of elderly patients undergoing thoracoscopic lobectomy.
+CIT 29341103 .P H....  91 3 2018    10  0   8 au[01](Penelope P Howards) An overview of confounding. Part 1: the concept and how to address it.
+CIT 30931771 RP H....  90 3 2018     6  0  36 au[06](L G Do) Race- and Income-Related Inequalities in Oral Health in Australian Children by Fluoridation Status.
+CIT 29858466 .P H....  88 3 2018     8  0  53 au[07](Ding Ding) Moving to an active lifestyle? A systematic review of the effects of residential relocation on walking, physical activity and travel behaviour.
+CIT 29203418 RP H..Cc  85 3 2018     7  2  22 au[05](Goodarz Danaei) Electronic medical records can be used to emulate target trials of sustained treatment strategies.
+CIT 28346267 .. H...c  97 3 2017    47  2  35 au[06](Catherine R Lesko) Generalizing Study Results: A Potential Outcomes Perspective.
+CIT 27941068 R. H...c  94 3 2017    28  1  29 au[02](Megan S Schuler) Targeted Maximum Likelihood Estimation for Causal Inference in Observational Studies.
+CIT 28535275 R. H...c  92 3 2017    32  4  15 au[05](Daniel Westreich) Transportability of Trial Results Using Inverse Odds of Sampling Weights.
+CIT 28058565 R. H....  92 3 2017    20  0  47 au[09](Sarah Treves-Kagan) Gender, HIV Testing and Stigma: The Association of HIV Testing Behaviors and Community-Level and Individual-Level Stigma in Rural South Africa Differ for Men and Women.
+CIT 28768298 R. H...c  87 3 2017    18  1  29 au[06](Maggie Makar) Estimating the Causal Effect of Low Levels of Fine Particulate Matter on Hospitalization.
+CIT 28712046 .. H....  87 3 2017    14  0  39 au[07](Daniel M Brown) The Healthy Worker Survivor Effect: Target Parameters and Target Populations.
+CIT 28273693 R. H....  86 3 2017    14  0  26 au[02](Susan M Shortreed) Outcome-adaptive lasso: Variable selection for causal inference.
+CIT 27470302 R. H....  84 3 2017    13  0  32 au[08](Nafeesa N Dhalwani) Association Between Lifestyle Factors and the Incidence of Multimorbidity in an Older English Population.
+CIT 26646120 R. H...c  93 3 2016    34  1  18 au[14](Tina Raine-Bennett) Occult Uterine Sarcoma and Leiomyosarcoma: Incidence of and Survival Associated With Morcellation.
+CIT 26761387 R. H...c  87 3 2016    20  3  51 au[06](Hopin Lee) Does changing pain-related knowledge reduce pain and improve function through changes in catastrophizing?
+CIT 25719950 R. H...c  94 3 2015    50  4  24 au[11](Colleen F Kelley) The Effect of High Rates of Bacterial Sexually Transmitted Infections on HIV Incidence in a Cohort of Black and White Men Who Have Sex with Men in Atlanta, Georgia.
+CIT 25536456 .. H....  93 3 2015    39  0  51 au[04](Jessie P Buckley) Evolving methods for inference in the presence of healthy worker survivor bias.
+CIT 24331247 R. HA...  90 3 2014    50  0  29 au[06](Carolina Batis) Longitudinal analysis of dietary patterns in Chinese adults from 1991 to 2009.
+CIT 25140837 R. H...c  88 3 2014    47  3  29 au[05](Alexander P Keil) The parametric g-formula for time-to-event data: intuition and a worked example.
+CIT 24636616 R. H...c  88 3 2014    26  1  40 au[03](Benjamin W Chaffee) Association of long-duration breastfeeding and dental caries estimated with marginal structural models.
+CIT 21908419 R. H...c  87 3 2014    34  2  20 au[03](Jeffrey M Albert) Estimating overall exposure effects for zero-inflated regression models with application to dental caries.
+CIT 24475279 R. H.M.c  86 3 2014    47  6  51 au[05](Jason Y Y Wong) The relationship between inflammatory biomarkers and telomere length in an occupational prospective cohort study.
+CIT 24889820 .. H...c  86 3 2014    42  8  55 au[02](Elizabeth J Williamson) Introduction to propensity scores.
+CIT 24573538 R. H...c  85 3 2014    38  2  55 au[01](Daniel Westreich) From exposures to population interventions: pregnancy and response to HIV therapy.
+CIT 24114884 R. H...c  85 3 2014    32  5  22 au[03](Elizabeth J Williamson) Variance reduction in randomised trials by inverse probability weighting using the propensity score.
+CIT 23608528 R. H...c  91 3 2013    59  3  16 au[06](Randi E Berkowitz) Project ReEngineered Discharge (RED) lowers hospital readmissions of patients discharged from a skilled nursing facility.
+CIT 22016461 R. H...c  90 3 2013    68 11  36 au[05](Goodarz Danaei) Observational data for comparative effectiveness research: an emulation of randomised trials of statins and primary prevention of coronary heart disease.
+CIT 22767342 R. H...c  90 3 2012    62  7  22 au[11](Becky L Genberg) Patterns of antiretroviral therapy adherence and impact on HIV RNA among patients in North America.
+CIT 21052008 R. H...c  96 3 2011   139  6  22 au[02](Tyler J Vanderweele) Bias formulas for sensitivity analysis of unmeasured confounding for general outcomes, treatments, and confounders.
+CIT 21385832 R. H...c  95 3 2011   123 17  15 au[06](Michele Jonsson Funk) Doubly robust estimation of causal effects.
+CIT 21059807 .. H...c  94 3 2011   110  7  97 au[04](Katherine M Flegal) Reverse causation and illness-related weight loss in observational studies of body weight and mortality.
+CIT 21415029 R. H...c  93 3 2011    89  2  24 au[03](Jonathan M Snowden) Implementation of G-computation on a simulated data set: demonstration of a causal inference technique.
+CIT 21627630 R. H...c  91 3 2011    78  5   7 au[02](Tyler J VanderWeele) A new criterion for confounder selection.
+CIT 21351315 R. ....c  87 3 2011    56  4  27 au[05](Daniel Westreich) The role of the c-statistic in variable selection for propensity score models.
+CIT 20716704 R. H...c  97 3 2010   188 17  24 au[04](Til Stürmer) Treatment effects in the presence of unmeasured confounding: dealing with observations in the tails of the propensity score distribution--a simulation study.
+CIT 20139125 .. H...c  95 3 2010   126  4  11 au[02](Daniel Westreich) Invited commentary: positivity in practice.
+CIT 20547574 R. H...c  94 3 2010   120 15  41 au[02](Stephen R Cole) Generalizing evidence from randomized clinical trials to target populations: The ACTG 320 trial.
+CIT 20139129 R. H...c  92 3 2010    76  1  28 au[03](Lynne C Messer) Effects of socioeconomic and racial residential segregation on preterm birth: a cautionary tale of structural confounding.
+CIT 19234395 R. ....c  95 3 2009   128  2  14 au[02](Stephen R Cole) The consistency statement in causal inference: a definition or an assumption?
+CIT 19270051 R. H...c  90 3 2009    87  4  34 au[03](Jennifer Ahern) Estimating the effects of potential public health interventions on population disease burden: a step-by-step illustration of causal inference methods.
+CIT 18695657 R. H...c  94 3 2008   142  2   8 au[02](M A Hernán) Does obesity shorten life? The importance of well-defined interventions to answer causal questions.
+CIT 29281040 RP H....  77 2 2018     7  0  25 au[07](Eric C Leas) Effectiveness of Pharmaceutical Smoking Cessation Aids in a Nationally Representative Cohort of American Smokers.
+CIT 28605411 RP H....  74 2 2018     6  0  13 au[04](Jeffrey A Boatman) Estimating causal effects from a randomized clinical trial when noncompliance is measured with error.
+CIT 29094807 RP H.M..  74 2 2018     5  0  52 au[08](W Aibibula) Food insecurity may lead to incomplete HIV viral suppression and less immune reconstitution among HIV/hepatitis C virus-coinfected people.
+CIT 29277731 RP H...c  72 2 2018     4  1  20 au[07](Romain Neugebauer) A real-world, community-based cohort study comparing the effectiveness of topical fluorouracil versus topical imiquimod for the treatment of actinic keratosis.
+CIT 29892693 RP H....  70 2 2018     5  0  20 au[05](Juan Merlo) General and specific contextual effects in multilevel regression analyses and their paradoxical relationship: A conceptual tutorial.
+CIT 28406674 RP H....  69 2 2018     5  0  17 au[12](Brandon J George) Randomization to randomization probability: Estimating treatment effects under actual conditions of use.
+CIT 28560811 RP H....  69 2 2018     5  0  27 au[04](Yi Zhang) Comparing the Effectiveness of Dynamic Treatment Strategies Using Electronic Health Records: An Application of the Parametric g-Formula to Anemia Management Strategies.
+CIT 29730665 RP H....  69 2 2018     4  0  41 au[09](Nina Steinemann) Associations between Dietary Patterns and Post-Bronchodilation Lung Function in the SAPALDIA Cohort.
+CIT 30080695 RP H....  69 2 2018     4  0  36 au[03](Elizabeth Mostofsky) Analysis of Observational Self-matched Data to Examine Acute Triggers of Outcome Events with Abrupt Onset.
+CIT 29390065 RP H....  68 2 2018     3  0  36 au[05](Zoe Aitken) Do material, psychosocial and behavioural factors mediate the relationship between disability acquisition and mental health? A sequential causal mediation analysis.
+CIT 30433840 RP H....  56 2 2018     3  0  86 au[01](Louis Anthony Cox) Modernizing the Bradford Hill criteria for assessing causal relationships in observational data.
+CIT 30056646 RP H....  53 2 2018     3  0  30 au[04](Ahmad Khosravi) Pre-hypertension and the risk of diabetes mellitus incidence using a marginal structural model in an Iranian prospective cohort study.
+CIT 29289944 RP H....  51 2 2018     2  0  19 au[02](Marcel Zwahlen) Causal inference from experiment and observation.
+CIT 29277550 .P H.M..  50 2 2018     3  0  66 au[01](Leonelo E Bautista) Maternal Zika virus infection and newborn microcephaly-an analysis of the epidemiological evidence.
+CIT 29523081 RP H....  44 2 2018     3  0  36 au[05](Keri L Calkins) An application of restricted mean survival time in a competing risks setting: comparing time to ART initiation by injection drug use.
+CIT 29094375 RP H....  44 2 2018     2  0  29 au[02](Mireille E Schnitzer) Collaborative targeted learning using regression shrinkage.
+CIT 29732896 .P H....  42 2 2018     4  0  97 au[08](Holly Janes) Weighing the Evidence of Efficacy of Oral PrEP for HIV Prevention in Women in Southern Africa.
+CIT 29584868 RP H.M.c  41 2 2018     3  1  29 au[08](Catherine E Oldenburg) Antiretroviral Therapy and Mortality in Rural South Africa: A Comparison of Causal Modeling Approaches.
+CIT 29068841 RP H....  39 2 2018     3  0  17 au[04](Jonathan S Schildcrout) Outcome-related, Auxiliary Variable Sampling Designs for Longitudinal Binary Data.
+CIT 30109713 RP H....  39 2 2018     2  0  12 au[03](Jeffrey A Boatman) Efficiency and robustness of causal effect estimators when noncompliance is measured with error.
+CIT 29654822 .P H....  38 2 2018     3  0  61 au[03](Catherine R Lesko) Considerations when assessing heterogeneity of treatment effect in patient-centered outcomes research.
+CIT 30386717 RP .....  36 2 2018     2  0  48 au[02](Bryan Lau) Missingness in the Setting of Competing Risks: from missing values to missing potential outcomes.
+CIT 29621835 RP H....  31 2 2018     2  0  32 au[01](Eric J Daza) Causal Analysis of Self-tracked Time Series Data Using a Counterfactual Framework for N-of-1 Trials.
+CIT 29334550 RP H.M..  30 2 2018     1  0  57 au[17](Sarah J Willis) Chronic hepatitis C virus infection and subsequent HIV viral load among women with HIV initiating antiretroviral therapy.
+CIT 29742292 RP H....  26 2 2018     2  0  36 au[07](François Goldwasser) Timing of palliative care needs reporting and aggressiveness of care near the end of life in metastatic lung cancer: A national registry-based study.
+CIT 29922613 RP H....  26 2 2018     1  0  29 au[04](Amir Almasi-Hashiani) Causal Effect of Donor Source on Survival of Renal Transplantation Using Marginal Structural Models.
+CIT 30046707 RP H....  21 2 2018     2  0  28 au[09](Jeffrey S Berger) Clinical outcomes of prolonged anticoagulation with rivaroxaban after unprovoked venous thromboembolism.
+CIT 28151746 R. H...c  84 2 2017    17  1  19 au[07](Kazuki Yoshida) Matching Weights to Simultaneously Compare Three Treatment Groups: Comparison to Three-way Matching.
+CIT 29349257 R. H....  83 2 2017    12  0  87 au[05](Juan Merlo) The tyranny of the averages and the indiscriminate use of risk factors in public health: The case of coronary heart disease.
+CIT 27748680 R. H....  82 2 2017    12  0  37 au[02](Catherine R Lesko) Bias Due to Confounders for the Exposure-Competing Risk Relationship.
+CIT 28823925 R. H....  80 2 2017     9  0  24 au[15](William J Heerman) Recruitment methods for survey research: Findings from the Mid-South Clinical Data Research Network.
+CIT 28069969 R. H....  79 2 2017     8  0  24 au[05](Erika Garcia) Assessment of the healthy worker survivor effect in cancer studies of the United Autoworkers-General Motors cohort.
+CIT 27999171 R. H....  74 2 2017    12  0  41 au[13](Zhen Li) Cured meat intake is associated with worsening asthma symptoms.
+CIT 28356782 R. H....  74 2 2017     8  0  33 au[10](Anne Burden) An evaluation of exact matching and propensity score methods as applied in a comparative effectiveness study of inhaled corticosteroids in asthma.
+CIT 28384840 R. H....  68 2 2017     8  0  21 au[03](Per K Andersen) Causal inference in survival analysis using pseudo-observations.
+CIT 28282339 .. H....  66 2 2017     8  0  42 au[01](Daniel Westreich) From Patients to Policy: Population Intervention Effects in Epidemiology.
+CIT 28077142 R. H...c  66 2 2017     8  2  43 au[06](Maria C Haller) Steroid withdrawal after renal transplantation: a retrospective cohort study.
+CIT 28334637 R. H...c  64 2 2017     7  1  49 au[10](Olga Lamacchia) On the non-linear association between serum uric acid levels and all-cause mortality rate in patients with type 2 diabetes mellitus.
+CIT 28108872 R. H....  62 2 2017     6  0  57 au[06](Stephen J Mooney) Neighborhood Disorder and Physical Activity among Older Adults: A Longitudinal Study.
+CIT 28408854 R. H....  61 2 2017     7  0  50 au[05](Johnny Kahlert) Control of confounding in the analysis phase - an overview for clinicians.
+CIT 28338913 R. H....  57 2 2017     6  0  20 au[03](Jessica Kasza) Assessing the impact of unmeasured confounding for binary outcomes using confounding functions.
+CIT 25006032 R. H....  56 2 2017     5  0  18 au[03](Travis M Loux) A comparison of marginal odds ratio estimators.
+CIT 29399433 .. H....  50 2 2017     5  0  62 au[06](Susan E Andrade) Administrative Claims Data Versus Augmented Pregnancy Data for the Study of Pharmaceutical Treatments in Pregnancy.
+CIT 29456922 R. .....  50 2 2017     5  0  92 au[03](John W Jackson) Propensity Scores in Pharmacoepidemiology: Beyond the Horizon.
+CIT 28068905 R. H...c  48 2 2017     5  1  15 au[03](Aolin Wang) G-computation of average treatment effects on the treated and the untreated.
+CIT 27902507 R. H..C.  48 2 2017     4  0  49 au[14](Daniel Westreich) Smoking, HIV, and risk of pregnancy loss.
+CIT 27913975 R. HA...  42 2 2017     4  0  15 au[08](Brian R Lee) Clinical Impact of an Antibiotic Stewardship Program at a Children's Hospital.
+CIT 28386994 R. H....  42 2 2017     4  0  16 au[02](Lawrence C McCandless) A comparison of Bayesian and Monte Carlo sensitivity analysis for unmeasured confounding.
+CIT 29254710 R. .A...  29 2 2017     1  0  46 au[10](Denis Haine) Marginal structural Cox model to estimate the causal effect of clinical mastitis on Québec dairy cow culling risk.
+CIT 28579134 R. H....  25 2 2017     2  0  20 au[02](Yusuke Okubo) The impact of obesity on pediatric inpatients with urinary tract infections in the United States.
+CIT 28865835 .. H....  24 2 2017     1  0   5 au[01](Anwar T Merchant) Low Bone Mineral Density Based on Metacarpal Cortical Bone Area May Predict Tooth Loss in Older Men.
+CIT 28365831 R. H...c  22 2 2017     4  1  36 au[04](Anita Andreano) Adherence to guidelines and breast cancer patients survival: a population-based cohort study analyzed with a causal inference approach.
+CIT 28693428 R. H....  21 2 2017     2  0  24 au[06](Charlotte A Bolch) Inverse probability of treatment-weighted competing risks analysis: an application on long-term risk of urinary adverse events after prostate cancer treatments.
+CIT 28143599 R. H..C.  20 2 2017     1  0  23 au[09](E A Huhn) Decreased neonatal pain response after vaginal-operative delivery with Kiwi OmniCup versus metal ventouse.
+CIT 28939001 R. H....  18 2 2017     2  0  32 au[11](Catherine R Lesko) Mortality under plausible interventions on antiretroviral treatment and depression in HIV-infected women: an application of the parametric g-formula.
+CIT 28928189 R. H....  18 2 2017     1  0  23 au[04](Zoe Aitken) Disability acquisition and mental health: effect modification by demographic and socioeconomic characteristics using data from an Australian longitudinal study.
+CIT 26772869 R. H.M.c  83 2 2016    23  4  39 au[08](Catherine R Lesko) The effect of antiretroviral therapy on all-cause mortality, generalized to persons diagnosed with HIV in the USA, 2009-11.
+CIT 27237595 .. H....  77 2 2016    15  0  22 au[03](Sharon Schwartz) Causal identification: a charge of epidemiology in danger of marginalization.
+CIT 26559330 R. H...c  74 2 2016    15  1  33 au[06](S Reza Jafarzadeh) Quantifying the improvement in sepsis diagnosis, documentation, and coding: the marginal causal effect of year of hospitalization on sepsis diagnosis.
+CIT 26689629 R. H....  69 2 2016    12  0  23 au[04](Jonathan Platt) Unequal depression for equal work? How the wage gap explains gendered disparities in mood disorders.
+CIT 26303843 R. H....  68 2 2016     9  0  17 au[04](Machteld Varewyck) On the practice of ignoring center-patient interactions in evaluating hospital performance.
+CIT 26920440 R. H....  67 2 2016    11  0  49 au[03](Ilaria Montagni) Association of screen time with self-perceived attention problems and hyperactivity levels in French students: a cross-sectional study.
+CIT 27575286 R. H....  65 2 2016     9  0  64 au[02](M Maria Glymour) Causal inference challenges in social epidemiology: Bias, specificity, and imagination.
+CIT 26104119 R. H...c  62 2 2016    13  5  14 au[03](S Bailly) What's new in the quantification of causal effects from longitudinal cohort studies: a brief introduction to marginal structural models for intensivists.
+CIT 27500973 R. H...c  62 2 2016     8  1  17 au[03](Brian Neelon) Modeling zero-modified count and semicontinuous data in health services research part 2: case studies.
+CIT 26980444 R. H....  60 2 2016    10  0  26 au[07](K Ellicott Colson) Optimizing matching and analysis combinations for estimating causal effects.
+CIT 27012407 R. H..Cc  57 2 2016    13  1  42 au[05](Tara I Chang) Drug-Eluting Versus Bare-Metal Stents During PCI in Patients With End-Stage Renal Disease on Dialysis.
+CIT 26391158 R. H....  55 2 2016    13  0  35 au[06](Sabrina M Ebinger) Modest overall survival improvements from 1998 to 2009 in metastatic gastric cancer patients: a population-based SEER analysis.
+CIT 27681345 R. H....  41 2 2016     4  0  14 au[03](Xiangqun Ju) Estimating the effects of maternal education on child dental caries using marginal structural models: The Longitudinal Study of Indigenous Australian Children.
+CIT 26641972 R. H....  37 2 2016     7  0  44 au[05](Kristin A Linn) Addressing Confounding in Predictive Models with an Application to Neuroimaging.
+CIT 28736692 R. H.M..  36 2 2016     5  0  38 au[08](Linh Tran) Evaluating the Impact of a HIV Low-Risk Express Care Task-Shifting Program: A Case Study of the Targeted Learning Roadmap.
+CIT 27368116 R. H...c  36 2 2016     5  1  45 au[03](Alan M Rathbun) A Prospective Evaluation of the Effects of Prevalent Depressive Symptoms on Disease Activity in Rheumatoid Arthritis Patients Treated With Biologic Response Modifiers.
+CIT 27298736 R. H...c  31 2 2016     5  1  27 au[08](Elani Streja) Erythropoietin Dose and Mortality in Hemodialysis Patients: Marginal Structural Model to Examine Causality.
+CIT 26630249 R. H....  26 2 2016     3  0  36 au[05](Jessica Kasza) Dialysis modality, vascular access and mortality in end-stage kidney disease: A bi-national registry-based cohort study.
+CIT 27829371 R. H...c  24 2 2016     4  1  17 au[05](Annalisa Pezzi) Inverse probability weighting to estimate causal effect of a singular phase in a multiphase randomized clinical trial for multiple myeloma.
+CIT 26538357 R. H...c  22 2 2016     2  1  25 au[08](Julia J Löytved-Hardegg) Replacement of oxytocin bolus administration by infusion: influences on postpartum outcome.
+CIT 27067224 .. H....  21 2 2016     2  0  26 au[10](Jane McCusker) A randomized trial of a depression self-care toolkit with or without lay telephone coaching for primary care patients with chronic physical conditions.
+CIT 27445196 R. H....  16 2 2016     2  0  29 au[05](Jason Y Y Wong) Environmental tobacco smoke and risk of late-diagnosis incident fibroids in the Study of Women's Health across the Nation (SWAN).
+CIT 24966220 R. H...c  78 2 2015    23  4  27 au[08](Stephen R Cole) Estimation of the standardized risk difference and ratio in a competing risks framework: application to injection drug use and progression to AIDS after initiation of antiretroviral therapy.
+CIT 25921223 R. .....  77 2 2015    20  0  16 au[03](Jessie K Edwards) All your data are always missing: incorporating bias due to measurement error into the potential outcomes framework.
+CIT 26498223 R. H...c  71 2 2015    16  1  32 au[05](Jon Michael Gran) Causal inference in multi-state models-sickness absence and work for 1145 participants after work rehabilitation.
+CIT 26527240 R. H...c  68 2 2015    14  1  85 au[10](Alden L Gross) Predictors of Retest Effects in a Longitudinal Study of Cognitive Aging in a Diverse Community-Based Sample.
+CIT 25888416 R. H...c  66 2 2015    16  4  34 au[06](Adam S Vaughan) An application of propensity score weighting to quantify the causal effect of rectal sexually transmitted infections on incident HIV among men who have sex with men.
+CIT 26190760 R. H....  65 2 2015    14  0  37 au[21](R C Kessler) Occupational differences in US Army suicide rates.
+CIT 25601985 R. H....  64 2 2015    14  0  12 au[15](Jocelyn M Biagini Myers) Heterogeneity in asthma care in a statewide collaborative: the Ohio Pediatric Asthma Repository.
+CIT 26236571 R. ....c  62 2 2015    15  1  22 au[02](Mark J van der Laan) Targeted Learning of the Mean Outcome under an Optimal Dynamic Treatment Rule.
+CIT 26112690 R. H...c  62 2 2015    14  1  24 au[07](Richard Wyss) Matching on the disease risk score in comparative effectiveness research of new treatments.
+CIT 25834139 R. H...c  60 2 2015    12  1  29 au[05](Carmen Piernas) A dynamic panel model of the associations of sweetened beverage purchases with dietary quality and food-purchasing patterns.
+CIT 26003664 R. H...c  59 2 2015    10  5  26 au[10](Jane McCusker) A randomized trial of a depression self-care toolkit with or without lay telephone coaching for primary care patients with chronic physical conditions.
+CIT 25755672 R. H....  58 2 2015    11  0  28 au[04](Benjamin W Chaffee) Socioeconomic disadvantage in childhood as a predictor of excessive gestational weight gain and obesity in midlife adulthood.
+CIT 25868551 R. H....  56 2 2015    14  0  39 au[03](Leah J McGrath) Controlling Time-Dependent Confounding by Health Status and Frailty: Restriction Versus Statistical Adjustment.
+CIT 25677103 R. H....  55 2 2015     9  0  11 au[04](Olli Saarela) On Bayesian estimation of marginal structural models.
+CIT 26537707 R. H....  53 2 2015    11  0  31 au[02](Aolin Wang) G-computation demonstration in causal mediation analysis.
+CIT 25918184 R. H..C.  48 2 2015    11  0  26 au[06](Emmanuelle Kesse-Guyot) Evidence of a cumulative effect of cardiometabolic disorders at midlife and subsequent cognitive function.
+CIT 26110432 R. H...c  44 2 2015     9  1  45 au[01](Bochen Cao) Estimating the Effects of Obesity and Weight Change on Mortality Using a Dynamic Causal Model.
+CIT 24894825 .. H....  44 2 2015     8  0  11 au[02](William Dana Flanders) Summary of relationships between exchangeability, biasing paths and bias.
+CIT 26210611 R. H....  36 2 2015     7  0  32 au[06](Daniel Westreich) Imputation approaches for potential outcomes in causal inference.
+CIT 26275176 R. H..C.  34 2 2015     6  0  19 au[02](Tomohiro Shinozaki) Brief Report: Doubly Robust Estimation of Standardized Risk Difference and Ratio in the Exposed Population.
+CIT 26002968 R. H....  26 2 2015     5  0  31 au[05](Stephanie A Kovalchik) Neighbourhood racial/ethnic composition and segregation and trajectories of cognitive decline among US older adults.
+CIT 26472109 R. H....  24 2 2015     4  0  19 au[03](Peter C Austin) Statistical power in parallel group point exposure studies with time-to-event outcomes: an empirical comparison of the performance of randomized controlled trials and the inverse probability of treatment weighting (IPTW) approach.
+CIT 24885129 R. H..Cc  81 2 2014    22  1  24 au[10](Loc G Do) Common risk factor approach to address socioeconomic inequality in the oral health of preschool children--a prospective cohort study.
+CIT 24487212 R. H...c  80 2 2014    29  1  26 au[04](Ashley I Naimi) Constructing inverse probability weights for continuous exposures: a comparison of methods.
+CIT 24713881 .. H...c  79 2 2014    30  1  31 au[02](Maya L Petersen) Causal models and learning from data: integrating causal modeling and statistical estimation.
+CIT 24939980 R. H..Cc  68 2 2014    23  2  42 au[10](Mohammad Ehsanul Karim) Marginal structural Cox models for estimating the association between β-interferon exposure and disease progression in a multiple sclerosis cohort.
+CIT 24627998 R. H.M..  68 2 2014    21  0  47 au[04](Jason Y Y Wong) Cumulative PM(2.5) exposure and telomere length in workers exposed to welding fumes.
+CIT 24458364 .. HA..c  67 2 2014    22  3  56 au[04](Shibing Yang) Application of marginal structural models in pharmacoepidemiologic studies: a systematic review.
+CIT 25125691 R. H...c  67 2 2014    19  1  36 au[08](Andreas M Neophytou) Marginal structural models in occupational epidemiology: application in a study of ischemic heart disease incidence and PM2.5 in the US aluminum industry.
+CIT 23754682 R. H....  65 2 2014    17  0  30 au[04](Kara E Rudolph) Neighborhood disadvantage in context: the influence of urbanicity on the association between neighborhood disadvantage and adolescent emotional disorders.
+CIT 24487207 R. H....  64 2 2014    16  0  49 au[04](Ashley I Naimi) Estimating the effect of cumulative occupational asbestos exposure on time to lung cancer mortality: using structural nested failure-time models to account for healthy-worker survivor bias.
+CIT 24812420 R. H....  59 2 2014    13  0  15 au[04](Machteld Varewyck) On shrinkage and model extrapolation in the evaluation of clinical center performance.
+CIT 25370293 R. H.M.c  58 2 2014    13  3  36 au[07](Hee-Won Jung) Frailty status can predict further lean body mass decline in older adults.
+CIT 24535915 R. H...c  57 2 2014    16  1  50 au[03](Romain Neugebauer) Targeted learning in real-world comparative effectiveness research with time-varying interventions.
+CIT 24057925 R. H...c  54 2 2014    16  5  43 au[02](Adam J Olszewski) Comparative outcomes of rituximab-based systemic therapy and splenectomy in splenic marginal zone lymphoma.
+CIT 24616077 R. H.M.c  51 2 2014    17  1  61 au[06](Jason Y Y Wong) The association between global DNA methylation and telomere length in a longitudinal study of boilermakers.
+CIT 24113257 .. .....  42 2 2014     9  0 118 au[01](Wayne Martin) Making valid causal inferences from observational data.
+CIT 24372628 R. H...c  39 2 2014    10  1   8 au[03](J G van der Bom) Second-generation recombinant factor VIII and inhibitor risk: interpretation of RODIN study findings and implications for patients with haemophilia A.
+CIT 24276524 R. H....  37 2 2014     8  0  31 au[03](Nicolle M Gatto) An organizational schema for epidemiologic causal effects.
+CIT 24445244 R. H....  31 2 2014     6  0  21 au[03](Michael D Regier) The effect of error-in-confounders on the estimation of the causal parameter when using marginal structural models and inverse probability-of-treatment weights: a simulation study.
+CIT 25170096 R. H....  30 2 2014     6  0  29 au[10](Anouk T N van Diepen) The association between dialysis modality and the risk for dialysis technique and non-dialysis technique-related infections.
+CIT 23824930 R. H....  28 2 2014     7  0  19 au[05](Jeremy M G Taylor) Comparison of methods for estimating the effect of salvage therapy in prostate cancer when treatment is given by indication.
+CIT 24930132 R. H....  28 2 2014     4  0  14 au[02](Lekshmi Sasidharan) Propensity scores-potential outcomes framework to incorporate severity probabilities in the highway safety manual crash prediction algorithm.
+CIT 25336465 R. H...c  25 2 2014     8  2  36 au[06](Tara I Chang) Thienopyridine use after coronary stenting in low income patients enrolled in medicare part D receiving maintenance dialysis.
+CIT 24998933 R. H..C.  20 2 2014     6  0  43 au[02](Stephen M Amrock) Effect of increased leptin and C-reactive protein levels on mortality: results from the National Health and Nutrition Examination Survey.
+CIT 25484995 R. HA...  18 2 2014     4  0  16 au[03](Jessica K Barrett) Doubly Robust Estimation of Optimal Dynamic Treatment Regimes.
+CIT 25877067 R. H....  17 2 2014     4  0  24 au[11](Athina Papadopoulou) MRI characteristics of periaqueductal lesions in multiple sclerosis.
+CIT 23835501 R. H..Cc  82 2 2013    39  6  18 au[08](Supriya D Mehta) The long-term efficacy of medical male circumcision against HIV acquisition.
+CIT 23752258 R. H...c  77 2 2013    34  1  20 au[06](Sengwee Toh) Confounding adjustment in comparative effectiveness research conducted within distributed research networks.
+CIT 24022386 R. H...c  74 2 2013    32  1  25 au[02](Jay S Kaufman) Which of these things is not like the others?
+CIT 23324332 R. H....  70 2 2013    20  0  32 au[04](Kathleen E Wirth) How does sex trafficking increase the risk of HIV Infection? An observational study from Southern India.
+CIT 22749318 R. H....  69 2 2013    15  0  19 au[02](Lekshmi Sasidharan) Application of propensity scores and potential outcomes to estimate effectiveness of traffic safety countermeasures: Exploratory analysis using intersection lighting data.
+CIT 24166224 R. H...c  67 2 2013    24  1  41 au[05](Patrick B Ryan) Empirical performance of a new user cohort method: lessons for developing a risk identification and analysis system.
+CIT 22972662 R. H.M..  66 2 2013    20  0  42 au[05](Robert W Platt) An information criterion for marginal structural models.
+CIT 23337413 R. H..Cc  64 2 2013    18  3  10 au[19](Kate Leslie) Nitrous oxide and serious morbidity and mortality in the POISE trial.
+CIT 23137763 R. H....  64 2 2013    18  0  29 au[06](Juan Merlo) Revisiting causal neighborhood effects on individual ischemic heart disease risk: a quasi-experimental multilevel analysis among Swedish siblings.
+CIT 23010864 R. H....  64 2 2013    15  0  31 au[06](Jaime C Slaughter) Measuring dosage: a key factor when assessing the relationship between prenatal case management and birth outcomes.
+CIT 23683709 R. H...c  59 2 2013    16  1  30 au[05](Ashley I Naimi) Assessing the component associations of the healthy worker survivor bias: occupational asbestos exposure and lung cancer mortality.
+CIT 23822929 R. H...c  50 2 2013    19  1  14 au[09](Gowtham Adamane Rao) Angiotensin receptor blockers: are they related to lung cancer?
+CIT 23520489 R. H..Cc  38 2 2013    12  1  45 au[06](Daniel Westreich) Incident pregnancy and time to death or AIDS among HIV-positive women receiving antiretroviral therapy.
+CIT 23080538 R. H...c  36 2 2013    17  1  31 au[06](Roger M Harbord) Severity of bias of a simple estimator of the causal odds ratio in Mendelian randomization studies.
+CIT 23437039 R. HAM..  32 2 2013     9  0  80 au[21](Ariel L Rivas) Feedback-based, system-level properties of vertebrate-microbial interactions.
+CIT 23902658 R. H....  26 2 2013     7  0  43 au[04](Etsuji Suzuki) A counterfactual approach to bias and effect modification in terms of response types.
+CIT 23686462 R. H....  25 2 2013     9  0  27 au[08](Gowtham A Rao) Angiotensin receptor blockers and risk of prostate cancer among United States veterans.
+CIT 23084095 R. H....  23 2 2013     5  0  16 au[02](David E Clark) Inverse propensity weighting to adjust for bias in fatal crash samples.
+CIT 22495733 R. H.M.c  83 2 2012    49  5  29 au[08](Daniel Westreich) The parametric g-formula to estimate the effect of highly active antiretroviral therapy on incident AIDS or death.
+CIT 22324503 R. H...c  83 2 2012    40  1  40 au[08](Margaret A Adgent) Early-life soy exposure and age at menarche.
+CIT 22337108 R. H...c  83 2 2012    38  5  25 au[06](Sheri A Lippman) Findings from Encontros: a multilevel STI/HIV intervention to increase condom use, reduce STI, and change the social environment among sex workers in Brazil.
+CIT 22795359 R. H....  80 2 2012    35  0  61 au[03](Juan Merlo) Bringing the individual back to small-area variation studies: a multilevel analysis of all-cause mortality in Andalusia, Spain.
+CIT 23097257 R. H...c  78 2 2012    39  1  39 au[13](Xiangrong Kong) Assessment of changes in risk behaviors during 3 years of posttrial follow-up of male circumcision trial participants uncircumcised at trial closure in Rakai, Uganda.
+CIT 23139247 R. H....  74 2 2012    28  0  34 au[02](Fraser I Lewis) Revealing the complexity of health determinants in resource-poor settings.
+CIT 22340703 R. H.M.c  59 2 2012    21  1  33 au[10](Paula Braitstein) A clinician-nurse model to reduce early mortality and increase clinic retention among high-risk HIV-infected patients initiating combination antiretroviral treatment.
+CIT 22900837 R. H....  58 2 2012    15  0  27 au[13](V Frajzyngier) Factors influencing choice of surgical route of repair of genitourinary fistula, and the influence of route of repair on surgical outcomes: findings from a prospective cohort study.
+CIT 22781426 R. H...c  55 2 2012    18  2  39 au[03](Ophélia Godin) Body mass index, blood pressure, and risk of depression in the elderly: a marginal structural model.
+CIT 22552975 R. H...c  54 2 2012    20  3  34 au[03](Sengwee Toh) Analyzing partially missing confounder information in comparative effectiveness and safety research of therapeutics.
+CIT 23284983 R. H..C.  32 2 2012     9  0  40 au[07](Emmanuelle Kesse-Guyot) Alcohol consumption in midlife and cognitive performance assessed 13 years later in the SU.VI.MAX 2 cohort.
+CIT 22302074 R. H.M..  28 2 2012     9  0  35 au[07](Stephen R Cole) Marginal structural models for case-cohort study designs to estimate the association of antiretroviral therapy initiation with incident AIDS or death.
+CIT 22898556 R. H....  22 2 2012     6  0  49 au[11](Matthieu Resche-Rigon) Estimating the treatment effect from non-randomized studies: The example of reduced intensity conditioning allogeneic stem cell transplantation in hematological diseases.
+CIT 22086750 R. H....  20 2 2012     5  0  15 au[03](S Rosthøj) Estimation of dynamic treatment strategies for maintenance therapy of children with acute lymphoblastic leukaemia: an application of history-adjusted marginal structural models.
+CIT 22472125 R. ....c  19 2 2012     6  1  24 au[03](Sharon Schwartz) Extending the sufficient component cause model to describe the Stable Unit Treatment Value Assumption (SUTVA).
+CIT 21415028 .. H...c  68 2 2011    23  2  11 au[02](Stijn Vansteelandt) Invited commentary: G-computation--lost in translation?
+CIT 21747286 R. H....  54 2 2011    17  0  24 au[04](Ashley I Naimi) A comparison of methods to estimate the hazard ratio under conditions of time-varying confounding and nonpositivity.
+CIT 21829650 R. H...c  43 2 2011    17  1  43 au[06](Daniel Westreich) Pregnancy and virologic response to antiretroviral therapy in South Africa.
+CIT 20223785 R. H....  26 2 2011     9  0   9 au[01](Arvid Sjölander) Estimation of attributable fractions using inverse probability weighting.
+CIT 21948391 R. H....  24 2 2011     6  0  18 au[07](Jonathan S Schildcrout) Analyses of longitudinal, hospital clinical laboratory data with application to blood glucose concentrations.
+CIT 20726965 R. H....  17 2 2011    10  0  34 au[02](Tyler J VanderWeele) Tests for compositional epistasis under single interaction-parameter models.
+CIT 20093307 R. H...c  79 2 2010    41  2  45 au[10](Arijit Nandi) Neighborhood poverty and injection cessation in a sample of injection drug users.
+CIT 20139124 R. H...c  68 2 2010    40  5  37 au[08](Daniel Westreich) Time scale and adjusted survival curves for marginal structural cox models.
+CIT 19821028 R. H....  60 2 2010    27  0  30 au[03](Maarten Bekaert) Adjusting for time-varying confounding in the subdistribution analysis of a competing risk.
+CIT 20526200 R. H..Cc  59 2 2010    33  4  28 au[05](Sengwee Toh) Estimating absolute risks in the presence of nonadherence: an application to a follow-up study with baseline randomization.
+CIT 20019122 R. H...c  53 2 2010    24  2  23 au[09](Ouhong Wang) Relationship between epoetin alfa dose and mortality: findings from a marginal structural model.
+CIT 20213703 R. H....  47 2 2010    19  0  20 au[04](Susanne Stampf) Estimators and confidence intervals for the marginal odds ratio using logistic regression and propensity score stratification.
+CIT 20203259 R. H....  41 2 2010    15  0  17 au[03](Holly Janes) On quantifying the magnitude of confounding.
+CIT 20375927 R. H...c  37 2 2010    15  3  32 au[03](Sheri A Lippman) Inverse probability weighting in sexually transmitted infection/human immunodeficiency virus prevention research: methods for evaluating social and community interventions.
+CIT 20736245 R. H...c  28 2 2010    14  5  18 au[06](Brian C Healy) A method for evaluating treatment switching criteria in multiple sclerosis.
+CIT 20670221 R. H....  26 2 2010     7  0  44 au[06](Lyndsey F Watson) Modelling prior reproductive history to improve prediction of risk for very preterm birth.
+CIT 21170907 R. H...c  17 2 2010     6  1  17 au[05](Obioha C Ukoumunne) Confounder-adjusted estimates of the risk difference using propensity score-based weighting.
+CIT 18765504 R. H...c  82 2 2009    58  2  48 au[02](Joseph A 'Chris' Delaney) The case-crossover study design in pharmacoepidemiology.
+CIT 18619797 .. H...c  64 2 2009    35  4  23 au[03](R H H Groenwold) Quantitative assessment of unobserved confounding is mandatory in nonrandomized intervention studies.
+CIT 19279444 R. H.M.c  59 2 2009    31  2  28 au[09](Daniel Westreich) Effect of pulmonary tuberculosis on mortality in patients receiving HAART.
+CIT 19131566 R. H....  59 2 2009    29  0  18 au[06](Eilis J O'Reilly) Smoking and Parkinson's disease: using parental smoking as a proxy to explore causality.
+CIT 19875646 R. H...c  57 2 2009    32  2  33 au[04](Nancy R Cook) Mammographic screening and risk factors for breast cancer.
+CIT 20563313 R. H...c  54 2 2009    22  3  20 au[05](Elizabeth A Stuart) Using Non-experimental Data to Estimate Treatment Effects.
+CIT 19385733 R. H...c  53 2 2009    27  4  23 au[10](Daniel J Westreich) Tuberculosis treatment and risk of stavudine substitution in first-line antiretroviral therapy.
+CIT 20231914 R. H...c  64 2 2008    43 11  14 au[02](Sengwee Toh) Causal inference from longitudinal studies with baseline randomization.
+CIT 18254127 R. H...c  62 2 2008    31  4  22 au[03](Geneviève Lefebvre) Impact of mis-specification of the treatment model on estimates from a marginal structural model.
+CIT 18471655 .. H...c  39 2 2008    19  1  23 au[04](David Suarez) Marginal structural models might overcome confounding when analyzing multiple treatment effects in observational studies.
+CIT 18613263 .. H...c  25 2 2008    10  1   3 au[02](Andrew Forbes) Inverse probability weighted estimation of the marginal odds ratio: correspondence regarding 'The performance of different propensity score methods for estimating marginal odds ratios'.
+CIT 18378341 R. .A...  21 2 2008     7  0  75 au[01](Wayne Martin) Linking causal concepts, study design, analysis and inference in support of one epidemiology for population health.
+CIT 19018926 .. H....  20 2 2008     6  0  15 au[02](Ariel Linden) Improving participant selection in disease management programmes: insights gained from propensity score stratification.
+CIT 17879426 R. H...c  70 2 2007    39  3  25 au[03](Penelope P Howards) Potential confounding by exposure history and prior outcomes: an example from perinatal epidemiology.
+CIT 17909368 R. H....  42 2 2007    20  0  46 au[08](Matthew H Samore) A simulation-based evaluation of methods to estimate the impact of an adverse event on hospital length of stay.
+CIT 16736275 R. H...c  55 2 2006    30  1  23 au[06](Alvaro Alonso) Predictors of follow-up and assessment of selection bias from dropouts using inverse probability weighting in a cohort of university graduates.
+CIT 28583098 R. H..C.  16 1 2017     1  0  43 au[03](Ole Klungsøyr) Contours of a causal feedback mechanism between adaptive personality and psychosocial function in patients with personality disorders: a secondary analysis from a randomized clinical trial.
+CIT 29113389 R. H....  14 1 2017     2  0  27 au[09](Huan Song) Psychiatric morbidity and its impact on surgical outcomes for esophageal and gastric cancer patients: A nationwide cohort study.
+CIT 29161689 R. H....  11 1 2017     1  0  41 au[06](Ryo Kido) Interactive Effectiveness of Angiotensin-Converting Enzyme Inhibitors and Angiotensin Receptor Blockers or Their Combination on Survival of Hemodialysis Patients.
+CIT 28983065 R. H....   9 1 2017     1  0  32 au[08](Pasquale E Rummo) Understanding bias in relationships between the food environment and diet quality: the Coronary Artery Risk Development in Young Adults (CARDIA) study.
+CIT 27517730 R. H....   8 1 2017     1  0  36 au[04](Colin R Lenihan) Drug-Eluting Stents Versus Bare Metal Stents for Percutaneous Coronary Intervention in Kidney Transplant Recipients.
+CIT 28377487 R. H....   7 1 2017     1  0  38 au[13](Jason Y Wong) Sleep Duration across the Adult Lifecourse and Risk of Lung Cancer Mortality: A Cohort Study in Xuanwei, China.
+CIT 28682658 R. H....   3 1 2017     1  0  48 au[14](Andrew Edmonds) Effects of Health Insurance Interruption on Loss of Hypertension Control in Women With and Women Without HIV.
+CIT 27465526 R. H....  15 1 2016     2  0  15 au[05](Elizabeth T Rogawski) Brief Report: Estimating Differences and Ratios in Median Times to Event.
+CIT 27287301 R. H....  15 1 2016     1  0  23 au[03](W Dana Flanders) Conditions for valid estimation of causal effects on prevalence in cross-sectional and other studies.
+CIT 27231791 R. H....  14 1 2016     2  0  20 au[05](Andinet Woldemichael) Sequential Therapies and the Cost-Effectiveness of Treating Metastatic Colon Cancer Patients.
+CIT 27441626 R. H...c  13 1 2016     2  1  13 au[03](Hiromu Nishiuchi) Using a Marginal Structural Model to Design a Theory-Based Mass Media Campaign.
+CIT 27118376 .. H....   8 1 2016     1  0  16 au[01](Olaf Dammann) Causality, mosaics, and the health sciences.
+CIT 27311341 R. H....   6 1 2016     1  0  37 au[04](Man Ki Kwok) Grandparental education, parental education and adolescent blood pressure.
+CIT 26972925 R. H..C.   5 1 2016     1  0  25 au[06](Margaret Vernon) Deriving health utility values from a randomized, double-blind, placebo-controlled trial of siltuximab in subjects with multicentric Castleman's disease.
+CIT 25933346 R. H...c  14 1 2015     3  1  21 au[10](Alessandra Bandera) Evaluation of the Prognostic Value of Impaired Renal Function on Clinical Progression in a Large Cohort of HIV-Infected People Seen for Care in Italy.
+CIT 26349638 R. H....  13 1 2015     3  0  24 au[03](Jaya M Satagopan) Prognostic and Predictive Values and Statistical Interactions in the Era of Targeted Treatment.
+CIT 25883705 R. .....  12 1 2015     2  0  21 au[03](Moritz C Wyler von Ballmoos) Clinical research quo vadis? Trends in reporting of clinical trials and observational study designs over two decades.
+CIT 25586995 R. H....  10 1 2015     2  0  19 au[04](Amelia Maika) Effect on child cognitive function of increasing household expenditure in Indonesia: application of a marginal structural model and simulation of a cash transfer programme.
+CIT 27747765 R. H...c  10 1 2015     2  1  39 au[06](Melissa H Roberts) Severe COPD Exacerbation Risk and Long-Acting Bronchodilator Treatments: Comparison of Three Observational Data Analysis Methods.
+CIT 26356459 R. .....   8 1 2015     2  0  15 au[02](Mats Julius Stensrud) [What can we say about causality?].
+CIT 26376166 R. H....   8 1 2015     2  0  34 au[06](Laura Cacciani) Education and Mortality in the Rome Longitudinal Study.
+CIT 26097800 R. H....   4 1 2015     1  0   9 au[03](Ann M Weber) Assumption Trade-Offs When Choosing Identification Strategies for Pre-Post Treatment Effect Estimation: An Illustration of a Community-Based Intervention in Madagascar.
+CIT 24262932 .. H....  13 1 2014     2  0  60 au[06](Rachel Rosenthal) How to write a surgical clinical research protocol: literature review and practical guide.
+CIT 25088060 R. H....  11 1 2014     3  0  24 au[04](N van Geloven) Correcting for the dependent competing risk of treatment using inverse probability of censoring weighting and copulas in the estimation of natural conception chances.
+CIT 24886472 R. H...c  11 1 2014     3  1  25 au[04](Jo Røislien) Accounting for individual differences and timing of events: estimating the effect of treatment on criminal convictions in heroin users.
+CIT 25628644 R. H.M..   8 1 2014     3  0  38 au[04](Nianjun Liu) A statistical framework for testing the causal effects of fetal drive.
+CIT 25274221 .. H....   4 1 2014     1  0   2 au[01](A G Renehan) Impact of mechanical bowel preparation on survival after colonic cancer resection (Br J Surg 2014: 101: 1594-1600).
+CIT 25137220 R. H....   4 1 2014     1  0  19 au[04](Ashley I Naimi) Semiparametric adjusted exposure-response curves.
+CIT 24388738 R. H....   4 1 2014     1  0  49 au[04](O Dumas) [Causal analysis approaches in epidemiology].
+CIT 24636372 .. H....   4 1 2014     1  0   4 au[02](Naomi Aronson) Tools for health care decision making: observational studies, modeling studies, and network meta-analyses.
+CIT 23849154 R. H....  14 1 2013     4  0  17 au[02](Alan R Ellis) Approaches to inverse-probability-of-treatment--weighted estimation with concurrent treatments.
+CIT 23800038 R. H....  12 1 2013     5  0  19 au[03](Neal W Jorgensen) Using imputed pre-treatment cholesterol in a propensity score model to reduce confounding by indication: results from the multi-ethnic study of atherosclerosis.
+CIT 23215705 R. H....   8 1 2013     2  0  44 au[07](Roberta B Ness) Thoughts on the future of reproductive and perinatal epidemiology.
+CIT 23384636 R. H...c   7 1 2013     3  1  34 au[06](Romain Pirracchio) Continuous positive airway pressure (CPAP) may not reduce short-term mortality in cardiogenic pulmonary edema: a propensity-based analysis.
+CIT 23732743 .. .....   7 1 2013     2  0   3 au[02](Menglan Pang) Confounding of incidence density ratio in case-control studies.
+CIT 24237466 .. H....  11 1 2012     3  0  25 au[02](J Jaime Caro) Optimizing the design of pragmatic trials: key issues remain.
+CIT 22948811 .. H....   7 1 2012     2  0   9 au[01](R P Gale) Markov model of CLL transplants.
+CIT 22025809 R. HA...  12 1 2011     5  0  29 au[06](Weiwei Wang) Estimating the Causal Effect of Low Tidal Volume Ventilation on Survival in Patients with Acute Lung Injury.
+CIT 20675352 R. H....   8 1 2011     4  0  23 au[03](Matthew L Maciejewski) Synonyms in health services research methodology.
+CIT 21556287 R. H...c   7 1 2011     4  1  14 au[04](Ori M Stitelman) Targeted maximum likelihood estimation of effect modification parameters in survival analysis.
+CIT 20025082 R. H....   8 1 2010     3  0   8 au[02](Susan M Shortreed) Missing data in the exposure of interest and marginal structural models: a simulation study based on the Framingham Heart Study.
+CIT 20796296 .. .....   4 1 2010     1  0  21 au[03](Nicolle M Gatto) Author's response to Poole, C. Commentary: How Many Are Affected? A Real Limit of Epidemiology.
+CIT 19418232 R. .....  15 1 2009     6  0  23 au[03](Joseph A C Delaney) The impact of unmeasured baseline effect modification on estimates from an inverse probability of treatment weighted logistic model.
+CIT 19368704 R. H...c  14 1 2009     6  1  53 au[08](Karina E van Wonderen) Prediction and treatment of asthma in preschool children at risk: study design and baseline data of a prospective cohort study in general practice (ARCADE).
+CIT 19363354 .. .....  10 1 2009     5  0   3 au[01](Joseph W Hogan) Bringing causal models into the mainstream.
+CIT 19362275 R. H....  10 1 2009     4  0  13 au[03](Yasutaka Chiba) Marginal structural models for estimating effect modification.
+CIT 19797847 R. .....   4 1 2009     1  0  27 au[06](Etsuji Suzuki) [Causal inference in medicine part I--counterfactual models--an approach to clarifying discussions in research and applied public health].
+CIT 29862883 RP H....   0 0 2018     0  0  24 au[07](Clea C Sarnquist) The Effect of Combining Business Training, Microfinance, and Support Group Participation on Economic Status and Intimate Partner Violence in an Unplanned Settlement of Nairobi, Kenya.
+CIT 29076182 RP H....   0 0 2018     0  0  39 au[09](Stephen R Cole) Estimating multiple time-fixed treatment effects using a semi-Bayes semiparametric marginal structural Cox proportional hazards regression model.
+CIT 29390115 RP H....   0 0 2018     0  0   4 au[06](David B Richardson) Inverse Probability Weights for the Analysis of Polytomous Outcomes.
+CIT 30187911 .P H....   0 0 2018     0  0   8 au[02](Dan G Blazer) Cardiac Disease in Elderly Holocaust Survivors Who Live in Israel: A Case for Risk and Resilience.
+CIT 29205409 RP H....   0 0 2018     0  0  28 au[10](Florence Gillaizeau) Inverse probability weighting to control confounding in an illness-death model for interval-censored data.
+CIT 30221259 RP H....   0 0 2018     0  0  27 au[02](Matthew J Valente) SAS<sup>®</sup> Macros for Computing Causal Mediated Effects in Two- and Three-Wave Longitudinal Models.
+CIT 29992533 RP H....   0 0 2018     0  0  16 au[02](Jeffrey A Boatman) Estimating the causal effect of treatment regimes for organ transplantation.
+CIT 29280971 R. H....   0 0 2017     0  0  36 au[07](Ronald Herrera) Estimating the Causal Impact of Proximity to Gold and Copper Mines on Respiratory Diseases in Chilean Children: An Application of Targeted Maximum Likelihood Estimation.
+CIT 29268707 R. H..C.   0 0 2017     0  0  25 au[04](Stefan H Kreisel) Does being physically active prevent future disability in older people? Attenuated effects when taking time-dependent confounders into account.
+CIT 28065252 .. H....   0 0 2017     0  0  11 au[02](Philipp Schuetz) Additional Real-World Evidence Supporting Procalcitonin as an Effective Tool to Improve Antibiotic Management and Cost of the Critically Ill Patient.
+CIT 28276084 R. H....   0 0 2017     0  0  28 au[03](Emma Persson) Estimating marginal causal effects in a secondary analysis of case-control data.
+CIT 29281984 R. H....   0 0 2017     0  0  19 au[09](Yuanyuan Yu) The alarming problems of confounding equivalence using logistic regression models in the perspective of causal diagrams.
+CIT 30183950 .. H....   0 0 2017     0  0  12 au[01](Laura A Rodríguez-Villamizar) [Causal inference in epidemiology].
+CIT 28823358 .. .....   0 0 2017     0  0   5 au[03](Ling Yeung) Reply.
+CIT 30183949 .. H....   0 0 2017     0  0  10 au[01](Alvaro J Idrovo) [Social determination of the health-disease process: a critical look from the epidemiology of the 21st century].
+CIT 26827107 R. .A...   0 0 2016     0  0  33 au[08](A F Schmidt) Chemotherapy effectiveness and mortality prediction in surgically treated osteosarcoma dogs: A validation study.
+CIT 25907123 .. H.M..   0 0 2015     0  0  22 au[01]() Thienopyridine use after coronary stenting in low income patients enrolled in Medicare part D receiving maintenance dialysis.
+CIT 26316599 R. H....   0 0 2015     0  0  31 au[05](Shibing Yang) The Choice of Analytical Strategies in Inverse-Probability-of-Treatment-Weighted Analysis: A Simulation Study.
+CIT 22445080 .. H.M..   0 0 2012     0  0   4 au[05](S M Hermans) Comment on: predictors of immune recovery and the association with late mortality while on antiretroviral treatment in Cambodia.
+5 of 5 References downloaded:
+REF 14507605 R. H.M.c  95 3 2003   186  8   0 au[14](Stephen R Cole) Effect of highly active antiretroviral therapy on time to acquired immunodeficiency syndrome or death using marginal structural models.
+REF 11955534 R. H...c  99 4 2002   615 43  29 au[05](Hyon K Choi) Methotrexate and mortality in patients with rheumatoid arthritis: a prospective study.
+REF  4643670 R. ....c  -1 i 1972   123  1   0 au[01](O S Miettinen) Standardization of risk ratios.
+REF 15026432 R. H...c  94 3 2004   165  8   1 au[01](M A Hernán) A definition of causal effect for epidemiological research.
+REF 14569183 R. H...c  94 3 2003   188 15   9 au[02](Tosiya Sato) Marginal structural models as a tool for standardization.
 
