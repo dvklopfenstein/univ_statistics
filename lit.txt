@@ -1,4 +1,4 @@
-TOP 27281180 .. .....  67 2 2016    14  0   3 au[06](Robert E Kass) Ten Simple Rules for Effective Statistical Practice.
+TOP 27281180 .. .....  67 2 2016    14  0   3 au[06](Robert E Kass) Ten Simple Rules for Effective Statistical Practice. Kass_2016
 9 of 14 citations downloaded:
 CIT 31043463 R. H....  -1 i 2019     3  0  53 au[02](Pablo A Iturralde) Corrective Muscle Activity Reveals Subject-Specific Sensorimotor Recalibration.
 CIT 31815929 R. ..M..  -1 i 2019     0  0  18 au[03](Tuure Hameri) Statistical inference in ensemble modeling of cellular metabolism.
@@ -19,8 +19,8 @@ REF 25340653 .. H....  17 2 2014     6  0   0 au[03](Harriet Dashnow) Ten simple
 REF 24763340 .. .....  63 2 2014    25  0   5 au[15](Alyssa Goodman) Ten simple rules for the care and feeding of scientific data.
 REF 26961635 .. H...c  91 3 2016    34  1   1 au[01](Monya Baker) Statisticians issue warning over misuse of P values.
 
-TOP 23456667 .. H...c  94 3 2013    61 22   4 au[04](George Divine) Statistical grand rounds: a review of analysis and sample size calculation considerations for Wilcoxon tests.
-22 Cited by Clinical papers:
+TOP 23456667 .. H...c  94 3 2013    61 22   4 au[04](George Divine) Statistical grand rounds: a review of analysis and sample size calculation considerations for Wilcoxon tests. Divine_2013
+Cited by 22 Clinical papers:
 CLI 29683824 RP H..C.  89 3 2018     4  0  23 au[02](Jeffrey Leighton Tong) A Randomized Trial Comparing the Effect of Fiberoptic Selection and Guidance Versus Random Selection, Blind Insertion, and Direct Laryngoscopy, on the Incidence and Severity of Epistaxis After Nasotracheal Intubation.
 CLI 27007076 R. H..Cc  97 3 2016    34  7  38 au[11](Nabil M Elkassabany) The Risk of Falls After Total Knee Arthroplasty with the Use of a Femoral Nerve Block Versus an Adductor Canal Block: A Double-Blinded Randomized Controlled Study.
 CLI 26421810 R. H..Cc  88 3 2016    19  2  32 au[07](Lucas J Castro-Alves) Perioperative Duloxetine to Improve Postoperative Recovery After Abdominal Hysterectomy: A Prospective, Randomized, Double-Blinded, Placebo-Controlled Study.
@@ -111,7 +111,7 @@ REF 19890884 R. H....  19 2 2010     8  0   7 au[04](George Divine) Exemplary da
 REF 18618415 R. ....c  75 2 2008    52  3   9 au[02](Klaus Strassburger) Compatible simultaneous lower confidence bounds for the Holm procedure and other Bonferroni-based closed tests.
 REF 17487941 R. H...c  51 2 2008    25  7  10 au[03](Yan D Zhao) Sample size calculation for the Wilcoxon-Mann-Whitney test adjusting for ties.
 
-TOP 29189214 RP H....  90 3 2018     7  0  15 au[02](Thomas R Vetter) Unadjusted Bivariate Two-Group Comparisons: When Simpler is Better.
+TOP 29189214 RP H....  90 3 2018     7  0  15 au[02](Thomas R Vetter) Unadjusted Bivariate Two-Group Comparisons: When Simpler is Better. Vetter_2018
 4 of 7 citations downloaded:
 CIT 30531221 .. H....  -1 i 2019     2  0  58 au[02](Thomas R Vetter) Statistical Process Control: No Hits, No Runs, No Errors?
 CIT 31584913 R. .....  -1 i 2019     0  0   6 au[02](Patrick Schober) Two-Sample Unpaired t Tests in Medical Research.
@@ -137,8 +137,8 @@ REF 20418301 R. H..Cc  89 3 2010    57  6  27 au[09](Lynn M Rusy) Gabapentin use
 REF 27003917 R. H..Cc  84 2 2016    14  4  27 au[07](Bhiken I Naik) The Effect of Dexmedetomidine on Postoperative Opioid Consumption and Pain After Major Spine Surgery.
 REF 28817531 .. HA..c  90 3 2017    16  1  58 au[02](Thomas R Vetter) Bias, Confounding, and Interaction: Lions and Tigers, and Bears, Oh My!
 
-TOP 17057710 .. H.M.c  98 4 2006   344  9  23 au[17](Anil Potti) Genomic signatures to guide the use of chemotherapeutics.
-9 Cited by Clinical papers:
+TOP 17057710 .. H.M.c  98 4 2006   344  9  23 au[17](Anil Potti) Genomic signatures to guide the use of chemotherapeutics. Potti_2006
+Cited by 9 Clinical papers:
 CLI 18024211 .. H..Cc  89 3 2007   148  7  20 au[19](Hervé Bonnefoi) Validation of gene signatures that predict the response of breast cancer to neoadjuvant chemotherapy: a substudy of the EORTC 10994/BIG 00-01 clinical trial.
 CLI 17606971 R. H..Cc  89 3 2007   115 22  34 au[10](Neelima Denduluri) Phase II trial of ixabepilone, an epothilone B analog, in patients with metastatic breast cancer previously untreated with taxanes.
 CLI 21764131 R. H..C.  21 2 2011     9  0  20 au[05](Amber C Donahue) Multiplex ligation-dependent probe amplification for detection of chromosomal abnormalities in myelodysplastic syndrome and acute myeloid leukemia.
@@ -518,7 +518,7 @@ REF 11251004 R. H...c  95 3 2001   239 34  50 au[09](O S Breathnach) Twenty-two 
 REF 16115903 R. H...c 100 4 2005  1046 72   9 au[16](Roman Rouzier) Breast cancer molecular subtypes respond differently to preoperative chemotherapy.
 REF 16280040 R. HAM.c  68 2 2005    64  3  31 au[05](Manabu Emi) Targeted therapy against Bcl-2-related proteins in breast cancer cells.
 
-TOP 21217686 .. .....  45 2 2011    28  0   1 au[17](Anil Potti) Retraction: Genomic signatures to guide the use of chemotherapeutics.
+TOP 21217686 .. .....  45 2 2011    28  0   1 au[17](Anil Potti) Retraction: Genomic signatures to guide the use of chemotherapeutics. Potti_2011
 25 of 28 citations downloaded:
 CIT 32157489 R. .....  -1 i 2020     0  0  28 au[02](Giovanni Di Leo) Statistical significance: p value, 0.05 threshold, and applications to radiomics-reasons for a conservative approach.
 CIT 31921859 R. H....  -1 i 2019     0  0  19 au[03](Frank Emmert-Streib) Ensuring Quality Standards and Reproducible Research for Data Analysis Services in Oncology: A Cooperative Service Model.
@@ -551,8 +551,8 @@ CIT 28028763 R. H....   0 0 2017     0  0  18 au[09](Alexandra Martinez) Buildin
 1 of 1 References downloaded:
 REF 17057710 .. H.M.c  98 4 2006   344  9  23 au[17](Anil Potti) Genomic signatures to guide the use of chemotherapeutics.
 
-TOP 16790829 R. H...c  99 4 2006   358 18   5 au[02](Miguel A Hernán) Estimating causal effects from epidemiological data.
-18 Cited by Clinical papers:
+TOP 16790829 R. H...c  99 4 2006   358 18   5 au[02](Miguel A Hernán) Estimating causal effects from epidemiological data. Hernan_2006
+Cited by 18 Clinical papers:
 CLI 31186020 R. H..C.  -1 i 2019     0  0  20 au[04](Michela Baccini) Comparison of two statistical indicators in communicating epidemiological results to the population: a randomized study in a high environmental risk area of Italy.
 CLI 29203418 RP H..Cc  85 3 2018     7  2  22 au[05](Goodarz Danaei) Electronic medical records can be used to emulate target trials of sustained treatment strategies.
 CLI 27902507 R. H..C.  48 2 2017     4  0  49 au[14](Daniel Westreich) Smoking, HIV, and risk of pregnancy loss.
