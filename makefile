@@ -12,6 +12,10 @@ git_add:
 	git add doc/papers/*.pdf
 	git status
 
+.PHONY: url
+url:
+	cp url url.bib_bac; cp ~/url.bib url; vim url
+
 # ----------------------------------------------------------------------
 pylint:
 	@git status -uno | perl -ne 'if (/(\S+.py)/) {printf "echo $$1\npylint -r no %s\n", $$1}' | tee tmp_pylint
