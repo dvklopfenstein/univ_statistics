@@ -1,0 +1,94 @@
+
+PMID- 32681690
+OWN - NLM
+STAT- Publisher
+LR  - 20200718
+IS  - 1098-2272 (Electronic)
+IS  - 0741-0395 (Linking)
+DP  - 2020 Jul 18
+TI  - Statistical considerations for the analysis of massively parallel reporter assays
+      data.
+LID - 10.1002/gepi.22337 [doi]
+AB  - Noncoding DNA contains gene regulatory elements that alter gene expression, and
+      the function of these elements can be modified by genetic variation. Massively
+      parallel reporter assays (MPRA) enable high-throughput identification and
+      characterization of functional genetic variants, but the statistical methods to
+      identify allelic effects in MPRA data have not been fully developed. In this
+      study, we demonstrate how the baseline allelic imbalance in MPRA libraries can
+      produce biased results, and we propose a novel, nonparametric, adaptive testing
+      method that is robust to this bias. We compare the performance of this method
+      with other commonly used methods, and we demonstrate that our novel adaptive
+      method controls Type I error in a wide range of scenarios while maintaining
+      excellent power. We have implemented these tests along with routines for
+      simulating MPRA data in the Analysis Toolset for MPRA (@MPRA), an R package for
+      the design and analyses of MPRA experiments. It is publicly available at
+      http://github.com/redaq/atMPRA.
+CI  - (c) 2020 Wiley Periodicals LLC.
+FAU - Qiao, Dandi
+AU  - Qiao D
+AUID- ORCID: http://orcid.org/0000-0001-9450-205X
+AD  - Channing Division of Network Medicine, Department of Medicine, Brigham and
+      Women's Hospital and Harvard Medical School, Boston, Massachusetts.
+FAU - Zigler, Corwin M
+AU  - Zigler CM
+AD  - Department of Statistics and Data Sciences, Department of Women's Health,
+      University of Texas at Austin, Austin, Texas.
+FAU - Cho, Michael H
+AU  - Cho MH
+AD  - Channing Division of Network Medicine, Department of Medicine, Brigham and
+      Women's Hospital and Harvard Medical School, Boston, Massachusetts.
+AD  - Division of Pulmonary and Critical Care Medicine, Brigham and Women's Hospital
+      and Harvard Medical School, Boston, Massachusetts.
+FAU - Silverman, Edwin K
+AU  - Silverman EK
+AD  - Channing Division of Network Medicine, Department of Medicine, Brigham and
+      Women's Hospital and Harvard Medical School, Boston, Massachusetts.
+AD  - Division of Pulmonary and Critical Care Medicine, Brigham and Women's Hospital
+      and Harvard Medical School, Boston, Massachusetts.
+FAU - Zhou, Xiaobo
+AU  - Zhou X
+AD  - Channing Division of Network Medicine, Department of Medicine, Brigham and
+      Women's Hospital and Harvard Medical School, Boston, Massachusetts.
+FAU - Castaldi, Peter J
+AU  - Castaldi PJ
+AD  - Channing Division of Network Medicine, Department of Medicine, Brigham and
+      Women's Hospital and Harvard Medical School, Boston, Massachusetts.
+AD  - Division of General Internal Medicine and Primary Care, Brigham and Women's
+      Hospital and Harvard Medical School, Boston, Massachusetts.
+FAU - Laird, Nan H
+AU  - Laird NH
+AD  - Department of Biostatistics, Harvard School of Public Health, Boston,
+      Massachusetts.
+LA  - eng
+GR  - K01 HL129039/HL/NHLBI NIH HHS/United States
+GR  - R01 HL113264/HL/NHLBI NIH HHS/United States
+GR  - R01 HL124233/HL/NHLBI NIH HHS/United States
+GR  - R01 HL126596/HL/NHLBI NIH HHS/United States
+GR  - R01 HL135142/HL/NHLBI NIH HHS/United States
+GR  - R01 HL137927/HL/NHLBI NIH HHS/United States
+GR  - R01 HL147148/HL/NHLBI NIH HHS/United States
+GR  - R33 HL120794/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+DEP - 20200718
+PL  - United States
+TA  - Genet Epidemiol
+JT  - Genetic epidemiology
+JID - 8411723
+SB  - IM
+OTO - NOTNLM
+OT  - MPRA
+OT  - functional variants
+OT  - gene expression
+OT  - reporter assays
+EDAT- 2020/07/19 06:00
+MHDA- 2020/07/19 06:00
+CRDT- 2020/07/19 06:00
+PHST- 2020/02/06 00:00 [received]
+PHST- 2020/06/12 00:00 [revised]
+PHST- 2020/07/03 00:00 [accepted]
+PHST- 2020/07/19 06:00 [entrez]
+PHST- 2020/07/19 06:00 [pubmed]
+PHST- 2020/07/19 06:00 [medline]
+AID - 10.1002/gepi.22337 [doi]
+PST - aheadofprint
+SO  - Genet Epidemiol. 2020 Jul 18. doi: 10.1002/gepi.22337.

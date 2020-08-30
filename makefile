@@ -1,20 +1,36 @@
 
+.PHONY: pubs
+pubs:
+	git add pubs/\*.*
+	make git_add_hili
+	git status
 
-git_add:
-	git add pubs/bib/*.bib
-	git add pubs/meta/*.yaml
-	git add pubs/notes/*.txt
-	# git add pubs/doc/*.pdf
+git_add_hili:
+	#git add log/pmids/*.*
+	git add log/icite/*.*
 	git add log/exports/*.html
 	git add log/references/*.txt
 	git add src/papers/highlights/*.py
+	#git add ms/*.*
+	#git add ab/*.*
 	# git add src/papers/flashcards/*.py
-	git add doc/papers/*.pdf
-	git status
+	#git add doc/papers/\*.pdf
+	find log/pubmed -type f | perl -ne 'if ($$_ !~ /p\d+\.txt/) {print}' | xargs git add -f
+
+.PHONY: pap
+pap:
+	find src/papers/highlights -name \*.py
 
 .PHONY: url
 url:
-	cp url url.bib_bac; cp ~/url.bib url; vim url
+	url.py; cp url url.bib_bac; cp ~/url.bib.today url; vim url
+
+biblog:
+	gitlog --re=pubs/bib
+
+bibnot:
+	gitlog --re=pubs/notes
+
 
 # ----------------------------------------------------------------------
 pylint:

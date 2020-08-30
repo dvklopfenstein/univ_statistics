@@ -937,3 +937,5 @@ REF  4643670 R. ....c  -1 i 1972   123  1   0 au[01](O S Miettinen) Standardizat
 REF 15026432 R. H...c  94 3 2004   165  8   1 au[01](M A Hernán) A definition of causal effect for epidemiological research.
 REF 14569183 R. H...c  94 3 2003   188 15   9 au[02](Tosiya Sato) Marginal structural models as a tool for standardization.
 
+TOP 32681690 R. .....  -1 i 2020     0  0   0 au[07](Dandi Qiao) Statistical considerations for the analysis of massively parallel reporter assays data. KEY Qiao_2020
+
