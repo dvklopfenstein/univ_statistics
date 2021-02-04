@@ -33,8 +33,7 @@ kcobb@stanford.edu
 
 
 # Statistics links
-
+* [How to Compare Two Distributions in Practice](doc/ks/2019_0224_Kim/README.md)
 * [Seeing Theory](https://seeing-theory.brown.edu/#firstPage) and [GitHub](https://github.com/seeingtheory/Seeing-Theory)    
-* ["how to calculate p value for randomization
-  distribution"](https://www.bing.com/search?q=%22how+to+calculate+p+value+for+randomization+distribution%22&form=EDGNTT&qs=PF&cvid=5e5bfa96299a42ffa226e97b3cc6de5e&refig=dc021a2fee9b4cbc8915f85ab627e3be&cc=US&setlang=en-US&plvar=0)
+* ["how to calculate p value for randomization distribution"](https://www.bing.com/search?q=%22how+to+calculate+p+value+for+randomization+distribution%22&form=EDGNTT&qs=PF&cvid=5e5bfa96299a42ffa226e97b3cc6de5e&refig=dc021a2fee9b4cbc8915f85ab627e3be&cc=US&setlang=en-US&plvar=0)
 
