@@ -45,8 +45,8 @@ The following is a procedure to conduct the discrete KS test for two samples:
 * Find the min and max of the combined sample to define our range.
 * Bin the range such that there are at least 10 samples per bin: e.g. for a sample size of 500, we can expect 25 samples per bin by choosing 20 buckets.
 
+#### Stage 1: Binning the range
 ![images/choosing_bins.jpeg](images/choosing_bins.jpeg)
-Stage 1: Binning the range
 
 ### Stage 2: Counting the bin frequencies
 With the set of bins from Stage 1, use the ECDF formula from the previous section to compute the frequencies of all bins for each sample.
@@ -67,8 +67,8 @@ When we compare a sample with a theoretical distribution, we can use a Monte Car
 
 For instance, if we want to test whether a p-value distribution is uniformly distributed (i.e. p-value uniformity test) or not, we can simulate uniform random variables and compute the KS test statistic. By repeating this process 1000 times, we will have 1000 KS test statistics, which gives us the KS test statistic distribution below.
 
+#### The red line is the actual test statistic and the green line is the test statistic for 1000 random normal variables.
 ![images/KS_stat_dist.jpeg](images/KS_stat_dist.jpeg)
-The red line is the actual test statistic and the green line is the test statistic for 1000 random normal variables.
 
 By inserting the KS test statistic for the actual sample (i.e. the red line), we can see that the actual KS test statistic is contained inside the distribution. This means that there is no strong evidence against the null hypothesis that the p-value sample follows a uniform distribution.
 
@@ -80,8 +80,8 @@ In our earlier example with age and income distributions, we compared a sample d
 
 In this section, we will conduct a permutation test, which involves combining both samples to randomly create new sets of two samples. With each new set, we will compute the KS test statistic and combine all of them to generate the KS test statistic distribution.
 
+#### The red vertical line is the KS test statistic value of the two original samples.
 ![images/KS_stat_two_dists.jpeg](images/KS_stat_two_dists.jpeg)
-The red vertical line is the KS test statistic value of the two original samples.
 
 As expected, the KS test statistic for the actual income samples is far away from the distribution. This suggests we can reject the null hypothesis that states the income samples are identical (i.e. p-value is zero). In contrast, the KS test statistic of the actual age samples is located within its KS test statistic distribution. Hence, we cannot reject the null hypothesis that states the age samples are identical.
 
