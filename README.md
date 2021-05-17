@@ -6,6 +6,7 @@
 ## Links
 
 * John Hopkins
+* [Randy Neil, MD biostat questions](https://www.youtube.com/channel/UCjTHgZY7U6pajEz61sQCHBw)
 * Vy Vo Statistics
   * [Fundamentals in Statistics and Computaiton for Neuroscientists, Sprint 2016](https://www.youtube.com/playlist?list=PLgyBeNfcswrrZOcmhfchXymoGeMoEGUOX)   
 * [Theoretical and Computational Neuroscience 2](https://www.youtube.com/watch?v=n6q-okCCvcs)
