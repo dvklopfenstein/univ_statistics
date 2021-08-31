@@ -1,0 +1,131 @@
+TOP 34195571 R. .....  -1 i 2021     0  0  10 au[07](Omar Ahmed) Pan-genomic matching statistics for targeted nanopore sequencing.
+TOP 34149747 R. .A...  -1 i 2021     0  0  82 au[14](Lara Pereira) Natural Genetic Diversity in Tomato Flavor Genes.
+TOP 34109759 R. .AM..  -1 i 2021     0  0  41 au[15](Amanda M Hulse-Kemp) An anchored chromosome-scale genome assembly of spinach improves annotation and reveals extensive gene rearrangements in euasterids.
+TOP 33947700 R. .AM..  -1 i 2021     0  0 142 au[23](Bertrand Fouks) The genomic basis of evolutionary differentiation among honey bees.
+TOP 33930099 R. .AM..  -1 i 2021     1  0 124 au[14](Jay Vornhagen) A plasmid locus associated with Klebsiella clinical infections encodes a microbiome-dependent gut fitness factor.
+TOP 33811084 R. HA...  -1 i 2021     1  0  21 au[09](T Rhyker Ranallo-Benavidez) Optimized sample selection for cost-efficient long-read population sequencing.
+TOP 33749660 R. H.M..  -1 i 2021     3  0  47 au[22](Peter M Thielen) Genomic diversity of SARS-CoV-2 during early introduction into the Baltimore-Washington metropolitan area.
+TOP 33713372 R. HAM..  -1 i 2021     0  0  65 au[07](Zhuwei Xu) Cell wall protein variation, break-induced replication, and subtelomere dynamics in Candida glabrata.
+TOP 33587037 R. .AM..  -1 i 2021     0  0 100 au[13](Charlotte P Choi) SNPC-1.3 is a sex-specific transcription factor that drives male piRNA expression in <i>C. elegans</i>.
+TOP 33583104 R. H....  -1 i 2021     1  0  16 au[11](Alexander Ostrovsky) Using Galaxy to Perform Large-Scale Interactive Data Analyses-An Update.
+TOP 33567281 .. H.M..  -1 i 2021     0  0   0 au[20](Nuria Mencia-Trinchant) Clonal hematopoiesis before, during, and after human spaceflight.
+TOP 33522487 R. H.M..  -1 i 2021     2  0 130 au[13](Hsiang-Chen Chou) The human origin recognition complex is essential for pre-RC assembly, mitosis, and maintenance of nuclear structure.
+TOP 33347570 R. ..M..  -1 i 2020     4  0  24 au[10](Samantha Zarate) Parliament2: Accurate structural variant calling at scale.
+TOP 33284326 R. .A...  -1 i 2020     1  0  26 au[04](Aspyn Palatnick) iGenomics: Comprehensive DNA sequence analysis on your Smartphone.
+TOP 33257863 R. H.M..  -1 i 2021    17  0  46 au[05](Sam Kovaka) Targeted nanopore sequencing by real-time mapping of raw electrical signal with UNCALLED.
+TOP 33242405 R. H.M..  -1 i 2020     1  0  36 au[20](Nuria Mencia-Trinchant) Clonal Hematopoiesis Before, During, and After Human Spaceflight.
+TOP 33107913 R. H....  -1 i 2021     0  0  15 au[03](Melanie Kirsche) Sapling: accelerating suffix array queries with learned data models.
+TOP 32963235 RP H.M..  -1 i 2020     8  0  30 au[26](Chen-Shan Chin) A diploid assembly-based benchmark for variants in the major histocompatibility complex.
+TOP 32887686 RP H.M..  -1 i 2020     6  0  80 au[15](Sergey Aganezov) Comprehensive analysis of structural variants in breast cancer genomes using single-molecule sequencing.
+TOP 32817965 RP ..M..  -1 i 2020    11  0  40 au[22](Peter M Thielen) Genomic Diversity of SARS-CoV-2 During Early Introduction into the United States National Capital Region.
+TOP 32766814 R. .....  -1 i 2021     5  0  14 au[04](Maria Nattestad) Ribbon: intuitive visualization for complex genomic variation.
+TOP 32699374 .. .....  -1 i 2020     0  0   0 au[50](Justin M Zook) Author Correction: A robust benchmark for detection of germline large deletions and insertions.
+TOP 32553272 RP .A...  -1 i 2020    76  0  85 au[35](Michael Alonge) Major Impacts of Widespread Structural Variation on Gene Expression and Crop Improvement in Tomato.
+TOP 32541955 RP H....  -1 i 2020    36  0  47 au[50](Justin M Zook) A robust benchmark for detection of germline large deletions and insertions.
+TOP 32354350 .. .....  -1 i 2020     0  0  10 au[02](Anton Nekrutenko) In memory of James Taylor: the birth of Galaxy.
+TOP 32321164 R. .....  -1 i 2020     1  0  36 au[04](Charlotte A Darby) Vargas: heuristic-free alignment for assessing linear and graph read aligners.
+TOP 32296450 R. HA...  -1 i 2020     2  0  15 au[21](Liya Wang) Management, Analyses, and Distribution of the MaizeCODE Data on the Cloud.
+TOP 32188846 RP .A...  -1 i 2020    50  0  30 au[03](T Rhyker Ranallo-Benavidez) GenomeScope 2.0 and Smudgeplot for reference-free profiling of polyploid genomes.
+TOP 31856913 RP H....  78 2 2019    26  0  44 au[11](Sai Chen) Paragraph: a graph-based structural variant genotyper for short-read sequence data.
+TOP 31842730 RP H.M..  10 1 2019     3  0  24 au[05](Sergey Aganezov) Recovering rearranged cancer chromosomes from karyotype graphs.
+TOP 31782791 RP .AM..  79 2 2019    15  0  84 au[29](Glaucia Mendes Souza) Assembly of the 373k gene space of the polyploid sugarcane genome reveals reservoirs of functional diversity in the world's leading biomass crop.
+TOP 31661016 RP .A...  98 4 2019    82  0  54 au[08](Michael Alonge) RaGOO: fast and accurate reference-guided scaffolding of draft genomes.
+TOP 31570895 RP .A...  65 2 2019    12  0  52 au[45](Li-Yu Chen) The bracteatus pineapple genome and domestication of clonally propagated crops.
+TOP 31406327 RP H.M.c 100 4 2019   215  1  50 au[28](Aaron M Wenger) Accurate circular consensus long-read sequencing improves variant detection and assembly of a human genome.
+TOP 31292536 .P .A...   0 0 2019     0  0   0 au[09](Sebastian Soyk) Author Correction: Duplication of a domestication locus neutralized a cryptic variant that caused a breeding barrier in tomato.
+TOP 31271967 RP H....   4 1 2019     1  0  44 au[14](Charlotte A Darby) Samovar: Single-Sample Mosaic Single-Nucleotide Variant Calling with Linked Reads.
+TOP 31097038 RP H....  74 2 2019    18  0  31 au[06](Princy Parsana) Addressing confounding artifacts in reconstruction of gene co-expression networks.
+TOP 31068692 RP HAM..  62 2 2019    15  0  30 au[11](Hung-Ji Tsai) Hypo-osmotic-like stress underlies general cellular defects of aneuploidy.
+TOP 31061537 RP .A...  70 2 2019    17  0  58 au[09](Sebastian Soyk) Duplication of a domestication locus neutralized a cryptic variant that caused a breeding barrier in tomato.
+TOP 30872508 .P ..M..   0 0 2019     0  0  14 au[02](Michael Alonge) A master regulator of regeneration.
+TOP 30824707 RP H.M..  85 3 2019    29  0  23 au[04](Ruibang Luo) A multi-task convolutional deep neural network for variant calling in single molecule sequencing.
+TOP 30709357 .P H....  10 1 2019     2  0   1 au[02](Michael C Schatz) Graph genomes article collection.
+TOP 30528582 R. .A...  74 2 2018    19  0  36 au[21](Morgan Wirthlin) Parrot Genomes and the Evolution of Heightened Longevity and Cognition.
+TOP 30520198 RP .AM..  48 2 2019     7  0  97 au[06](Stefan Dennenmoser) Genome-wide patterns of transposon proliferation in an evolutionary young hybrid fish.
+TOP 30425353 .. .A...  13 1 2018     4  0   0 au[108](Jisen Zhang) Publisher Correction: Allele-defined genome of the autopolyploid sugarcane Saccharum spontaneum L.
+TOP 30373801 R. H.M..  80 2 2018    25  0  43 au[10](Pranita D Tamma) Applying Rapid Whole-Genome Sequencing To Predict Phenotypic Antimicrobial Susceptibility Testing Results among Carbapenem-Resistant Klebsiella pneumoniae Clinical Isolates.
+TOP 30297971 R. .AM..  98 4 2018   112  0  80 au[108](Jisen Zhang) Allele-defined genome of the autopolyploid sugarcane Saccharum spontaneum L.
+TOP 30147708 R. .A...  62 2 2018    11  0  52 au[12](Clement F Kent) Conservation Genomics of the Declining North American Bumblebee <i>Bombus terricola</i> Reveals Inbreeding and Selection on Immune Genes.
+TOP 29979655 R. H.... 100 4 2018   244  0  12 au[81](Adam P Arkin) KBase: The United States Department of Energy Systems Biology Knowledgebase.
+TOP 29954844 R. H.M..  81 2 2018    44  0  48 au[20](Maria Nattestad) Complex rearrangements and oncogene amplifications revealed by long-read DNA and RNA sequencing of a breast cancer cell line.
+TOP 29735690 R. H....  28 2 2018     9  0  34 au[09](Laura Gómez-Romero) Precise detection of de novo single nucleotide variants in human genomes.
+TOP 29713083 R. H.... 100 4 2018   340  0  44 au[07](Fritz J Sedlazeck) Accurate detection of complex structural variations using single-molecule sequencing.
+TOP 29648629 R. H.M..  80 2 2018    20  0  26 au[11](Patricia J Simner) Antibiotic pressure on the acquisition and loss of antibiotic resistance genes in Klebsiella pneumoniae.
+TOP 29599501 .. HAM..  98 4 2018   149  0 133 au[04](Fritz J Sedlazeck) Piercing the dark matter: bioinformatics of long-range sequencing and mapping.
+TOP 29423234 R. .AM..  89 3 2018    44  0  34 au[13](Amanda M Hulse-Kemp) Reference quality assembly of the 3.5-Gb genome of <i>Capsicum annuum</i> from a single linked-read library.
+TOP 29361467 R. HAM..  55 2 2018    19  0  80 au[06](Han Fang) Scikit-ribo Enables Accurate Estimation and Robust Modeling of Translation Dynamics at Codon Resolution.
+TOP 29213995 R. .....  33 2 2017    13  0  17 au[05](Ruibang Luo) LRSim: A Linked-Reads Simulator Generating Insights for Better Genome Partitioning.
+TOP 28814314 .. .....   6 1 2017     2  0   1 au[03](Richard J Roberts) Erratum to: The advantages of SMRT sequencing.
+TOP 28724409 R. .AM..  60 2 2017    22  0  52 au[19](Jason R Miller) Hybrid assembly with long and short reads improves discovery of gene family expansions.
+TOP 28637275 R. HA...  17 2 2017     7  0  12 au[03](Ruibang Luo) 16GT: a fast and sensitive variant caller using a 16-genotype probabilistic model.
+TOP 28481342 R. H....  63 2 2017    34  0  47 au[15](Michael E Feigin) Recurrent noncoding regulatory mutations in pancreatic ductal adenocarcinoma.
+TOP 28369201 R. .A... 100 4 2017   354  0  14 au[07](Gregory W Vurture) GenomeScope: fast reference-free genome profiling from short reads.
+TOP 28362434 .. ..M..  49 2 2017    19  0   9 au[01](Michael C Schatz) Nanopore sequencing meets epigenetics.
+TOP 28092266 R. H.M..  47 2 2017    19  0  70 au[17](Debjani Pal) TGF-β reduces DNA ds-break repair mechanisms to heighten genetic diversity and adaptability of CD44+/CD24- cancer cells.
+TOP 27935956 .. H....  48 2 2016    16  0   1 au[48](Shubha Vij) Correction: Chromosomal-Level Assembly of the Asian Seabass Genome Using Long Sequence Reads and Multi-layered Scaffolding.
+TOP 27854363 R. H...c  75 2 2016    49  1  49 au[19](Han Fang) Indel variant analysis of short-read sequencing data with Scalpel.
+TOP 27821409 R. .A...  56 2 2016    24  0  59 au[06](Zachary H Lemmon) The evolution of inflorescence diversity in the nightshades and heterochrony during meristem maturation.
+TOP 27749838 R. HA... 100 4 2016   628  0  38 au[17](Chen-Shan Chin) Phased diploid genome assembly with single-molecule real-time sequencing.
+TOP 27345719 R. .AM..  59 2 2016    26  0  60 au[08](Shruthi Sridhar Vembar) Complete telomere-to-telomere de novo assembly of the Plasmodium falciparum genome through long-read (&gt;11 kb), single molecule, real-time sequencing.
+TOP 27318204 R. H....  93 3 2016    97  0   4 au[02](Maria Nattestad) Assemblytics: a web analytics tool for the detection of variants from an assembly.
+TOP 27255838 R. .A...  97 3 2016   140  0  44 au[57](Aureliano Bombarely) Insight into the evolution of the Solanaceae from the parental genomes of Petunia hybrida.
+TOP 27082250 R. .A...  92 3 2016    72  0 124 au[48](Shubha Vij) Chromosomal-Level Assembly of the Asian Seabass Genome Using Long Sequence Reads and Multi-layered Scaffolding.
+TOP 26836631 R. HA...  78 2 2016    37  0  48 au[27](Jeffrey A Rosenfeld) Genome assembly and geospatial phylogenomics of the bed bug Cimex lectularius.
+TOP 26523774 R. .AM..  98 4 2015   179  0  59 au[70](Ray Ming) The pineapple genome and the evolution of CAM photosynthesis.
+TOP 26494581 R. .A...  32 2 2015    15  0  15 au[05](Moritz Smolka) Teaser: Individualized benchmarking and optimization of read mapping results for NGS data.
+TOP 26447147 R. .AM..  97 3 2015   185  0  19 au[06](Sara Goodwin) Oxford Nanopore sequencing, hybrid error correction, and de novo assembly of a eukaryotic genome.
+TOP 26430150 R. H....  35 2 2015    18  0  44 au[01](Michael C Schatz) Biological data sciences in genome research.
+TOP 26403281 R. H....  84 3 2015    62  0  20 au[02](Alejandro Hernandez Wences) Metassembler: merging and optimizing de novo genome assemblies.
+TOP 26344043 R. HAM..  84 3 2015    85  0  28 au[08](Tyler Garvin) Interactive analysis and assessment of single-cell copy-number variations.
+TOP 26323280 R. .AM..  33 2 2015    16  0  49 au[10](Xin Zhou) Dual functions of Macpiwi1 in transposon silencing and stem cell maintenance in the flatworm Macrostomum lignano.
+TOP 26151137 R. .....  99 4 2015   349  0  27 au[10](Zachary D Stephens) Big Data: Astronomical or Genomical?
+TOP 25743182 R. .A...  15 1 2015     5  0  49 au[13](Elisabeth MacColl) Molecular genetic diversity and characterization of conjugation genes in the fish parasite Ichthyophthirius multifiliis.
+TOP 25674564 .. H.M.c  51 2 2015    27  1  22 au[02](Giuseppe Narzisi) The challenge of small-scale repeats for indel discovery.
+TOP 25651527 R. H....  84 2 2015    76  0  20 au[14](Deanna M Church) Extending reference assembly models.
+TOP 25468217 R. .A...  94 3 2014   130  0  72 au[15](Michael C Schatz) Whole genome de novo assemblies of three  divergent strains of rice, Oryza sativa, document  novel gene space of aus and indica.
+TOP 25426171 R. H...c  86 3 2014    90  1  52 au[10](Han Fang) Reducing INDEL calling errors in whole genome and exome sequencing data.
+TOP 25398610 R. ..M..  60 2 2014    37  0  15 au[03](Shoshana Marcus) SplitMEM: a graphical algorithm for pan-genome analysis with suffix skips.
+TOP 25363768 R. H...c 100 4 2014  1154  8  50 au[47](Ivan Iossifov) The contribution of de novo coding mutations to autism spectrum disorder.
+TOP 25128977 R. H....  90 3 2014   122  0  31 au[10](Giuseppe Narzisi) Accurate de novo and transmitted indel detection in exome-capture data using microassembly.
+TOP 24920863 R. .....  33 2 2013    21  0   0 au[02](Michael C Schatz) The DNA Data Deluge: Fast, efficient genome sequencing machines are spewing out more data than geneticists can analyze.
+TOP 23870653 R. .A...  99 4 2013   353  0  59 au[91](Keith R Bradnam) Assemblathon 2: evaluating de novo methods of genome assembly in three vertebrate species.
+TOP 23822731 R. H.M..  98 4 2013   286  0  19 au[03](Richard J Roberts) The advantages of SMRT sequencing.
+TOP 23809492 R. H....   2 1 2013     1  0  20 au[03](Michael C Schatz) The DNA60IFX contest.
+TOP 23663246 R. .A...  96 3 2013   158  0  28 au[71](Ray Ming) Genome of the long-living sacred lotus (Nelumbo nucifera Gaertn.).
+TOP 23651518 .. H....   4 1 2013     3  0  51 au[13](W Ford Doolittle) Sixty years of genome biology.
+TOP 23479633 R. .A...  94 3 2013   136  0  34 au[15](Lyza G Maron) Aluminum tolerance in maize is associated with higher MATE1 gene copy number.
+TOP 23194371 R. .....  15 1 2012    10  0   1 au[01](Michael C Schatz) Computational thinking in the era of big data biology.
+TOP 22948728 R. .....  25 2 2012    15  0   8 au[03](James Gurtowski) Genotyping in the cloud with Crossbow.
+TOP 22750884 R. .AM.. 100 4 2012   580  0  50 au[11](Sergey Koren) Hybrid error correction and de novo assembly of single-molecule sequencing reads.
+TOP 22668792 R. HA...  72 2 2012    69  0  21 au[02](Hayan Lee) Genomic dark matter: the reliability of short read mapping illustrated by the genome mappability score.
+TOP 22546054 .. .AM..  85 3 2012    86  0  60 au[03](Michael C Schatz) Current challenges in de novo plant genome sequencing and assembly.
+TOP 22542183 R. H...c 100 4 2012   899  7  44 au[35](Ivan Iossifov) De novo gene disruptions in children on the autistic spectrum.
+TOP 23587178 .. ..M..  34 2 2012    23  0  12 au[02](Michael C Schatz) The rise of a digital immune system.
+TOP 22203998 R. .AM..  86 3 2012    98  0  19 au[04](Soon Ju Park) Rate of meristem maturation determines inflorescence architecture in tomato.
+TOP 22199379 R. HA...  59 2 2013    35  0  32 au[08](Michael C Schatz) Hawkeye and AMOS: visualizing and assessing the quality of genome assemblies.
+TOP 22147368 R. HA...  98 4 2012   343  0  24 au[13](Steven L Salzberg) GAGE: A critical evaluation of genome assemblies and assembly algorithms.
+TOP 22123943 R. .AM..  86 3 2011    83  0  50 au[12](Mohamed S Donia) Complex microbiome underlying secondary and primary metabolism in the tunicate-Prochloron symbiosis.
+TOP 21926179 R. .....  97 3 2011   278  0  69 au[71](Dent Earl) Assemblathon 1: a competitive assessment of de novo short read assembly methods.
+TOP 21784931 R. .AM..  91 3 2011   115  0  96 au[43](Adam J Bogdanove) Two new complete genome sequences offer insight into host and tissue specificity of plant pathogenic Xanthomonas spp.
+TOP 21114842 R. H.M..  98 4 2010   316  0  43 au[03](David R Kelley) Quake: quality-aware detection and correction of sequencing errors.
+TOP 20973996 R. .AM..  81 2 2010    71  0  40 au[11](Scott R Cornman) Genomic survey of the ectoparasitic mite Varroa destructor, a major pest of the honey bee Apis mellifera.
+TOP 20838655 R. .AM..  96 3 2010   255  0  97 au[71](Rami A Dalloul) Multi-platform next-generation sequencing of the domestic turkey (Meleagris gallopavo): genome assembly and analysis.
+TOP 20804568 R. .....   8 1 2010     7  0   9 au[01](Michael C Schatz) The missing graphical user interface for genomics.
+TOP 20622843 R. .....  83 2 2010   107  0   8 au[03](Michael C Schatz) Cloud computing and the DNA data race.
+TOP 20581189 R. ..M..  26 2 2010    16  0   9 au[06](Michael C Schatz) Integrated microbial survey analysis of prokaryotic communities for the PhyloChip microarray.
+TOP 20508146 R. H.M..  96 3 2010   237  0  36 au[03](Michael C Schatz) Assembly of large genomes using second-generation sequencing.
+TOP 20161021 R. ..M..  32 2 2009    23  0   8 au[02](Cole Trapnell) Optimizing Data Intensive GPGPU Computations for DNA Sequence Alignment.
+TOP 20064276 R. ..M..  70 2 2010    66  0  23 au[03](Carl Kingsford) Assembly complexity of prokaryotic genomes using short reads.
+TOP 19930550 R. H.M.c 100 4 2009  2655  6  19 au[05](Ben Langmead) Searching for SNPs with cloud computing.
+TOP 19503607 R. .AM..  90 3 2009   130  0  64 au[11](R Scott Cornman) Genomic analyses of the microsporidian Nosema ceranae, an emergent pathogen of honey bees.
+TOP 19393038 R. HAM.. 100 4 2009   717  0  19 au[15](Aleksey V Zimin) A whole-genome assembly of the domestic cow, Bos taurus.
+TOP 19357099 R. HA...  89 3 2009   160  0  14 au[01](Michael C Schatz) CloudBurst: highly sensitive read mapping with MapReduce.
+TOP 19183002 R. .....  29 2 2009    22  0  39 au[03](Saket Navlakha) Revealing biological modules via graph summarization.
+TOP 19116010 R. .AM..  70 2 2008    64  0  60 au[13](Christopher A Desjardins) Comparative genomics of mutualistic viruses of Glyptapanteles parasitic wasps.
+TOP 18452608 R. .AM..  96 3 2008   233  0  54 au[37](Steven L Salzberg) Genome sequence and rapid evolution of the rice pathogen Xanthomonas oryzae pv. oryzae PXO99A.
+TOP 18341692 R. .AM..  89 3 2008   154  0  38 au[03](Adam M Phillippy) Genome assembly forensics: finding the elusive mis-assembly.
+TOP 18070356 R. .AM..  66 2 2007    62  0  12 au[04](Michael C Schatz) High-throughput sequence alignment using Graphics Processing Units.
+TOP 17994087 R. .AM.c 100 4 2007  1385  1 135 au[417](Andrew G Clark) Evolution of genes and genomes on the Drosophila phylogeny.
+TOP 17594494 R. .AM..  40 2 2007    28  0  74 au[12](Christopher A Desjardins) Structure and evolution of a proviral locus of Glyptapanteles indiensis bracovirus.
+TOP 17349036 R. .....  55 2 2007    49  0  28 au[04](Michael C Schatz) Hawkeye: an interactive visual analytics tool for genome assemblies.
+TOP 15660156 R. .AM.c  98 4 2005   393  1  94 au[21](Derrick E Fouts) Major structural differences and novel potential virulence mechanisms from the genomes of multiple campylobacter species.

@@ -6,7 +6,7 @@ pubs:
 	git status
 
 git_add_hili:
-	#git add log/pmids/*.*
+	git add log/pmids/*.*
 	git add log/icite/*.*
 	git add log/exports/*.html
 	git add log/references/*.txt
