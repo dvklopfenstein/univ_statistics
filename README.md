@@ -6,6 +6,7 @@
 ## Links
 
 * John Hopkins
+  * [Michael Schatz Lab Biomedical Research class (analyze genomes)](https://github.com/schatzlab/biomedicalresearch2021)    
 * [Randy Neil, MD biostat questions](https://www.youtube.com/channel/UCjTHgZY7U6pajEz61sQCHBw)
 * Vy Vo Statistics
   * [Fundamentals in Statistics and Computaiton for Neuroscientists, Sprint 2016](https://www.youtube.com/playlist?list=PLgyBeNfcswrrZOcmhfchXymoGeMoEGUOX)   
