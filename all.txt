@@ -1,0 +1,9 @@
+TOP 23456667 .. H...c  94 3 2013    61 22   4 au[04](George Divine) Statistical grand rounds: a review of analysis and sample size calculation considerations for Wilcoxon tests. KEY Divine_2013
+TOP 21217686 .. .....  45 2 2011    28  0   1 au[17](Anil Potti) Retraction: Genomic signatures to guide the use of chemotherapeutics. KEY Potti_2011
+TOP 32681690 R. .....  -1 i 2020     0  0   0 au[07](Dandi Qiao) Statistical considerations for the analysis of massively parallel reporter assays data. KEY Qiao_2020
+TOP 27281180 .. .....  67 2 2016    14  0   3 au[06](Robert E Kass) Ten Simple Rules for Effective Statistical Practice. KEY Kass_2016
+TOP 16790829 R. H...c  99 4 2006   358 18   5 au[02](Miguel A Hernán) Estimating causal effects from epidemiological data. KEY Hernan_2006
+TOP 30157585 R. H...c  98 4 2018    88  2   6 au[02](Sangseok Lee) What is the proper way to apply the multiple comparison test? KEY Lee_2018
+TOP 29189214 RP H....  90 3 2018     7  0  15 au[02](Thomas R Vetter) Unadjusted Bivariate Two-Group Comparisons: When Simpler is Better. KEY Vetter_2018
+TOP 17057710 .. H.M.c  98 4 2006   344  9  23 au[17](Anil Potti) Genomic signatures to guide the use of chemotherapeutics. KEY Potti_2006
+TOP 17704528 R. H.M..  29 2 2008    23  0   0 au[03](Peter B Gilbert) The 2-sample problem for failure rates depending on a continuous mark: an application to vaccine efficacy. KEY Gilbert_2007

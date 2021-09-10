@@ -1,0 +1,101 @@
+TOP 30157585 R. H...c  98 4 2018    88  2   6 au[02](Sangseok Lee) What is the proper way to apply the multiple comparison test? KEY Lee_2018
+Cited by 2 Clinical papers:
+CLI 33522019 R. H..C.  -1 i 2021     0  0  25 au[07](Hala Salah El-Din El-Ozairy) Outcomes of combined use of topical and intravenous tranexamic acid on surgical field quality during functional endoscopic sinus surgery: Randomized controlled trial.
+CLI 32929107 R. H..C.  -1 i 2020     1  0  52 au[07](Athina Trakaki) Prolonged bedrest reduces plasma high-density lipoprotein levels linked to markedly suppressed cholesterol efflux capacity.
+44 of 88 citations downloaded:
+CIT 33982594 R. H....  -1 i 2021     3  0  21 au[07](Jonathon W Senefeld) Technological advances in elite marathon performance.
+CIT 33040757 R. H...c  -1 i 2021     2  1  44 au[11](Linda P Siziba) Changes in human milk fatty acid composition and maternal lifestyle-related factors over a decade: a comparison between the two Ulm Birth Cohort Studies.
+CIT 33283862 R. .AM..  -1 i 2021     2  0  81 au[08](Samuel J Bowers) Immunization with a heat-killed bacterium, Mycobacterium vaccae NCTC 11659, prevents the development of cortical hyperarousal and a PTSD-like sleep phenotype after sleep disruption and acute stress in mice.
+CIT 33601130 R. H.M..  -1 i 2021     2  0  79 au[08](Aleksandra Filippova) Neurothreads: Development of supportive carriers for mature dopaminergic neuron differentiation and implantation.
+CIT 33448504 R. H....  -1 i 2021     1  0  65 au[05](Carolina Barbosa) SF-6D utility scores for alcohol use disorder status and alcohol consumption risk levels in the US population.
+CIT 34145928 R. HAM..  -1 i 2021     1  0  42 au[07](Erik Nutma) Activated microglia do not increase 18 kDa translocator protein (TSPO) expression in the multiple sclerosis brain.
+CIT 33976841 R. HA...  -1 i 2021     1  0  42 au[10](Matthew J Birt) Isolated reefs support stable fish communities with high abundances of regionally fished species.
+CIT 33940725 R. .....  -1 i 2021     1  0  26 au[05](Mohammad Nayeb Yazdi) The effects of land use characteristics on urban stormwater quality and watershed pollutant loads.
+CIT 33916432 R. H....  -1 i 2021     1  0  23 au[07](Marco Caruso) Analysis of the Accuracy of Ten Algorithms for Orientation Estimation Using Inertial and Magnetic Sensing under Optimal Conditions: One Size Does Not Fit All.
+CIT 33058553 R. H....  -1 i 2021     1  0  19 au[10](Juan Yan) Bioequivalence and Evaluation Parameters Based on the Pharmacodynamics of Miglitol in Healthy Volunteers.
+CIT 33032667 R. HA...  -1 i 2021     1  0   7 au[05](Mark O Buchanan) Does a mobile dust-containment cart reduce the risk of healthcare-associated fungal infections during above-ceiling work?
+CIT 34276781 R. H.M..  -1 i 2021     0  0 147 au[02](Olga V Artemyeva-Isman) U5 snRNA Interactions With Exons Ensure Splicing Precision.
+CIT 33919639 R. H.M..  -1 i 2021     0  0 111 au[06](Yamil Liscano) In Silico Selection and Evaluation of Pugnins with Antibacterial and Anticancer Activity Using Skin Transcriptome of Treefrog (<i>Boana pugnax</i>).
+CIT 34063468 R. H....  -1 i 2021     0  0  97 au[14](Stefano Filippo Castiglia) Ability of a Set of Trunk Inertial Indexes of Gait to Identify Gait Instability and Recurrent Fallers in Parkinson's Disease.
+CIT 33986307 R. H....  -1 i 2021     0  0  95 au[04](J Soulard) Spatio-temporal gait parameters obtained from foot-worn inertial sensors are reliable in healthy adults in single- and dual-task conditions.
+CIT 33596223 R. H....  -1 i 2021     0  0  87 au[05](Arthur H Dewolf) Age-related changes in the neuromuscular control of forward and backward locomotion.
+CIT 34243795 .. H....  -1 i 2021     0  0  68 au[03](Mattia Zappalá) The relationship between thoracic kyphosis and age, and normative values across age groups: a systematic review of healthy adults.
+CIT 33987030 R. .A...  -1 i 2021     0  0  63 au[06](Chanita Sanyear) The hypoferremic response to acute inflammation is maintained in thalassemia mice even under parenteral iron loading.
+CIT 33918557 R. ..M..  -1 i 2021     0  0  59 au[05](Dovile Simkute) Internet Usage Habits and Experienced Levels of Psychopathology: A Pilot Study on Association with Spontaneous Eye Blinking Rate.
+CIT 33466668 R. ..M..  -1 i 2021     0  0  57 au[01](Michael O Eze) Metagenome Analysis of a Hydrocarbon-Degrading Bacterial Consortium Reveals the Specific Roles of BTEX Biodegraders.
+CIT 34200908 R. H....  -1 i 2021     0  0  54 au[10](Joris H J van Sadelhoff) Free and Total Amino Acids in Human Milk in Relation to Maternal and Infant Characteristics and Infant Health Outcomes: The Ulm SPATZ Health Study.
+CIT 33802111 R. H....  -1 i 2021     0  0  49 au[06](Tristan Martin) The Relationship between Fatigue and Actigraphy-Derived Sleep and Rest-Activity Patterns in Cancer Survivors.
+CIT 34220541 R. HA...  -1 i 2021     0  0  48 au[07](Haixin Hong) Selective β2-Adrenoceptor Blockade Rescues Mandibular Growth Retardation in Adolescent Rats Exposed to Chronic Intermittent Hypoxia.
+CIT 34020213 R. H.M..  -1 i 2021     0  0  48 au[16](Ahmed A Alrashed) Severity of COVID-19 infection in ACEI/ARB users in specialty hospitals: A retrospective cohort study.
+CIT 33494045 R. H.M..  -1 i 2021     0  0  47 au[05](Landon B Lempke) Single- Versus Dual-Task Functional Movement Paradigms: A Biomechanical Analysis.
+CIT 34262720 R. .AM..  -1 i 2021     0  0  45 au[04](Ahmed S Ahmed) Potential of rosmarinic acid to ameliorate toxic effects of diethyl methoxy thio‑phosphoryl thio‑succinate on albino wistar rats' lung, mast cell infiltration inhibitory pathway.
+CIT 33706500 R. .....  -1 i 2021     0  0  43 au[03](Jianxia Tan) The effect of population distribution measures on evaluating spatial accessibility of primary health-care institutions: A case study from China.
+CIT 34362456 R. H.M..  -1 i 2021     0  0  42 au[06](Mariarosaria Savarese) Psychological reaction to Covid-19 of Italian patients with IBD.
+CIT 33994365 R. ..M..  -1 i 2021     0  0  40 au[17](Nefeli Lagopati) Biological Effect of Silver-modified Nanostructured Titanium Dioxide in Cancer.
+CIT 33264581 R. .A...  -1 i 2021     0  0  35 au[06](Antigoni E Kaprana) Experimental study of potential adverse effects on the auditory system of rabbits exposed to short-term GSM-1800 radiation.
+CIT 33074842 R. H....  -1 i 2021     0  0  32 au[05](Staci M Shearin) Plantarflexor strength, gait speed, and step length change in individuals with Parkinson's disease.
+CIT 33347390 R. H....  -1 i 2021     0  0  31 au[03](Karly M Murphy) Consider the Source: Examining Attrition Rates, Response Rates, and Preliminary Effects of eHealth Mindfulness Messages and Delivery Framing in a Randomized Trial with Young Adult Cancer Survivors.
+CIT 33584779 R. HAM..  -1 i 2021     0  0  29 au[07](Lisa Mau) Wheat Can Access Phosphorus From Algal Biomass as Quickly and Continuously as From Mineral Fertilizer.
+CIT 33435951 R. .A...  -1 i 2021     0  0  29 au[05](Zhe Yi Chen) Proper positioning of mice for Cobb angle radiographic measurements.
+CIT 34034160 R. .AM..  -1 i 2021     0  0  28 au[06](S Papú) Physiological, biochemical, and anatomical responses of Araucaria araucana seedlings to controlled water restriction.
+CIT 34267301 R. H....  -1 i 2021     0  0  27 au[06](Seok Kyeong Oh) Comparison between the trapezius and adductor pollicis muscles as an acceleromyography monitoring site for moderate neuromuscular blockade during lumbar surgery.
+CIT 33822808 R. ..M..  -1 i 2021     0  0  26 au[06](Andrew Kanach) Evaluation of anhydrous processing and storage methods of the temperate bacteriophage ɸV10 for integration into foodborne pathogen detection methodologies.
+CIT 33522019 R. H..C.  -1 i 2021     0  0  25 au[07](Hala Salah El-Din El-Ozairy) Outcomes of combined use of topical and intravenous tranexamic acid on surgical field quality during functional endoscopic sinus surgery: Randomized controlled trial.
+CIT 33668650 R. .A...  -1 i 2021     0  0  23 au[06](Ioannis Spyroglou) Mixed Models as a Tool for Comparing Groups of Time Series in Plant Sciences.
+CIT 33467689 R. .AM..  -1 i 2021     0  0  22 au[03](Povilas Simonis) Electroporation Assisted Improvement of Freezing Tolerance in Yeast Cells.
+CIT 33100602 .. H....  -1 i 2021     0  0  11 au[02](Mohamed Hussein) Critical factors for successful implementation of just-in-time concept in modular integrated construction: A systematic review and meta-analysis.
+CIT 33431350 .. H....  -1 i 2021     0  0   6 au[02](Prateek Kumar Panda) Impact of drug-resistant epilepsy on sleep in children: How do they behave?
+CIT 34395862 .. H....  -1 i 2021     0  0   4 au[03](Jozef Kapusta) Using of n-grams from morphological tags for fake news classification.
+CIT 32055946 RP H....  -1 i 2020     8  0  29 au[07](Jung Hee Son) Assessment of liver fibrosis severity using computed tomography-based liver and spleen volumetric indices in patients with chronic liver disease.
+CIT 32774422 RP HA...  -1 i 2020     5  0  56 au[04](Nut Koonrungsesomboon) Clinical Efficacy and Safety of Yellow Oil Formulations 3 and 4 versus Indomethacin Solution in Patients with Symptomatic Osteoarthritis of the Knee: A Randomized Controlled Trial.
+CIT 32481758 RP HA...  -1 i 2020     5  0  48 au[06](Ilaria Marchioni) Bioactive Compounds and Aroma Profile of Some Lamiaceae Edible Flowers.
+CIT 31769222 R. .AM..  -1 i 2020     4  0 120 au[06](Jorge A Avila) PACAP27 mitigates an age-dependent hippocampal vulnerability to PGJ2-induced spatial learning deficits and neuroinflammation in mice.
+CIT 31738648 R. H....  -1 i 2020     4  0  62 au[07](Rafael Ribeiro-Santos) The association of cognitive performance and IL-6 levels in schizophrenia is influenced by age and antipsychotic treatment.
+CIT 31816396 R. H.M..  -1 i 2020     3  0  70 au[04](Sydney P Thomas) A practical guide for analysis of histone post-translational modifications by mass spectrometry: Best practices and pitfalls.
+CIT 32860831 R. HA...  -1 i 2020     3  0  48 au[03](Olivier Taboureau) Integrative systems toxicology to predict human biological systems affected by exposure to environmental chemicals.
+CIT 32784537 R. H....  -1 i 2020     3  0  45 au[04](Maya K Vadiveloo) Sociodemographic Differences in the Dietary Quality of Food-at-Home Acquisitions and Purchases among Participants in the U.S. Nationally Representative Food Acquisition and Purchase Survey (FoodAPS).
+CIT 32428784 R. H....  -1 i 2020     3  0  31 au[05](Alicia Hughes) Cancer-related fatigue and functional impairment - Towards an understanding of cognitive and behavioural factors.
+CIT 32363996 R. H....  -1 i 2020     3  0  17 au[05](Miguel Barbosa) Emerging patterns of infant regulatory behavior in the Still-Face paradigm at 3 and 9 months predict mother-infant attachment at 12 months.
+CIT 33342446 R. .....  -1 i 2020     2  0  74 au[11](Caitlin O B Yolland) The Relationship between Negative Symptoms and Both Emotion Management and Non-social Cognition in Schizophrenia Spectrum Disorders.
+CIT 31868116 R. HA...  -1 i 2020     2  0  63 au[10](Agnieszka Małgorzata Pudlarz) The effect of immobilized antioxidant enzymes on the oxidative stress in UV-irradiated rat skin.
+CIT 31887585 R. .A...  -1 i 2020     2  0  44 au[02](Simon Schmid) 17β-Estradiol and the glucocorticoid clobetasol propionate affect the blood coagulation cascade in zebrafish.
+CIT 32467869 R. .....  -1 i 2020     2  0  20 au[02](Paraskevi Tsiamalou) Biostatistics as a Tool for Medical Research: What are we Doing Wrong?
+CIT 33149600 .. .....  -1 i 2020     1  0 163 au[01](Luca Aquili) The Role of Tryptophan and Tyrosine in Executive Function and Reward Processing.
+CIT 33352813 R. HAM..  -1 i 2020     1  0  61 au[08](Efstathios S Giotis) Modulation of Early Host Innate Immune Response by an Avipox Vaccine Virus' Lateral Body Protein.
+CIT 33103552 R. .AM..  -1 i 2020     1  0  61 au[07](Simona Porru) Effects of caffeine on ethanol-elicited place preference, place aversion and ERK phosphorylation in CD-1 mice.
+CIT 32929107 R. H..C.  -1 i 2020     1  0  52 au[07](Athina Trakaki) Prolonged bedrest reduces plasma high-density lipoprotein levels linked to markedly suppressed cholesterol efflux capacity.
+CIT 32928299 R. .AM..  -1 i 2020     1  0  48 au[05](Eman Y Gohar) Role for ovarian hormones in purinoceptor-dependent natriuresis.
+CIT 32492035 R. H....  -1 i 2020     1  0  26 au[07](Clarice R Perryman) Heavy metals in the Arctic: Distribution and enrichment of five metals in Alaskan soils.
+CIT 33054770 R. H.M..  -1 i 2020     0  0  96 au[06](Juan Manuel Iglesias-Pedraz) WRN modulates translation by influencing nuclear mRNA export in HeLa cancer cells.
+CIT 33155539 R. H....  -1 i 2020     0  0  76 au[05](Laura Foucault-Fruchard) Compared benefits of educational programs dedicated to diabetic patients with or without community pharmacist involvement.
+CIT 33064803 R. H....  -1 i 2020     0  0  60 au[07](Wong Mark Lawrence) The protective effect of daytime sleep on planning and risk-related decision-making in emerging adults.
+CIT 33194941 R. H....  -1 i 2020     0  0  48 au[05](Gabriela Kernan) A Corporate Wellness Program and Nursing Home Employees' Health.
+CIT 33329654 R. .A...  -1 i 2020     0  0  41 au[07](Ilaria Marchioni) Phytonutritional Content and Aroma Profile Changes During Postharvest Storage of Edible Flowers.
+CIT 33061519 R. H....  -1 i 2020     0  0  39 au[03](Alassan Kouamé Mahassadi) The Impact of Virologic Parameters and Liver Fibrosis on Health-Related Quality of Life in Black African Patients with Chronic Hepatitis B: Results from a High Endemic Area.
+CIT 32641239 R. H....  -1 i 2020     0  0  39 au[03](Laurence Bernard) Bowel resection or repair at the time of cytoreductive surgery for ovarian malignancy is associated with increased complication rate: An ACS-NSQIP study.
+CIT 33120364 R. H....  -1 i 2020     0  0  28 au[06](Jinhui Li) Exergaming as a Community Program for Older Adults: The Effects of Social Interaction and Competitive Information.
+CIT 32474624 R. H....  -1 i 2020     0  0  28 au[06](Michael D Watson) Effect of Surgical Approach on Node Harvest in Gastrectomy: Analysis of the National Cancer Database.
+CIT 32532066 R. H....  -1 i 2020     0  0  18 au[08](Linda P Siziba) Human Milk Fatty Acid Composition of Allergic and Non-Allergic Mothers: The Ulm SPATZ Health Study.
+CIT 32316693 R. .....  -1 i 2020     0  0  18 au[06](Li Zhou) Characteristics, Cause, and Severity Analysis for Hazmat Transportation Risk Management.
+CIT 32870084 R. H....  -1 i 2020     0  0   6 au[05](Melanie E Peffer) Learning Analytics to Assess Beliefs about Science: Evolution of Expertise as Seen through Biological Inquiry.
+CIT 31084359 RP H....  85 3 2019     4  0  28 au[04](Boquan Liu) Quantification of Voice Type Components Present in Human Phonation Using a Modified Diffusive Chaos Technique.
+CIT 31621677 RP H...c  83 3 2019    15  1   6 au[05](Prabhaker Mishra) Application of student's <i>t</i>-test, analysis of variance, and covariance.
+CIT 31763990 RP H....  82 3 2019    10  0  30 au[06](Gwendolyn Mayer) Acceptance and Expectations of Medical Experts, Students, and Patients Toward Electronic Mental Health Apps: Cross-Sectional Quantitative and Qualitative Survey Study.
+CIT 31120515 RP H....  66 2 2019     4  0  17 au[07](Shekhar K Gadkaree) Health Utility Values as an Outcome Measure in Patients Undergoing Functional Septorhinoplasty.
+CIT 31398433 RP H...c  63 2 2019     7  1  46 au[07](Elene Iordanishvili) Quantitative MRI of cerebral white matter hyperintensities: A new approach towards understanding the underlying pathology.
+CIT 31031612 RP .....  62 2 2019     7  0  39 au[11](Nicola Cellini) Short Duration Repetitive Transcranial Electrical Stimulation During Sleep Enhances Declarative Memory of Facts.
+CIT 31090982 RP ..M..  33 2 2019     5  0  69 au[02](Stephen E Noell) SAR11 bacteria have a high affinity and multifunctional glycine betaine transporter.
+CIT 31510019 RP H.M..  33 2 2019     4  0  70 au[04](Colleen J Lawrimore) Ethanol Induction of Innate Immune Signals Across BV2 Microglia and SH-SY5Y Neuroblastoma Involves Induction of IL-4 and IL-13.
+CIT 31600312 RP H....  25 2 2019     3  0  44 au[15](Felipe Kenji Sudo) Inter-method and anatomical correlates of episodic memory tests in the Alzheimer's Disease spectrum.
+CIT 31450836 RP .AM..  24 2 2019     1  0  38 au[10](Xiaoling Zhou) Sweet Corn Stalk Treated with <i>Saccharomyces Cerevisiae</i> Alone or in Combination with <i>Lactobacillus Plantarum</i>: Nutritional Composition, Fermentation Traits and Aerobic Stability.
+CIT 31681162 RP H....  22 2 2019     2  0  25 au[04](Igor Petrusic) Application of the Migraine Aura Complexity Score (MACS): Clinical and Neuroimaging Study.
+CIT 31215803 RP HAM..  17 2 2019     2  0  50 au[05](Serkan Karakus) Urinary dysfunction in transgenic sickle cell mice: model of idiopathic overactive bladder syndrome.
+CIT 30476886 RP H....   8 1 2019     1  0  21 au[01](Paula Midori Castelo) Improving the quality of data presentation in health sciences.
+6 of 6 References downloaded:
+REF 28740688 .. H...c  99 4 2017   124 10   4 au[03](Shi-Yi Chen) A general introduction to adjustment for multiple comparisons.
+REF 27924194 .. H...c  98 4 2016    89  9  12 au[01](Dong Kyu Lee) Alternatives to P value: confidence interval and effect size.
+REF 24697967 .. H...c 100 4 2014   641 60  58 au[01](Richard A Armstrong) When to use the Bonferroni correction.
+REF 21729890 .. H...c  98 4 2011   240 34   5 au[02](David L Streiner) Correction for multiple testing: is there a resolution?
+REF 28184262 .. .....  79 3 2017    20  0   4 au[01](Tae Kyun Kim) Understanding one-way ANOVA using conceptual figures.
+REF 27274365 .. H....  32 2 2016     6  0  16 au[01](Sangseok Lee) Avoiding negative reviewer comments: common statistical errors in anesthesia journals.
+

@@ -1,0 +1,68 @@
+
+PMID- 30157585
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20201204
+IS  - 2005-6419 (Print)
+IS  - 2005-6419 (Linking)
+VI  - 71
+IP  - 5
+DP  - 2018 Oct
+TI  - What is the proper way to apply the multiple comparison test?
+PG  - 353-360
+LID - 10.4097/kja.d.18.00242 [doi]
+AB  - Multiple comparisons tests (MCTs) are performed several times on the mean of
+      experimental conditions. When the null hypothesis is rejected in a validation,
+      MCTs are performed when certain experimental conditions have a statistically
+      significant mean difference or there is a specific aspect between the group
+      means. A problem occurs if the error rate increases while multiple hypothesis
+      tests are performed simultaneously. Consequently, in an MCT, it is necessary to
+      control the error rate to an appropriate level. In this paper, we discuss how to 
+      test multiple hypotheses simultaneously while limiting type I error rate, which
+      is caused by alpha inflation. To choose the appropriate test, we must maintain
+      the balance between statistical power and type I error rate. If the test is too
+      conservative, a type I error is not likely to occur. However, concurrently, the
+      test may have insufficient power resulted in increased probability of type II
+      error occurrence. Most researchers may hope to find the best way of adjusting the
+      type I error rate to discriminate the real differences between observed data
+      without wasting too much statistical power. It is expected that this paper will
+      help researchers understand the differences between MCTs and apply them
+      appropriately.
+FAU - Lee, Sangseok
+AU  - Lee S
+AD  - Department of Anesthesiology and Pain Medicine, Sanggye Paik Hospital, Inje
+      University College of Medicine, Seoul, Korea.
+FAU - Lee, Dong Kyu
+AU  - Lee DK
+AD  - Department of Anesthesiology and Pain Medicine, Guro Hospital, Korea University
+      School of Medicine, Seoul, Korea.
+LA  - eng
+PT  - Journal Article
+DEP - 20180828
+PL  - Korea (South)
+TA  - Korean J Anesthesiol
+JT  - Korean journal of anesthesiology
+JID - 101502451
+EIN - Korean J Anesthesiol. 2020 Dec;73(6):572. PMID: 33271011
+PMC - PMC6193594
+OTO - NOTNLM
+OT  - Alpha inflation
+OT  - Analysis of variance
+OT  - Bonferroni
+OT  - Dunnett
+OT  - Multiple comparison
+OT  - Scheffe
+OT  - Statistics
+EDAT- 2018/08/31 06:00
+MHDA- 2018/08/31 06:01
+CRDT- 2018/08/30 06:00
+PHST- 2018/08/19 00:00 [received]
+PHST- 2018/08/27 00:00 [accepted]
+PHST- 2018/08/31 06:00 [pubmed]
+PHST- 2018/08/31 06:01 [medline]
+PHST- 2018/08/30 06:00 [entrez]
+AID - kja.d.18.00242 [pii]
+AID - 10.4097/kja.d.18.00242 [doi]
+PST - ppublish
+SO  - Korean J Anesthesiol. 2018 Oct;71(5):353-360. doi: 10.4097/kja.d.18.00242. Epub
+      2018 Aug 28.

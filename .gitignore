@@ -1,6 +1,7 @@
 # Project
 /icite
 url
+url.bib_bac
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
