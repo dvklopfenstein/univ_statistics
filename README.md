@@ -13,9 +13,18 @@
 * [Theoretical and Computational Neuroscience 2](https://www.youtube.com/watch?v=n6q-okCCvcs)
 
 ## John Hopkins
-A [**Flowchart**](doc/README_flowchart.md) to aid in choosing correct statistical procedure
+John McGreedy's [YouTube](https://www.youtube.com/@StatReasoningJHSPH/videos) [**Flowchart**](doc/README_flowchart.md) to aid in choosing correct statistical procedure
 
-### [Statistical Reasoning I by John McGready at Johns Hopkins University ](http://ocw.jhsph.edu/index.cfm/go/viewCourse/course/StatisticalReasoning1/coursePage/index/)
+### Coursera Statistical Reasoning I
+Visit the course "landing page" (not the 4-class specialization landing page) and learn for free by auditing
+* [Summary Statistics in Public Health](https://www.coursera.org/learn/summary-statistics)
+* [Hypothesis Testing in Public Health](https://www.coursera.org/learn/hypothesis-testing-public-health)
+* [Simple Regression Analysis in Public Health](https://www.coursera.org/learn/simple-regression-analysis-public-health)
+* [Multiple Regression Analysis in Public Health](https://www.coursera.org/learn/multiple-regression-analysis-public-health)
+
+### [Statistical Reasoning I](http://ocw.jhsph.edu/index.cfm/go/viewCourse/course/StatisticalReasoning1/coursePage/index/) by [John McGready](https://www.biostat.jhsph.edu/~jmcgread/) at Johns Hopkins University
+Also available for free at https://www.coursera.org/jhu if signed up to audit    
+* https://www.jhsph.edu/courses/course/31802/2021/140.611.81/statistical-reasoning-in-public-health-i
 
 * Module 1: Describing Data and [problem sets](/doc/mcgready/README_practice.md)
 * Module 2: Confidence Intervals    
